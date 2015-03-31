@@ -2,8 +2,8 @@ PA-40 G-L
 |Name of taxpayer claiming the credit| %s
 
 Part I - Calculation of Credit for Taxes Paid to Other States
-| >>  | Columns                                                                                                        | A  | B           | C                        |
-|-----+----------------------------------------------------------------------------------------------------------------+----+-------------+--------------------------|
+| >>    | Columns                                                                                                        | A  | B           | C                        |
+|-------+----------------------------------------------------------------------------------------------------------------+----+-------------+--------------------------|
 | I.1.  | Name of other state                                                                                            | %s |             |                          |
 | I.2.  | Class of income subject to tax in the other state                                                              | PA | other state |                          |
 | I.2a. | Compensation                                                                                                   | %d | %d          |                          |
@@ -16,12 +16,12 @@ Part I - Calculation of Credit for Taxes Paid to Other States
 | I.2h. | Income or Loss from rents, royalties, patents and copyrights                                                   | %d | %d          | \=min(${C}, ${D})        |
 | I.2i. | Estate or trust income                                                                                         | %d | %d          | \=min(${C}, ${D})        |
 | I.2j. | Gambling and lottery winnings                                                                                  | %d | %d          | \=min(${C}, ${D})        |
-|-----+----------------------------------------------------------------------------------------------------------------+----+-------------+--------------------------|
-| I.3.  | Income subject to tax in the other state - Add Lines 2c thru 2j for Column C. Enter the result here.           |    |             | \=sum(${2cD}..${2jD})    |
+|-------+----------------------------------------------------------------------------------------------------------------+----+-------------+--------------------------|
+| I.3.  | Income subject to tax in the other state - Add Lines 2c thru 2j for Column C. Enter the result here.           |    |             | \=sum(${2cE}..${2jE})    |
 | I.4a. | a. Tax due or assessed in the other state                                                                      |    |             | %d                       |
 | I.4b. | Tax paid in the other state                                                                                    |    |             | %d                       |
 | I.4c. | Enter the lesser of Line 4a or Line 4b                                                                         |    |             | \=min(${4a},${4b})       |
-| I.4d. | Less: adjustments - Enter the amount from Part III, Line 5.                                                    |    |             | \=${III.5}
+| I.4d. | Less: adjustments - Enter the amount from Part III, Line 5.                                                    |    |             | \=${III.5}               |
 | I.4e. | Adjusted tax paid in the other state - Subtract Line 4d from Line 4c. Enter the result here.                   |    |             | \=${4d} - ${4c}          |
 | I.5.  | Line 3 x 3.07 percent (0.0307)                                                                                 |    |             | \=round(${3} * 0.0307;2) |
 | I.6.  | PA Resident Credit. Enter the lesser of Line 4e or Line 5 here and on the appropriate form (see instructions). |    |             | \=min(${4e},${5})        |
@@ -43,9 +43,9 @@ Part II - Worksheet for Sources and Amounts of Income Subject to Tax in the Othe
 
 Part III - Worksheet for Adjusted Tax Paid in the Other State
 
-| III.1. | Enter the amount from Part I, Column C, Line 3 here.                                                                     | ${I.3C}                  |
-| III.2. | Add the amounts from Part I, Column B, Lines 2c through 2j. Enter the result here.                                       | \=sum(${I.2cB}..${I.2jB} |
-| III.3. | Divide the amount from Part III, Line 1 by Part III, Line 2. Enter the result here (calculate to six decimal places). .  | \=round($1/$2;6)         |
+| III.1. | Enter the amount from Part I, Column C, Line 3 here.                                                                     | ${I.3E}                  |
+| III.2. | Add the amounts from Part I, Column B, Lines 2c through 2j. Enter the result here.                                       | \=sum(${I.2cD}..${I.2jD} |
+| III.3. | Divide the amount from Part III, Line 1 by Part III, Line 2. Enter the result here (calculate to six decimal places).    | \=round($1/$2;6)         |
 |        | If the amount on Part III, Line 3 equals 1.000000, you may stop here and enter "0" on Part I, Line 4d.                   |                          |
 | III.4. | If the amount on Part III, Line 3 is less than 1.000000, subtract the decimal from 1.000000.                             | \=1 - $3                 |
 | III.5. | Multiply the decimal on Part III, Line 4 by the amount on Part I, Line 4c. Enter the result here and on Part I, Line 4d. | \=round($4 * ${I.4c};2)  |
