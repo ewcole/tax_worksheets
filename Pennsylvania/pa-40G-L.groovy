@@ -27,7 +27,7 @@ output.withWriter {
       'xmlns:ss': "urn:schemas-microsoft-com:office:spreadsheet"
     ) {
       Worksheet('ss:Name': "PA-40 G-L") {
-         Styles {
+        /* Styles {
           Style('ss:ID': "Default", 'ss:Name': "Normal") 
           Style('ss:ID': "sLineNumber", 'ss:Name': "LineNumber") {
             Font('ss:Bold': 1)
@@ -57,47 +57,48 @@ output.withWriter {
           Style('ss:ID': "LineText", 'ss:Name': "Normal") {
 
           } 
-         }
+          } */
         Table {
-          input.eachLine {
-            line ->
-             Row {
+          input.readLines().eachWithIndex {
+            line, r  ->
+              Row {
                 if (line =~ /^\|/) {
                   def fields = line.split(/ *\| */)
-                  if (fields.size() > 2) {
-                    def lineNum = ""
+                  def lineNum = ""
+                  if (fields.size() >= 2) {
                     (fields[1] =~ /^(I+\.\d+[a-z]*)\.$/).each {
                       lineNum = it[1] as String
                     }
-                    Cell {
-                      Data('ss:Type': "String", 
-                           'ss:StyleID': 'sLineNumber', 
-                           "${fields[1]}")
-                    }
-                    fields[2..-1].each {
-                      txt ->
-                        Cell {
-                          if (txt == "%d") {
-                            Data('ss:Type': "Number", 0)
-                          }
-                          else {
-                            Data('ss:Type': "String", "$txt")
-                          }
                   }
-                    }
+                  // Cell {
+                  //   Data('ss:Type': "String", 
+                  //        //'ss:StyleID': 'sLineNumber', 
+                  //        "${fields[1]}")
+                  // }
+                  fields[1..-1].eachWithIndex {
+                    txt, c ->
+                      Cell {
+                        if (txt =~ /^%(\.[0-9]*)?d$/) {
+                          Data('ss:Type': "Number", 0)
+                        }
+                        else {
+                          Data('ss:Type': "String", "$txt")
+                        }
+                      }
+                  }
                 } else {
-                    def opts = [:]
-                    if (line.size() > 3) {
-                      opts.'ss:MergeAcross' = 3
-                    }
-                    Cell(opts) { 
-                      Data('ss:Type': "String", "$line")
-                    }
+                  def opts = [:]
+                  if (line.size() > 3) {
+                    opts.'ss:MergeAcross' = 3
+                  }
+                  Cell(opts) { 
+                    Data('ss:Type': "String", "$line")
                   }
                 }
-             }
+              } 
           }
         }
       }
     }
 }
+
