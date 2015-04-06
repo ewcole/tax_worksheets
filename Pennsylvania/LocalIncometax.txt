@@ -1,34 +1,34 @@
-1. Gross Compensation as Reported on W-2(s). (Enclose W-2(s)) .........................
-2. Unreimbursed Employee Business Expenses. (Enclose PA Schedule UE) ...........
-3. Other Taxable Earned Income * ..........................................................................
-4. Total Taxable Earned Income (Subtract Line 2 from Line 1 and add Line 3)....
-5. Net Profit (Enclose PA Schedules*) ......................................................................
-6. Net Loss (Enclose PA Schedules*) ........................................................................
-7. Total Taxable Net Profit (Subtract Line 6 from Line 5. If less than zero, enter zero)......
-8. Total Taxable Earned Income and Net Profit (Add Lines 4 and 7) .........................
-9. Total Tax Liability (Line 8 multiplied by )..........................
-10. Total Local Earned Income Tax Withheld (MAY NOT EQUAL W-2 - SEE INSTRUCTIONS)*
-11.Quarterly Estimated Payments/Credit From Previous Tax Year.........................
-12. Out of State or Philadelphia credits* (include supporting documentation).....
-13. TOTAL PAYMENTS and CREDITS (Add lines 10 through 12) .....................
-14. Refund IF MORE THAN $1.00, enter amount (or select option in 15) ....................
-15. Credit Taxpayer/Spouse (Amount of Line 14 you want as a credit to your account).........
-16. EARNED INCOME TAX BALANCE DUE (Line 9 minus Line 13) ....................
-17. Penalty after April 15* (Multiply line 16 by 0.01 x number of months late-or a fraction of)..
-18. Interest after April 15* Multiply line 16 by 0.00246 x number of months late-or a fraction of)
-19. TOTAL PAYMENT DUE (Add Lines 16, 17, and 18) Payable to HAB-EIT .........
+|  1. | Gross Compensation as Reported on W-2(s). (Enclose W-2(s))                                     |   |
+|  2. | Unreimbursed Employee Business Expenses. (Enclose PA Schedule UE)                              |   |
+|  3. | Other Taxable Earned Income *                                                                  |   |
+|  4. | Total Taxable Earned Income (Subtract Line 2 from Line 1 and add Line 3)                       |   |
+|  5. | Net Profit (Enclose PA Schedules*)                                                             |   |
+|  6. | Net Loss (Enclose PA Schedules*)                                                               |   |
+|  7. | Total Taxable Net Profit (Subtract Line 6 from Line 5. If less than zero, enter zero)          |   |
+|  8. | Total Taxable Earned Income and Net Profit (Add Lines 4 and 7)                                 |   |
+|  9. | Total Tax Liability (Line 8 multiplied by )                                                    |   |
+| 10. | Total Local Earned Income Tax Withheld (MAY NOT EQUAL W-2 - SEE INSTRUCTIONS)*                 |   |
+| 11. | Quarterly Estimated Payments/Credit From Previous Tax Year                                     |   |
+| 12. | Out of State or Philadelphia credits* (include supporting documentation)                       |   |
+| 13. | TOTAL PAYMENTS and CREDITS (Add lines 10 through 12)                                           |   |
+| 14. | Refund IF MORE THAN $1.00, enter amount (or select option in 15)                               |   |
+| 15. | Credit Taxpayer/Spouse (Amount of Line 14 you want as a credit to your account)                |   |
+| 16. | EARNED INCOME TAX BALANCE DUE (Line 9 minus Line 13)                                           |   |
+| 17. | Penalty after April 15* (Multiply line 16 by 0.01 x number of months late-or a fraction of)    |   |
+| 18. | Interest after April 15* Multiply line 16 by 0.00246 x number of months late-or a fraction of) |   |
+| 19. | TOTAL PAYMENT DUE (Add Lines 16, 17, and 18) Payable to HAB-EIT                                |   |
 
 
-(See Instructions line 12) NON-RECIPROCAL STATE WORKSHEET
-EARNED INCOME: Taxed in other state as shown on the state tax return.
-Enclose a copy of state return or credit will be disallowed .......................................................................................................... (1)______________________
-Local tax 1% or Act 511 portion of rate ...... .................................................................................................................................... X ______________________
-(2)______________________
-Tax Liability Paid to other state(s) .................................................................................................... (3) ____________________
-PA Income Tax (line 1 x PA Income Tax rate for year being reported) ............................................ (4) ____________________
-CREDIT to be used against Local Tax
-(Line 3 minus line 4) On line 12 enter this amount
-or the amount on line 2 of worksheet, whichever is less. (If less than zero, enter zero).................................... (5) ____________________
+NON-RECIPROCAL STATE WORKSHEET (See Instructions line 12)
+| NR1 | EARNED INCOME: Taxed in other state as shown on the state tax return.  Enclose a copy of state return or credit will be disallowed |   |
+|     | Local tax 1% or Act 511 portion of rate                                                                                            |   |
+| NR2 |                                                                                                                                    |   |
+| NR3 | Tax Liability Paid to other state(s)                                                                                               |   |
+| NR4 | PA Income Tax (line 1 x PA Income Tax rate for year being reported)                                                                |   |
+| NR5 | CREDIT to be used against Local Tax (Line 3 minus line 4)                                                                          |   |
+
+
+On line 12 enter this amount or the amount on line 2 of worksheet, whichever is less. (If less than zero, enter zero)
 
 
 
