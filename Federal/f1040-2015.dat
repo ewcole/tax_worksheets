@@ -1,68 +1,19 @@
-Form
-1040
-Department of the Treasury—Internal Revenue Service
-(99)
-U.S. Individual Income Tax Return
-2015
-OMB No. 1545-0074
-IRS Use Only—Do not write or staple in this space.
-For the year Jan. 1–Dec. 31, 2015, or other tax year beginning
-, 2015, ending
-, 20
-See separate instructions.
-Your first name and initial
-Last name
-Your social security number
-If a joint return, spouse’s first name and initial
-Last name
-Spouse’s social security number
-▲
-Make sure the SSN(s) above and on line 6c are correct.
-Home address (number and street). If you have a P.O. box, see instructions.
-Apt. no.
-City, town or post office, state, and ZIP code. If you have a foreign address, also complete spaces below (see instructions).
-Foreign country name
-Foreign province/state/county
-Foreign postal code
-Presidential Election Campaign
-Check here if you, or your spouse if filing jointly, want $3 to go to this fund. Checking a box below will not change your tax or refund.
-You
-Spouse
-Filing Status
-Check only one box.
-1
-Single
-2
-Married filing jointly (even if only one had income)
-3
-Married filing separately. Enter spouse’s SSN above and full name here. ▶
-4
-Head of household (with qualifying person). (See instructions.) If the qualifying person is a child but not your dependent, enter this child’s name here. ▶
-5
-Qualifying widow(er) with dependent child
-Exemptions
+Form 1040               Department of the Treasury--Internal Revenue Service      2015
+
 6
 a
 Yourself. If someone can claim you as a dependent, do not check box 6a .....
+6a
 b
-Spouse ........................
-}
+Spouse
+6b
 c
-Dependents: (1) First name Last name
-(2) Dependent’s social security number
-(3) Dependent’s relationship to you
-(4) ✓ if child under age 17 qualifying for child tax credit (see instructions)
-If more than four dependents, see instructions and check here ▶
+ Number of dependents
+6c
 d
-Total number of exemptions claimed .................
-Boxes checked on 6a and 6b
-No. of children on 6c who: • lived with you
-• did not live with you due to divorce or separation (see instructions)
-Dependents on 6c not entered above
-Add numbers on lines above ▶
+Total number of exemptions claimed
+6d
 Income
-Attach Form(s) W-2 here. Also attach Forms W-2G and 1099-R if tax was withheld.
-If you did not get a W-2, see instructions.
 7
 Wages, salaries, tips, etc. Attach Form(s) W-2 ............
 7
@@ -126,7 +77,7 @@ b Taxable amount ...
 Other income. List type and amount
 21
 22
-Combine the amounts in the far right column for lines 7 through 21. This is your total income ▶
+Combine the amounts in the far right column for lines 7 through 21. This is your total income 
 22
 Adjusted Gross Income
 23
@@ -156,7 +107,6 @@ Penalty on early withdrawal of savings ......
 31
 a
 Alimony paid
-b Recipient’s SSN ▶
 31a
 32
 IRA deduction .............
@@ -174,32 +124,19 @@ Domestic production activities deduction. Attach Form 8903
 Add lines 23 through 35 ...................
 36
 37
-Subtract line 36 from line 22. This is your adjusted gross income ..... ▶
+Subtract line 36 from line 22. This is your adjusted gross income ..... 
 37
-For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.
-Cat. No. 11320B
-Form 1040 (2015)
-Form 1040 (2015)
-Page 2
 Tax and Credits
 38
 Amount from line 37 (adjusted gross income) ..............
 38
 39
 a
-Check if:
-{
-You were born before January 2, 1951,
-Blind.
-Spouse was born before January 2, 1951,
-Blind.
-}
-Total boxes checked ▶
+Total boxes checked in 39a
 39a
 b
-If your spouse itemizes on a separate return or you were a dual-status alien, check here ▶
+If your spouse itemizes on a separate return or you were a dual-status alien, check here 
 39b
-Standard Deduction for— • People who check any box on line 39a or 39b or who can be claimed as a dependent, see instructions. • All others: Single or Married filing separately, $6,300 Married filing jointly or Qualifying widow(er), $12,600 Head of household, $9,250
 40
 Itemized deductions (from Schedule A) or your standard deduction (see left margin) ..
 40
@@ -214,11 +151,6 @@ Taxable income. Subtract line 42 from line 41. If line 42 is more than line 41, 
 43
 44
 Tax (see instructions). Check if any from:
-a
-Form(s) 8814
-b
-Form 4972
-c
 44
 45
 Alternative minimum tax (see instructions). Attach Form 6251 .........
@@ -227,7 +159,7 @@ Alternative minimum tax (see instructions). Attach Form 6251 .........
 Excess advance premium tax credit repayment. Attach Form 8962 ........
 46
 47
-Add lines 44, 45, and 46 ................... ▶
+Add lines 44, 45, and 46 
 47
 48
 Foreign tax credit. Attach Form 1116 if required ....
@@ -248,12 +180,7 @@ Child tax credit. Attach Schedule 8812, if required...
 Residential energy credits. Attach Form 5695....
 53
 54
-Other credits from Form:
-a
-3800
-b
-8801
-c
+Other credits
 54
 55
 Add lines 48 through 54. These are your total credits ............
@@ -266,11 +193,7 @@ Other Taxes
 Self-employment tax. Attach Schedule SE ...............
 57
 58
-Unreported social security and Medicare tax from Form:
-a
-4137
-b
-8919 ..
+Unreported social security and Medicare tax:
 58
 59
 Additional tax on IRAs, other qualified retirement plans, etc. Attach Form 5329 if required ..
@@ -284,19 +207,9 @@ First-time homebuyer credit repayment. Attach Form 5405 if required ........
 60b
 61
 Health care: individual responsibility (see instructions)
-Full-year coverage
-.
-....
 61
 62
-Taxes from:
-a
-Form 8959
-b
-Form 8960
-c
-Instructions;
-enter code(s)
+Taxes from Form 8959 and Form 8960
 62
 63
 Add lines 56 through 62. This is your total tax ............. ▶
@@ -335,73 +248,26 @@ Excess social security and tier 1 RRTA tax withheld ....
 Credit for federal tax on fuels. Attach Form 4136 ....
 72
 73
-Credits from Form:
-a
-2439
-b
-Reserved
-c
-8885
-d
+Credits from Form 2439, 8885
 73
 74
-Add lines 64, 65, 66a, and 67 through 73. These are your total payments ..... ▶
+Add lines 64, 65, 66a, and 67 through 73. These are your total payments
 74
 Refund
-Direct deposit? See instructions.
 75
 If line 74 is more than line 63, subtract line 63 from line 74. This is the amount you overpaid
 75
 76
 a
-Amount of line 75 you want refunded to you. If Form 8888 is attached, check here . ▶
+Amount of line 75 you want refunded to you.
 76a
-▶ ▶
-b
-Routing number
-▶ c Type:
-Checking
-Savings
-d
-Account number
 77
-Amount of line 75 you want applied to your 2016 estimated tax ▶
+Amount of line 75 you want applied to your 2016 estimated tax
 77
 Amount You Owe
 78
-Amount you owe. Subtract line 74 from line 63. For details on how to pay, see instructions ▶
+Amount you owe. Subtract line 74 from line 63. 
 78
 79
 Estimated tax penalty (see instructions) .......
 79
-Third Party Designee
-Do you want to allow another person to discuss this return with the IRS (see instructions)?
-Yes. Complete below.
-No
-Designee’s name ▶
-Phone no. ▶
-Personal identification number (PIN) ▶
-Sign Here
-Joint return? See instructions. Keep a copy for your records.
-Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of my knowledge and belief, they are true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
-Your signature
-Date
-Your occupation
-Daytime phone number
-Spouse’s signature. If a joint return, both must sign.
-Date
-▲
-Spouse’s occupation
-If the IRS sent you an Identity Protection PIN, enter it here (see inst.)
-Paid Preparer Use Only
-Print/Type preparer’s name
-Preparer’s signature
-Date
-Check if self-employed
-PTIN
-Firm’s name ▶
-Firm’s address ▶
-Firm's EIN ▶
-Phone no.
-www.irs.gov/form1040
-Form 1040 (2015)
