@@ -51,7 +51,7 @@ defState('DEFAULT') {
 defState('EXPECT_LINE') {
   String line ->
     def printLine = {
-      println "| ${lineNum}. | $lineText | ${lineNum}. |"
+      println "| ${lineNum} | $lineText | ${lineNum} |"
       lineText = '';
     }
     if (line == lineNum) {
@@ -76,7 +76,7 @@ defState('EXPECT_SUBLINE') {
   String line ->
     String llet = (lineNum?:'') + (lineLetter?.size()?lineLetter:'');
     def printLine = {
-      println "| ${llet}. | $lineText | ${llet}. |"
+      println "| ${llet} | $lineText | ${llet} |"
       lineText = '';
     }
     if (line == lineNum) {

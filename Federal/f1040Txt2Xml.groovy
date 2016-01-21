@@ -3,8 +3,8 @@
 // 
 import groovy.xml.*
 
-def input = new File('f1040.txt')
-def output = new File('f1040.xml')
+def input = new File('f1040-2015.txt')
+def output = new File('f1040-2015.xml')
 
 output.withWriter {
   o ->
