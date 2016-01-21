@@ -7,10 +7,10 @@
       <Style ss:ID="sLineNumber" ss:Name="LineNumber">
         <Font ss:Bold="1" />
         <Borders>
-          <Border Ss:Position="Left" Ss:Color="#000000" Ss:Weight="0" Ss:LineStyle="Continuous" />
-          <Border Ss:Position="Top" Ss:Color="#000000" Ss:Weight="0" Ss:LineStyle="Continuous" />
-          <Border Ss:Position="Right" Ss:Color="#000000" Ss:Weight="0" Ss:LineStyle="Continuous" />
-          <Border Ss:Position="Bottom" Ss:Color="#000000" Ss:Weight="0" Ss:LineStyle="Continuous" />
+          <Border ss:Position="Left" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+          <Border ss:Position="Top" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+          <Border ss:Position="Right" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+          <Border ss:Position="Bottom" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
         </Borders>
       </Style>
       <Style ss:ID="LineText" ss:Name="Normal" />
