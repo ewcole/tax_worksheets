@@ -1,0 +1,87 @@
+Form 1040          Department of the Treasury--Internal Revenue Service
+
+| 6d | Total number of exemptions claimed |
+| 7 | Wages, salaries, tips, etc. Attach Form(s) W-2 |
+| 8a | Taxable interest. Attach Schedule B if required |
+| 8b | Tax-exempt interest. Do not include on line 8a |
+| 9a | Ordinary dividends. Attach Schedule B if required |
+| 9b | Qualified dividends |
+| 10 | Taxable refunds, credits, or offsets of state and local income taxes |
+| 11 | Alimony received |
+| 12 | Business income or (loss). Attach Schedule C or C-EZ |
+| 13 | Capital gain or (loss). Attach Schedule D if required. If not required, check here |
+| 14 | Other gains or (losses). Attach Form 4797 |
+| 15a | IRA distributions |
+| 15b | Taxable amount |
+| 16a | Pensions and annuities |
+| 16b | Taxable amount |
+| 17 | Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E |
+| 18 | Farm income or (loss). Attach Schedule F |
+| 19 | Unemployment compensation |
+| 20a | Social security benefits |
+| 20b | Taxable amount |
+| 21 | Other income. List type and amount |
+| 22 | Combine the amounts in the far right column for lines 7 through 21. This is your total income |
+| 23 | Educator expenses |
+| 24 | Certain business expenses of reservists, performing artists, and |
+| 25 | Health savings account deduction. Attach Form 8889 |
+| 26 | Moving expenses. Attach Form 3903 |
+| 27 | Deductible part of self-employment tax. Attach Schedule SE |
+| 28 | Self-employed SEP, SIMPLE, and qualified plans |
+| 29 | Self-employed health insurance deduction |
+| 30 | Penalty on early withdrawal of savings |
+| 31a | Alimony paid b Recipient's SSN |
+| 32 | IRA deduction |
+| 33 | Student loan interest deduction |
+| 34 | Tuition and fees. Attach Form 8917 |
+| 35 | Domestic production activities deduction. Attach Form 8903 |
+| 36 | Add lines 23 through 35 |
+| 37 | Subtract line 36 from line 22. This is your adjusted gross income |
+
+Form 1040 (2014)          Page 2
+
+| 38 | Amount from line 37 (adjusted gross income) |
+| 39a | Check if: {  X     You were born before January 2, 1950, X Spouse was born before January 2, 1950, X Blind. X Blind.}   Total boxes checked |
+| 39b | If your spouse itemizes on a separate return or you were a dual-status alien, check here |
+| 40 | Itemized deductions (from Schedule A) or your standard deduction (see left margin) |
+| 41 | Subtract line 40 from line 38 |
+| 42 | Exemptions. If line 38 is $152,525 or less, multiply $3,950 by the number on line 6d. Otherwise, see instructions |
+| 43 | Taxable income. Subtract line 42 from line 41. If line 42 is more than line 41, enter -0- |
+| 44 | Tax (see instructions). Check if any from: a        Form(s) 8814 b          Form 4972 c |
+| 45 | Alternative minimum tax (see instructions). Attach Form 6251 |
+| 46 | Excess advance premium tax credit repayment. Attach Form 8962 |
+| 47 | Add lines 44, 45, and 46 |
+| 48 | Foreign tax credit. Attach Form 1116 if required |
+| 49 | Credit for child and dependent care expenses. Attach Form 2441 |
+| 50 | Education credits from Form 8863, line 19 |
+| 51 | Retirement savings contributions credit. Attach Form 8880 |
+| 52 | Child tax credit. Attach Schedule 8812, if required |
+| 53 | Residential energy credits. Attach Form 5695 |
+| 54 | Other credits from Form: a   3800 b         8801 c |
+| 55 | Add lines 48 through 54. These are your total credits |
+| 56 | Subtract line 55 from line 47. If line 55 is more than line 47, enter -0- |
+| 57 | Self-employment tax. Attach Schedule SE |
+| 58 | Unreported social security and Medicare tax from Form:          a         4137          b        8919 |
+| 59 | Additional tax on IRAs, other qualified retirement plans, etc. Attach Form 5329 if required |
+| 60a | Household employment taxes from Schedule H |
+| 60b | First-time homebuyer credit repayment. Attach Form 5405 if required |
+| 61 | Health care: individual responsibility (see instructions)          Full-year coverage |
+| 62 | Taxes from: a      Form 8959 b         Form 8960 c      Instructions; enter code(s) |
+| 63 | Add lines 56 through 62. This is your total tax |
+| 64 | Federal income tax withheld from Forms W-2 and 1099 |
+| 65 | 2014 estimated tax payments and amount applied from 2013 return |
+| 66a | Earned income credit (EIC) |
+| 66b | Nontaxable combat pay election |
+| 67 | Additional child tax credit. Attach Schedule 8812 |
+| 68 | American opportunity credit from Form 8863, line 8 |
+| 69 | Net premium tax credit. Attach Form 8962 |
+| 70 | Amount paid with request for extension to file |
+| 71 | Excess social security and tier 1 RRTA tax withheld |
+| 72 | Credit for federal tax on fuels. Attach Form 4136 |
+| 73 | Credits from Form: a 2439 b   Reserved c  Reserved d |
+| 74 | Add lines 64, 65, 66a, and 67 through 73. These are your total payments |
+| 75 | If line 74 is more than line 63, subtract line 63 from line 74. This is the amount you overpaid |
+| 76a | Amount of line 75 you want refunded to you. If Form 8888 is attached, check here |
+| 77 | Amount of line 75 you want applied to your 2015 estimated tax |
+| 78 | Amount you owe. Subtract line 74 from line 63. For details on how to pay, see instructions |
+| 79 | Estimated tax penalty (see instructions) |

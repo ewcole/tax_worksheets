@@ -1,0 +1,575 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Cole, Ed</Author>
+  <LastAuthor>Cole, Ed</LastAuthor>
+  <Created>2015-03-31T23:00:08Z</Created>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8364</WindowHeight>
+  <WindowWidth>18984</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s18" ss:Name="Currency">
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s73" ss:Parent="s18">
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s74">
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DBDBDB" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DBDBDB" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DBDBDB" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s79">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s80">
+   <Borders/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82" ss:Parent="s18">
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s85">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s86" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s98">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s99">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s101">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s102">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s107">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s109">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s110">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s111">
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s112" ss:Parent="s18">
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s113">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s114">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s115">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s116">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s117" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s118">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="s119">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="pIII5" ss:RefersTo="='PA-40 G-L'!R46C3"/>
+ </Names>
+ <Worksheet ss:Name="PA-40 G-L">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="46" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="52.8"
+   ss:DefaultRowHeight="15.600000000000001">
+   <Column ss:Width="33.6"/>
+   <Column ss:Width="563.4"/>
+   <Column ss:Width="132.6"/>
+   <Column ss:Width="54"/>
+   <Row>
+    <Cell ss:MergeAcross="3"><Data ss:Type="String">PA-40 G-L</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="3" ss:StyleID="s65"><Data ss:Type="String">Name of taxpayer claiming the credit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="16.2">
+    <Cell ss:MergeAcross="3" ss:StyleID="s66"><Data ss:Type="String">Part I - Calculation of Credit for Taxes Paid to Other States</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s75"/>
+    <Cell ss:StyleID="s76"/>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">C</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.1.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Name of other state</Data></Cell>
+    <Cell ss:StyleID="s79"/>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Class of income subject to tax in the other state</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">PA</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">other state</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2a.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Compensation</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2b.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Unreimbursed business expenses</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s80"/>
+    <Cell ss:StyleID="s81"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2c.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Net compensation</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2d.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Interest</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2e.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Dividends</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2f.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Net income or loss from business, profession or farm</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2g.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Gain or loss from sale, exchange or disposition of property</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2h.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Income or Loss from rents, royalties, patents and copyrights</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">I.2i.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Estate or trust income</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s82"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Height="16.2">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">I.2j.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Gambling and lottery winnings</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s87" ss:Formula="=MIN(RC[-2]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.3.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s89"><Data ss:Type="String">Income subject to tax in the other state - Add Lines 2c thru 2j for Column C. Enter the result here.</Data></Cell>
+    <Cell ss:StyleID="s74" ss:Formula="=SUM(R[-8]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.4a.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">a. Tax due or assessed in the other state</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.4b.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">Tax paid in the other state</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.4c.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">Enter the lesser of Line 4a or Line 4b</Data></Cell>
+    <Cell ss:StyleID="s74" ss:Formula="=MIN(R[-2]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.4d.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">Less: adjustments - Enter the amount from Part III, Line 5.</Data></Cell>
+    <Cell ss:Formula="=pIII5"><Data ss:Type="Error">#DIV/0!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.4e.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">Adjusted tax paid in the other state - Subtract Line 4d from Line 4c. Enter the result here.</Data></Cell>
+    <Cell ss:StyleID="s74" ss:Formula="=R[-2]C-R[-1]C"><Data ss:Type="Error">#DIV/0!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.5.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">Line 3 x 3.07 percent (0.0307)</Data></Cell>
+    <Cell ss:StyleID="s73" ss:Formula="=ROUND(R[-6]C * 0.0307,2)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">I.6.</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s65"><Data ss:Type="String">PA Resident Credit. Enter the lesser of Line 4e or Line 5 here and on the appropriate form (see instructions).</Data></Cell>
+    <Cell ss:StyleID="s74" ss:Formula="=MIN(R[-2]C:R[-1]C)"><Data ss:Type="Error">#DIV/0!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="16.2">
+    <Cell ss:MergeAcross="3" ss:StyleID="s66"><Data ss:Type="String">Part II - Worksheet for Sources and Amounts of Income Subject to Tax in the Other State</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s107"><Data ss:Type="String">&gt;&gt;</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Columns</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">A</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">B</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">C</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">D</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">E</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.1.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Source entity name</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s113"><Data ss:Type="String">TOTALS</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Income by class</Data></Cell>
+    <Cell ss:StyleID="s112"/>
+    <Cell ss:StyleID="s112"/>
+    <Cell ss:StyleID="s112"/>
+    <Cell ss:StyleID="s112"/>
+    <Cell ss:StyleID="s113"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.a.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Compensation</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.b.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Interest</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.c.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Dividends</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.d.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Net income or loss from business, profession or farm</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.e.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Gain or loss from sale, exchange or disposition of property</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.f.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Income or loss from rents, royalties, patents and copyrights</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s110"><Data ss:Type="String">II.2.g.</Data></Cell>
+    <Cell ss:StyleID="s111"><Data ss:Type="String">Estate or trust income</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s114" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Height="16.2">
+    <Cell ss:StyleID="s115"><Data ss:Type="String">II.2.h.</Data></Cell>
+    <Cell ss:StyleID="s116"><Data ss:Type="String">Gambling and lottery winnings</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s117"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s118" ss:Formula="=SUM(RC[-4]:RC[-1])"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="16.2">
+    <Cell ss:MergeAcross="3" ss:StyleID="s66"><Data ss:Type="String">Part III - Worksheet for Adjusted Tax Paid in the Other State</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">III.1.</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">Enter the amount from Part I, Column C, Line 3 here.</Data></Cell>
+    <Cell ss:StyleID="s119" ss:Formula="=R[-23]C[2]"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">III.2.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Add the amounts from Part I, Column B, Lines 2c through 2j. Enter the result here.</Data></Cell>
+    <Cell ss:StyleID="s83" ss:Formula="=SUM(R[-32]C[1]:R[-25]C[1])"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">III.3.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">Divide the amount from Part III, Line 1 by Part III, Line 2. Enter the result here (calculate to six decimal places).</Data></Cell>
+    <Cell ss:StyleID="s101" ss:Formula="=ROUND(R[-2]C/R[-1]C,6)"><Data
+      ss:Type="Error">#DIV/0!</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">If the amount on Part III, Line 3 equals 1.000000, you may stop here and enter &quot;0&quot; on Part I, Line 4d.</Data></Cell>
+    <Cell ss:StyleID="s101"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">III.4.</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">If the amount on Part III, Line 3 is less than 1.000000, subtract the decimal from 1.000000.</Data></Cell>
+    <Cell ss:StyleID="s101" ss:Formula="=1 - R[-2]C"><Data ss:Type="Error">#DIV/0!</Data></Cell>
+   </Row>
+   <Row ss:Height="16.2">
+    <Cell ss:StyleID="s84"><Data ss:Type="String">III.5.</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="String">Multiply the decimal on Part III, Line 4 by the amount on Part I, Line 4c. Enter the result here and on Part I, Line 4d.</Data></Cell>
+    <Cell ss:StyleID="s102" ss:Formula="=ROUND(R[-1]C * R[-25]C[2],2)"><Data
+      ss:Type="Error">#DIV/0!</Data><NamedCell ss:Name="pIII5"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R1C4</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
