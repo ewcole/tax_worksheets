@@ -1,0 +1,97 @@
+203002140094
+Page 2 of 4 IT-203 (2015)
+
+|  1 | Wages, salaries, tips, etc.                                                                  | 1 .00  | 1 .00     |
+|  2 | Taxable interest income                                                                      | 2 .00  | 2 .00     |
+|  3 | Ordinary dividends                                                                           | 3 .00  | 3 .00     |
+|  4 | Taxable refunds, credits, or offsets of state and local ncome taxes (also enter on line 24)  | 4 .00  | 4 .00     |
+|  5 | Alimony received                                                                             | 5 .00  | 5 .00     |
+|  6 | Business income or loss (submit a copy of federal Sch. C or C-EZ, Form 1040)                 | 6 .00  | 6 .00     |
+|  7 | Capital gain or loss (if required, submit a copy of federal Sch. D, Form 1040)               | 7 .00  | 7 .00     |
+|  8 | Other gains or losses (submit a copy of federal Form 4797)                                   | 8 .00  | 8 .00     |
+|  9 | Taxable amount of IRA distributions. Beneficiaries: mark X in box                            | 9 .00  | 9 .00     |
+| 10 | Taxable amount of pensions/annuities. Beneficiaries: mark X in box                           | 10 .00 | 10 .00    |
+| 11 | Rental real estate, royalties, partnerships, S corporations, trusts, etc.                    | 11 .00 | 11 .00    |
+| 12 | Rental real estate included in line 11 (federal amount)                                      | 12 .00 |           |
+| 13 | Farm income or loss (submit a copy of federal Sch. F, Form 1040)                             | 13 .00 | 13 .00    |
+| 14 | Unemployment compensation                                                                    | 14 .00 | 14 .00    |
+| 15 | Taxable amount of social security benefits (also enter on line 26).                          | 15 .00 | 15 .00    |
+| 16 | Other income (see page 22) Identify:                                                         | 16 .00 | 16 .00    |
+| 17 | Add lines 1 through 11 and 13 through 16                                                     | 17 .00 | 17 .00    |
+| 18 | Total federal adjustments to income (see page 22) Identify:                                  | 18 .00 | 18 .00    |
+| 19 | Federal adjusted gross income (subtract line 18 from line 17)                                | 19 .00 | 19 .00    |
+| 20 | Interest income on state and local bonds (but not those of New York State or its localities) | 20 .00 | 20 .00    |
+| 21 | Public employee 414(h) retirement contributions                                              | 21 .00 | 21 .00    |
+| 22 | Other (Form IT-225, line 9)                                                                  | 22 .00 | 22 .00    |
+| 23 | Add lines 19 through 22                                                                      | 23 .00 | 23 .00    |
+| 24 | Taxable refunds, credits, or offsets of state and local income taxes (from line 4)           | 24 .00 | 24 .00    |
+| 25 | Pensions of NYS and local governments and the federal government (see page 24)               | 25 .00 | 25 .00    |
+| 26 | Taxable amount of social security benefits (from line 15)                                    | 26 .00 | 26 .00    |
+| 27 | Interest income on U.S. government bonds                                                     | 27 .00 | 27 .00    |
+| 28 | Pension and annuity income exclusion                                                         | 28 .00 | 28 .00    |
+| 29 | Other (Form IT-225, line 18)                                                                 | 29 .00 | 29 .00    |
+| 30 | Add lines 24 through 29                                                                      | 30 .00 | 30 .00    |
+| 31 | New York adjusted gross income (subtract line 30 from line 23).                              | 31 .00 | 31 .00    |
+| 32 | Enter the amount from line 31, Federal amount column                                         |        | 32 .00    |
+| 33 | Enter your standard deduction (table on page 26) or your itemized deduction                  |        | 33 .00    |
+| 34 | Subtract line 33 from line 32 (if line 33 is more than line 32, leave blank)                 |        | 34 .00    |
+| 35 | Dependent exemptions (enter the number of dependents listed in Item I; see page 26)          |        | 35 000.00 |
+| 36 | New York taxable income (subtract line 35 from line 34)                                      |        | 36 .00    |
+
+IT-203 (2015) Page 3 of 4
+Voluntary contributions (see page 30)
+Name(s) as shown on page 1 Enter your social security number
+| 37 | New York taxable income (from line 36 on page 2)                                                                            |   | 37 .00 |
+| 38 | New York State tax on line 37 amount (see page 27 and Tax computation on pages 60,61, and 62)                               |   | 38 .00 |
+| 39 | New York State household credit (page 27, table 1, 2, or 3)                                                                 |   | 39 .00 |
+| 40 | Subtract line 39 from line 38 (if line 39 is more than line 38, leave blank)                                                |   | 40 .00 |
+| 41 | New York State child and dependent care credit (see page 28)                                                                |   | 41 .00 |
+| 42 | Subtract line 41 from line 40 (if line 41 is more than line 40, leave blank)                                                |   | 42 .00 |
+| 43 | New York State earned income credit (see page 28)                                                                           |   | 43 .00 |
+| 44 | Base tax (subtract line 43 from line 42; if line 43 is more than line 42, leave blank)                                      |   | 44 .00 |
+| 45 | Income New York State amount from line 31 Federal amount from line 31 Round result to 4 decimal places percentage .00 / .00 |   | 45     |
+| 46 | Allocated New York State tax (multiply line 44 by the decimal on line 45)                                                   |   | 46 .00 |
+| 47 | New York State nonrefundable credits (Form IT-203-ATT, line 8)                                                              |   | 47 .00 |
+| 48 | Subtract line 47 from line 46 (if line 47 is more than line 46, leave blank)                                                |   | 48 .00 |
+| 49 | Net other New York State taxes (Form IT-203-ATT, line 33)                                                                   |   | 49 .00 |
+| 50 | Total New York State taxes (add lines 48 and 49)                                                                            |   | 50 .00 |
+
+|  51 | Part-year New York City resident tax (Form IT-360.1)                                                                                 | 51 .00  |        |
+|  52 | Part-year resident nonrefundable New York City child and dependent care credit                                                       | 52 .00  |        |
+| 52a | Subtract line 52 from 51                                                                                                             | 52a .00 |        |
+|  53 | Yonkers nonresident earnings tax (Form Y-203)                                                                                        | 53 .00  |        |
+|  54 | Part-year Yonkers resident income tax surcharge (Form IT-360.1)                                                                      | 54 .00  |        |
+|  55 | Total New York City and Yonkers taxes (add lines 52a, 53, and 54)                                                                    |         | 55 .00 |
+|  56 | Sales or use tax (See the instructions on page 29. Do not leave line 56 blank.)                                                      |         | 56 .00 |
+| 57a | Return a Gift to Wildlife                                                                                                            | 57a .00 |        |
+| 57b | Missing/Exploited Children Fund                                                                                                      | 57b .00 |        |
+| 57c | Breast Cancer Research Fund                                                                                                          | 57c .00 |        |
+| 57d | Alzheimer's Fund                                                                                                                     | 57d .00 |        |
+| 57e | Olympic Fund ($2 or $4)                                                                                                              | 57e .00 |        |
+| 57f | Prostate and Testicular Cancer Research and Education Fund                                                                           | 57f .00 |        |
+| 57g | 9/11 Memorial                                                                                                                        | 57g .00 |        |
+| 57h | Volunteer Firefighting & EMS Recruitment Fund                                                                                        | 57h .00 |        |
+| 57i | Teen Health Education                                                                                                                | 57i .00 |        |
+| 57j | Veterans Remembrance                                                                                                                 | 57j .00 |        |
+| 57k |                                                                                                                                      | 57k .00 |        |
+| 57l |                                                                                                                                      | 57l .00 |        |
+| 57m |                                                                                                                                      | 57m .00 |        |
+|  57 | Total voluntary contributions (add lines 57a through 57j)                                                                            |         | 57 .00 |
+|  58 | Total New York State, New York City, and Yonkers taxes, sales or use tax, and voluntary contributions (add lines 50, 55, 56, and 57) |         | 58 .00 | 
+
+IT-203 (2015) Page 4 of 4
+  
+|  59 | Enter the  amount from line 58                                                                                                       |         | 59 .00 |
+|  60 | Part-year NYC school tax credit (also complete E on front; see page 31)                                                              | 60 .00  |        |
+|  61 | Other refundable credits (Form IT-203-ATT, line 17)                                                                                  | 61 .00  |        |
+|  62 | Total New York State tax withheld                                                                                                    | 62 .00  |        |
+|  63 | Total New York City tax withheld                                                                                                     | 63 .00  |        |
+|  64 | Total Yonkers tax withheld                                                                                                           | 64 .00  |        |
+|  65 | Total estimated tax payments/amount paid with Form IT-370                                                                            | 65 .00  |        |
+|  66 | Total payments and refundable credits (add lines 60 through 65)                                                                      |         | 66 .00 |
+|  67 | Amount overpaid (if line 66 is more than line 59, subtract line 59 from line 66)                                                     |         | 67 .00 |
+|  68 | Amount of line 67 to be refunded direct debit paper Mark one refund choice: deposit (fill in line 73) - or - card - or - check       |         | 68 .00 |
+|  69 | Amount of line 67 that you want applied to your 2015 estimated tax (see instructions)                                                | 69 .00  |        |
+|  70 | Amount you owe (if line 66 is less than line 59, subtract line 66 from line 59).                                                     |         | 70 .00 |
+|  71 | Estimated tax penalty (include this amount on line 70, or reduce the overpayment on line 67; see page 33)                            | 71 .00  |        |
+|  72 | Other penalties and interest (see page 33)                                                                                           | 72 .00  |        |
