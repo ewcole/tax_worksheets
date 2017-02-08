@@ -35,3 +35,4 @@
 :: 
 :: 
 :: gswin64c -stxtfile=junk.txt
+gswin64c -dBATCH -dNOPAUSE -dSAFER -dDELAYBIND -dWRITESYSTEMDICT -dSIMPLE -sDEVICE=txtwrite -dTextFormat=2 -dFirstPage=1 -dLastPage=1 -sOutputFile=C:\out.txt C:\in.pdf
