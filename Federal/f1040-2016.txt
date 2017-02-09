@@ -2,20 +2,14 @@ Form 1040       Department of the Treasury-Internal Revenue Service        2016
 
 
 Exemptions
-6
 | 6a | Yourself. If someone can claim you as a dependent, do not check box | 6a | 
 | 6b | Spouse | 6b |
-|6c | |6c|
-|6d ||6d|
-Total number of exemptions claimed 
-
-
+|6c | Dependents |6c|
+|6d | Total number of exemptions claimed  |6d|
 Income
 | 7 | Wages, salaries, tips, etc. Attach Form(s) W-2 | 7 |
-8
 | 8a | Taxable interest. Attach Schedule B if required | 8a |
 | 8b | Tax-exempt interest. Do not include on line 8a ... | 8b |
-9
 | 9a | Ordinary dividends. Attach Schedule B if required | 9a |
 | 9b | Qualified dividends | 9b |
 | 10 | Taxable refunds, credits, or offsets of state and local income taxes | 10 |
@@ -25,19 +19,15 @@ Income
 | 14 | Other gains or (losses). Attach Form 4797 | 14 |
 15
 | 15a | IRA distributions . | 15a |
-b Taxable amount ...
-15b
+| 15b | Taxable amount ... | 15b |
 16
 | 16a | Pensions and annuities | 16a |
-b Taxable amount ...
-16b
+| 16b | Taxable amount ... | 16b |
 | 17 | Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E | 17 |
 | 18 | Farm income or (loss). Attach Schedule F | 18 |
 | 19 | Unemployment compensation | 19 |
-20
 | 20a | Social security benefits | 20a |
-b Taxable amount ...
-20b
+| 20b | Taxable amount ... | 20b |
 | 21 | Other income. List type and amount | 21 |
 | 22 | Combine the amounts in the far right column for lines 7 through 21. This is your total income ? | 22 |
 Adjusted Gross Income
@@ -50,33 +40,20 @@ Adjusted Gross Income
 | 29 | Self-employed health insurance deduction | 29 |
 | 30 | Penalty on early withdrawal of savings | 30 |
 31
-a
-Alimony paid
-b Recipient's SSN ?
-31a
+| 31a | Alimony paid | 31a |
 | 32 | IRA deduction | 32 |
 | 33 | Student loan interest deduction | 33 |
 | 34 | Tuition and fees. Attach Form 8917 | 34 |
 | 35 | Domestic production activities deduction. Attach Form 8903 | 35 |
 | 36 | Add lines 23 through 35 | 36 |
 | 37 | Subtract line 36 from line 22. This is your adjusted gross income  ? | 37 |
-For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.
-Cat. No. 11320B
-Form 1040 (2016)
 Form 1040 (2016)
 Page 2
 Tax and Credits
 | 38 | Amount from line 37 (adjusted gross income) | 38 |
 39
 a
-Check if:
-{
-You were born before January 2, 1952,
-Blind.
-Spouse was born before January 2, 1952,
-Blind.
-}
-Total boxes checked ?
+Check if: {You were born before January 2, 1952, etc.} Total boxes checked ?
 39a
 | 39b | If your spouse itemizes on a separate return or you were a dual-status alien, check here ? | 39b |
 Standard Deduction for-  People who check any box on line 39a or 39b or who can be claimed as a dependent, see instructions.  All others: Single or Married filing separately, $6,300 Married filing jointly or Qualifying widow(er), $12,600 Head of household, $9,300
