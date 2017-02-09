@@ -3,74 +3,58 @@ Form 1040       Department of the Treasury-Internal Revenue Service        2016
 
 Exemptions
 6
-a
-Yourself. If someone can claim you as a dependent, do not check box 6a .....
-b
-Spouse 6b ........................
+| 6a | Yourself. If someone can claim you as a dependent, do not check box | 6a | 
+| 6b | Spouse | 6b |
 c
 
 d
-Total number of exemptions claimed .................
+Total number of exemptions claimed 
 
 
 Income
 7
-Wages, salaries, tips, etc. Attach Form(s) W-2 ............
+Wages, salaries, tips, etc. Attach Form(s) W-2 
 7
 8
-a
-Taxable interest. Attach Schedule B if required ............
-8a
-b
-Tax-exempt interest. Do not include on line 8a ...
-8b
+| 8a | Taxable interest. Attach Schedule B if required | 8a |
+| 8b | Tax-exempt interest. Do not include on line 8a ... | 8b |
 9
-a
-Ordinary dividends. Attach Schedule B if required ...........
-9a
-b
-Qualified dividends ...........
-9b
+| 9a | Ordinary dividends. Attach Schedule B if required | 9a |
+| 9b | Qualified dividends | 9b |
 10
-Taxable refunds, credits, or offsets of state and local income taxes ......
+Taxable refunds, credits, or offsets of state and local income taxes 
 10
 11
-Alimony received .....................
+Alimony received 
 11
 12
-Business income or (loss). Attach Schedule C or C-EZ ..........
+Business income or (loss). Attach Schedule C or C-EZ 
 12
 13
 Capital gain or (loss). Attach Schedule D if required. If not required, check here ?
 13
 14
-Other gains or (losses). Attach Form 4797 ..............
+Other gains or (losses). Attach Form 4797 
 14
 15
-a
-IRA distributions .
-15a
+| 15a | IRA distributions . | 15a |
 b Taxable amount ...
 15b
 16
-a
-Pensions and annuities
-16a
+| 16a | Pensions and annuities | 16a |
 b Taxable amount ...
 16b
 17
 Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E
 17
 18
-Farm income or (loss). Attach Schedule F ..............
+Farm income or (loss). Attach Schedule F 
 18
 19
-Unemployment compensation.................
+Unemployment compensation
 19
 20
-a
-Social security benefits
-20a
+| 20a | Social security benefits | 20a |
 b Taxable amount ...
 20b
 21
@@ -81,7 +65,7 @@ Combine the amounts in the far right column for lines 7 through 21. This is your
 22
 Adjusted Gross Income
 23
-Educator expenses...........
+Educator expenses
 23
 24
 Certain business expenses of reservists, performing artists, and fee-basis government officials. Attach Form 2106 or 2106-EZ
@@ -90,7 +74,7 @@ Certain business expenses of reservists, performing artists, and fee-basis gover
 Health savings account deduction. Attach Form 8889 .
 25
 26
-Moving expenses. Attach Form 3903 ......
+Moving expenses. Attach Form 3903 
 26
 27
 Deductible part of self-employment tax. Attach Schedule SE .
@@ -99,10 +83,10 @@ Deductible part of self-employment tax. Attach Schedule SE .
 Self-employed SEP, SIMPLE, and qualified plans ..
 28
 29
-Self-employed health insurance deduction ....
+Self-employed health insurance deduction 
 29
 30
-Penalty on early withdrawal of savings ......
+Penalty on early withdrawal of savings 
 30
 31
 a
@@ -110,22 +94,22 @@ Alimony paid
 b Recipient's SSN ?
 31a
 32
-IRA deduction .............
+IRA deduction 
 32
 33
-Student loan interest deduction ........
+Student loan interest deduction 
 33
 34
-Tuition and fees. Attach Form 8917.......
+Tuition and fees. Attach Form 8917
 34
 35
 Domestic production activities deduction. Attach Form 8903
 35
 36
-Add lines 23 through 35 ...................
+Add lines 23 through 35 
 36
 37
-Subtract line 36 from line 22. This is your adjusted gross income ..... ?
+Subtract line 36 from line 22. This is your adjusted gross income  ?
 37
 For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.
 Cat. No. 11320B
@@ -134,7 +118,7 @@ Form 1040 (2016)
 Page 2
 Tax and Credits
 38
-Amount from line 37 (adjusted gross income) ..............
+Amount from line 37 (adjusted gross income) 
 38
 39
 a
@@ -147,15 +131,13 @@ Blind.
 }
 Total boxes checked ?
 39a
-b
-If your spouse itemizes on a separate return or you were a dual-status alien, check here ?
-39b
+| 39b | If your spouse itemizes on a separate return or you were a dual-status alien, check here ? | 39b |
 Standard Deduction for-  People who check any box on line 39a or 39b or who can be claimed as a dependent, see instructions.  All others: Single or Married filing separately, $6,300 Married filing jointly or Qualifying widow(er), $12,600 Head of household, $9,300
 40
 Itemized deductions (from Schedule A) or your standard deduction (see left margin) ..
 40
 41
-Subtract line 40 from line 38 ...................
+Subtract line 40 from line 38 
 41
 42
 Exemptions. If line 38 is $155,650 or less, multiply $4,050 by the number on line 6d. Otherwise, see instructions
@@ -172,22 +154,22 @@ Form 4972
 c
 44
 45
-Alternative minimum tax (see instructions). Attach Form 6251 .........
+Alternative minimum tax (see instructions). Attach Form 6251 
 45
 46
-Excess advance premium tax credit repayment. Attach Form 8962 ........
+Excess advance premium tax credit repayment. Attach Form 8962 
 46
 47
-Add lines 44, 45, and 46 ................... ?
+Add lines 44, 45, and 46  ?
 47
 48
-Foreign tax credit. Attach Form 1116 if required ....
+Foreign tax credit. Attach Form 1116 if required 
 48
 49
 Credit for child and dependent care expenses. Attach Form 2441
 49
 50
-Education credits from Form 8863, line 19 .....
+Education credits from Form 8863, line 19 
 50
 51
 Retirement savings contributions credit. Attach Form 8880
@@ -196,7 +178,7 @@ Retirement savings contributions credit. Attach Form 8880
 Child tax credit. Attach Schedule 8812, if required...
 52
 53
-Residential energy credits. Attach Form 5695....
+Residential energy credits. Attach Form 5695
 53
 54
 Other credits from Form:
@@ -207,14 +189,14 @@ b
 c
 54
 55
-Add lines 48 through 54. These are your total credits ............
+Add lines 48 through 54. These are your total credits 
 55
 56
-Subtract line 55 from line 47. If line 55 is more than line 47, enter -0- ...... ?
+Subtract line 55 from line 47. If line 55 is more than line 47, enter -0-  ?
 56
 Other Taxes
 57
-Self-employment tax. Attach Schedule SE ...............
+Self-employment tax. Attach Schedule SE 
 57
 58
 Unreported social security and Medicare tax from Form:
@@ -227,17 +209,13 @@ b
 Additional tax on IRAs, other qualified retirement plans, etc. Attach Form 5329 if required ..
 59
 60
-a
-Household employment taxes from Schedule H ..............
-60a
-b
-First-time homebuyer credit repayment. Attach Form 5405 if required ........
-60b
+| 60a | Household employment taxes from Schedule H | 60a |
+| 60b | First-time homebuyer credit repayment. Attach Form 5405 if required | 60b |
 61
 Health care: individual responsibility (see instructions)
 Full-year coverage
 .
-....
+
 61
 62
 Taxes from:
@@ -250,7 +228,7 @@ Instructions;
 enter code(s)
 62
 63
-Add lines 56 through 62. This is your total tax ............. ?
+Add lines 56 through 62. This is your total tax  ?
 63
 Payments
 64
@@ -261,29 +239,25 @@ Federal income tax withheld from Forms W-2 and 1099 ..
 65
 If you have a qualifying child, attach Schedule EIC.
 66
-a
-Earned income credit (EIC) ..........
-66a
-b
-Nontaxable combat pay election
-66b
+| 66a | Earned income credit (EIC) | 66a |
+| 66b | Nontaxable combat pay election | 66b |
 67
-Additional child tax credit. Attach Schedule 8812 .... .
+Additional child tax credit. Attach Schedule 8812  .
 67
 68
 American opportunity credit from Form 8863, line 8 ...
 68
 69
-Net premium tax credit. Attach Form 8962......
+Net premium tax credit. Attach Form 8962
 69
 70
-Amount paid with request for extension to file.....
+Amount paid with request for extension to file
 70
 71
-Excess social security and tier 1 RRTA tax withheld ....
+Excess social security and tier 1 RRTA tax withheld 
 71
 72
-Credit for federal tax on fuels. Attach Form 4136 ....
+Credit for federal tax on fuels. Attach Form 4136 
 72
 73
 Credits from Form:
@@ -296,7 +270,7 @@ c
 d
 73
 74
-Add lines 64, 65, 66a, and 67 through 73. These are your total payments ..... ?
+Add lines 64, 65, 66a, and 67 through 73. These are your total payments  ?
 74
 Refund
 Direct deposit? See instructions.
@@ -304,9 +278,7 @@ Direct deposit? See instructions.
 If line 74 is more than line 63, subtract line 63 from line 74. This is the amount you overpaid
 75
 76
-a
-Amount of line 75 you want refunded to you. If Form 8888 is attached, check here . ?
-76a
+| 76a | Amount of line 75 you want refunded to you. If Form 8888 is attached, check here . ? | 76a |
 ? ?
 b
 Routing number
@@ -323,7 +295,7 @@ Amount You Owe
 Amount you owe. Subtract line 74 from line 63. For details on how to pay, see instructions ?
 78
 79
-Estimated tax penalty (see instructions) .......
+Estimated tax penalty (see instructions) 
 79
 Third Party Designee
 Do you want to allow another person to discuss this return with the IRS (see instructions)?
