@@ -1,68 +1,19 @@
-Form
-1040
-Department of the Treasury-Internal Revenue Service
-(99)
-U.S. Individual Income Tax Return
-2016
-OMB No. 1545-0074
-IRS Use Only-Do not write or staple in this space.
-For the year Jan. 1-Dec. 31, 2016, or other tax year beginning
-, 2016, ending
-, 20
-See separate instructions.
-Your first name and initial
-Last name
-Your social security number
-If a joint return, spouse's first name and initial
-Last name
-Spouse's social security number
-
-Make sure the SSN(s) above and on line 6c are correct.
-Home address (number and street). If you have a P.O. box, see instructions.
-Apt. no.
-City, town or post office, state, and ZIP code. If you have a foreign address, also complete spaces below (see instructions).
-Foreign country name
-Foreign province/state/county
-Foreign postal code
-Presidential Election Campaign
-Check here if you, or your spouse if filing jointly, want $3 to go to this fund. Checking a box below will not change your tax or refund.
-You
-Spouse
-Filing Status
-Check only one box.
-1
-Single
-2
-Married filing jointly (even if only one had income)
-3
-Married filing separately. Enter spouse's SSN above and full name here. ?
-4
-Head of household (with qualifying person). (See instructions.) If the qualifying person is a child but not your dependent, enter this child's name here. ?
-5
-Qualifying widow(er) with dependent child
+Form 1040       Department of the Treasury-Internal Revenue Service        2016
+
+
 Exemptions
 6
 a
 Yourself. If someone can claim you as a dependent, do not check box 6a .....
 b
-Spouse ........................
-}
+Spouse 6b ........................
 c
-Dependents: (1) First name Last name
-(2) Dependent's social security number
-(3) Dependent's relationship to you
-(4) û if child under age 17 qualifying for child tax credit (see instructions)
-If more than four dependents, see instructions and check here ?
+
 d
 Total number of exemptions claimed .................
-Boxes checked on 6a and 6b
-No. of children on 6c who:  lived with you
- did not live with you due to divorce or separation (see instructions)
-Dependents on 6c not entered above
-Add numbers on lines above ?
+
+
 Income
-Attach Form(s) W-2 here. Also attach Forms W-2G and 1099-R if tax was withheld.
-If you did not get a W-2, see instructions.
 7
 Wages, salaries, tips, etc. Attach Form(s) W-2 ............
 7
