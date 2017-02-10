@@ -3,8 +3,13 @@
 // 
 import groovy.xml.*
 
-def input = new File('w2-2015.txt')
-def output = new File('w2-2015.xml')
+def cli = new CliBuilder(usage: "Convert text file into spreadsheet, breaking on verticals")
+cli.i(longOpt: "input", args: 1, required: true, "Input file");
+def opt = cli.parse(args);
+assert opt
+def input = new File(opt.i);
+assert input.exists();
+def output = new File(opt.i.replaceAll(/\..*?/,'')+'.xml');
 
 output.withWriter {
   o ->
@@ -56,6 +61,21 @@ output.withWriter {
               Row {
                 if (line =~ /^\|/) {
                   def fields = line.split(/ *\| */)
+                  if (fields.size() > 3) {
+                    Cell {
+                      Data('ss:Type': "String", 
+                           'ss:StyleID': 'sLineNumber', 
+                           "${fields[1]}")
+                    }
+                    Cell('ss:MergeAcross':2) {
+                      Data('ss:Type': "String", "${fields[2]}")
+                    }
+                    Cell {
+                      Data('ss:Type': "String", 
+                           'ss:StyleID': 'sLineNumber', 
+                           "${fields[1]}")
+                    }
+                  }
                   if (fields.size() > 2) {
                     Cell {
                       Data('ss:Type': "String", 
