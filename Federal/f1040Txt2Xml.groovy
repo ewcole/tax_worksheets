@@ -9,7 +9,7 @@ def opt = cli.parse(args);
 assert opt
 def input = new File(opt.i);
 assert input.exists();
-def output = new File(opt.i.replaceAll(/\..*?/,'')+'.xml');
+def output = new File(opt.i.replaceAll(/\..*$/,'')+'.xml');
 
 output.withWriter {
   o ->
@@ -61,7 +61,7 @@ output.withWriter {
               Row {
                 if (line =~ /^\|/) {
                   def fields = line.split(/ *\| */)
-                  if (fields.size() > 3) {
+                  if (fields.size() > 4) {
                     Cell {
                       Data('ss:Type': "String", 
                            'ss:StyleID': 'sLineNumber', 
@@ -75,8 +75,7 @@ output.withWriter {
                            'ss:StyleID': 'sLineNumber', 
                            "${fields[1]}")
                     }
-                  }
-                  if (fields.size() > 2) {
+                  } else if (fields.size() > 2) {
                     Cell {
                       Data('ss:Type': "String", 
                            'ss:StyleID': 'sLineNumber', 
