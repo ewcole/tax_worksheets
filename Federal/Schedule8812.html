@@ -17,7 +17,8 @@
    background-color: #ddf;
 }
       td {
-         border: 1px solid silver;
+          border: 1px solid silver;
+          vertical-align: top;
       }
       td.line-num {
       max-width: 4em;
@@ -30,6 +31,9 @@
       background-color: white;
       border: 1px solid black;
       width: 10em;
+      }
+      dt {
+        font-weight: bold;
       }
     </style>
   </head>
@@ -121,12 +125,18 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
       </tr>
       <tr>
         <td/>
-        <td>
+        <td colspan="12">
           Next. Do you have three or more qualifying children?
-          No.
-          If line 6 is zero, stop here; you cannot claim this credit. Otherwise, skip Part III and enter the smaller of line 3 or line 6 on line 13.
-          Yes.
-          If line 6 is equal to or more than line 3, skip Part III and enter the amount from line 3 on line 13. Otherwise, go to line 7.
+          <dl>
+            <dt>No.</dt>
+            <dd>
+              If line 6 is zero, stop here; you cannot claim this credit. Otherwise, skip Part III and enter the smaller of line 3 or line 6 on line 13.
+            </dd>
+            <dt>Yes.</dt>
+            <dd>
+              If line 6 is equal to or more than line 3, skip Part III and enter the amount from line 3 on line 13. Otherwise, go to line 7.
+            </dd>
+          </dl>
         </td>
       </tr>
       <tr>
@@ -141,11 +151,11 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
       <tr>
         <td class="line-num">7</td>
         <td colspan="10">
-        Withheld social security, Medicare, and Additional Medicare taxes from
-Form(s) W-2, boxes 4 and 6. If married filing jointly, include your spouse’s
-amounts with yours. If your employer withheld or you paid Additional
-Medicare Tax or tier 1 RRTA taxes, see separate instructions . . . . . . 
-
+          Withheld social security, Medicare, and Additional Medicare taxes
+          from <b>Form(s) W-2, boxes 4 and 6</b>. If married filing jointly,
+          include your spouse's
+          amounts with yours. If your employer withheld or you paid Additional
+          Medicare Tax or tier 1 RRTA taxes, see separate instructions.
         </td>
         <td class="line-num">7</td>
         <td class="cash"></td>
@@ -154,14 +164,14 @@ Medicare Tax or tier 1 RRTA taxes, see separate instructions . . . . . .
       <tr>
         <td class="line-num">8</td>
         <td colspan="10">
-        1040 filers: Enter the total of the amounts from Form 1040, lines
-27 and 58, plus any taxes that you identified using code
-“UT” and entered on line 62.
-1040A filers: Enter -0-.
-1040NR filers: Enter the total of the amounts from Form 1040NR,
-lines 27 and 56, plus any taxes that you identified using
-code “UT” and entered on line 60.
-
+          <dl>
+            <dt>1040 filers:</dt>
+            <dd>Enter the total of the amounts from <b>Form 1040, lines 27 and 58</b>, plus any taxes that you identified using code “UT” and entered on <b>line 62</b>.</dd>
+            <dt>1040A filers:</dt>
+            <dd>Enter -0-.</dd>
+            <dt>1040NR filers:</dt>
+            <dd>Enter the total of the amounts from Form 1040NR, lines 27 and 56, plus any taxes that you identified using code “UT” and entered on line 60.</dd>
+          </dl>
         </td>
         <td class="line-num">8</td>
         <td class="cash"></td>
@@ -170,8 +180,7 @@ code “UT” and entered on line 60.
       <tr>
         <td class="line-num">9</td>
         <td colspan="10">
-        Add lines 7 and 8 . . . . . . . . . . . . . . . . . . .
-
+        Add lines 7 and 8
         </td>
         <td class="line-num">9</td>
         <td class="cash"></td>
@@ -180,13 +189,14 @@ code “UT” and entered on line 60.
       <tr>
         <td class="line-num">10</td>
         <td colspan="10">
-          1040 filers: Enter the total of the amounts from Form 1040, lines 66a and 71.
-  1040A filers: Enter the total of the amount from Form 1040A, line
-  42a, plus any excess social security and tier 1 RRTA
-  taxes withheld that you entered to the left of line 46
-  (see separate instructions).
-  1040NR filers: Enter the amount from Form 1040NR, line 67. }
-
+          <dl>
+            <dt>1040 filers:</dt>
+            <dd>Enter the total of the amounts from Form 1040, lines 66a and 71.</dd>
+            <dt>1040A filers:</dt>
+            <dd>Enter the total of the amount from Form 1040A, line 42a, plus any excess social security and tier 1 RRTA  taxes withheld that you entered to the left of line 46   (see separate instructions).</dd>
+            <dt>1040NR filers:</dt>
+            <dd>Enter the amount from Form 1040NR, line 67. </dd>
+          </dl>
         </td>
         <td class="line-num">10</td>
         <td class="cash"></td>
@@ -195,8 +205,7 @@ code “UT” and entered on line 60.
       <tr>
         <td class="line-num">11</td>
         <td colspan="10">
-        Subtract line 10 from line 9. If zero or less, enter -0- . . . . . . . . . . . . . . . . .
-
+          Subtract line 10 from line 9. If zero or less, enter -0-
         </td>
         <td class="line-num">11</td>
         <td class="cash"></td>
@@ -205,15 +214,14 @@ code “UT” and entered on line 60.
       <tr>
         <td class="line-num">12</td>
         <td colspan="10">
-        Enter the larger of line 6 or line 11 . . . . . . . . . . . . . . . . . . . . . .
-
+        Enter the larger of line 6 or line 11
         </td>
         <td class="line-num">12</td>
         <td class="cash"></td>
       </tr>
       <tr>
         <td/>
-<td>
+        <td>
 
 Next, enter the smaller of line 3 or line 12 on line 13.
 Part IV Additional Child Tax Credit
