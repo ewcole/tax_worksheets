@@ -7,10 +7,12 @@
       font-weight: bold;
       background-color: black;
       color: white;
+      border: 2px solid black;
       }
       .header-b {
       font-weight: bold;
       background-color: white;
+      border: 2px solid black;
       }
       table {
       border-collapse: collapse;
@@ -40,13 +42,22 @@
   <body>
     <table>
       <tr>
-        <td colspan="99">
+        <td colspan="13">
 Note: If you have more than four dependents identified with an ITIN and listed as a qualifying child for the child tax credit, see separate instructions
 and check here
         </td>
       </tr>
       <tr>
-        <td colspan="2" class="header-a">Part II</td><td colspan="9" class="header-b">Additional Child Tax Credit Filers</td>
+        <td colspan="2" class="header-a">Part I</td><td colspan="11" class="header-b">Filers Who Have Certain Child Dependent(s) with an Individual Taxpayer Identification Number (ITIN)</td>
+      </tr>
+      <tr>
+        <td/>
+        <td colspan="10">How many children did you mark in Part I?</td>
+        <td/>
+        <td class="cash"/>
+      </tr>
+      <tr>
+        <td colspan="2" class="header-a">Part II</td><td colspan="11" class="header-b">Additional Child Tax Credit Filers</td>
       </tr>
       <tr>
         <td class="line-num">1</td>
@@ -103,12 +114,13 @@ and check here
       <tr>
         <td class="line-num">5</td>
         <td colspan="8">
-        Is the amount on line 4a more than $3,000?
-No.
-Leave line 5 blank and enter -0- on line 6.
-Yes.
-Subtract $3,000 from the amount on line 4a. Enter the result ...
-
+          Is the amount on line 4a more than $3,000?
+          <dl>
+            <dt>No.</dt>
+            <dd>Leave line 5 blank and enter -0- on line 6.</dd>
+            <dt>Yes.</dt>
+            <dd>Subtract $3,000 from the amount on line 4a. Enter the result</dd>
+          </dl>
         </td>
         <td class="line-num">5</td>
         <td class="cash"></td>
@@ -117,7 +129,7 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
       <tr>
         <td class="line-num">6</td>
         <td colspan="10">
-          Multiply the amount on line 5 by 15% (0.15) and enter the result ..............
+          Multiply the amount on line 5 by 15% (0.15) and enter the result
           
         </td>
         <td class="line-num">6</td>
@@ -145,12 +157,12 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
         </td>
       </tr>
       <tr>
-        <td colspan="2" class="header-a">Part III</td><td colspan="9" class="header-b">Certain Filers Who Have Three or More Qualifying Children</td>
+        <td colspan="2" class="header-a">Part III</td><td colspan="11" class="header-b">Certain Filers Who Have Three or More Qualifying Children</td>
       </tr>
 
       <tr>
         <td class="line-num">7</td>
-        <td colspan="10">
+        <td colspan="8">
           Withheld social security, Medicare, and Additional Medicare taxes
           from <b>Form(s) W-2, boxes 4 and 6</b>. If married filing jointly,
           include your spouse's
@@ -163,14 +175,14 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
 
       <tr>
         <td class="line-num">8</td>
-        <td colspan="10">
+        <td colspan="8">
           <dl>
             <dt>1040 filers:</dt>
-            <dd>Enter the total of the amounts from <b>Form 1040, lines 27 and 58</b>, plus any taxes that you identified using code “UT” and entered on <b>line 62</b>.</dd>
+            <dd>Enter the total of the amounts from <b>Form 1040, lines 27 and 58</b>, plus any taxes that you identified using code &quot;UT&quot; and entered on <b>line 62</b>.</dd>
             <dt>1040A filers:</dt>
             <dd>Enter -0-.</dd>
             <dt>1040NR filers:</dt>
-            <dd>Enter the total of the amounts from Form 1040NR, lines 27 and 56, plus any taxes that you identified using code “UT” and entered on line 60.</dd>
+            <dd>Enter the total of the amounts from <b>Form 1040NR, lines 27 and 56</b>, plus any taxes that you identified using code &quot;UT&quot; and entered on <b>line 60</b>.</dd>
           </dl>
         </td>
         <td class="line-num">8</td>
@@ -179,7 +191,7 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
 
       <tr>
         <td class="line-num">9</td>
-        <td colspan="10">
+        <td colspan="8">
         Add lines 7 and 8
         </td>
         <td class="line-num">9</td>
@@ -188,14 +200,14 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
         
       <tr>
         <td class="line-num">10</td>
-        <td colspan="10">
+        <td colspan="8">
           <dl>
             <dt>1040 filers:</dt>
-            <dd>Enter the total of the amounts from Form 1040, lines 66a and 71.</dd>
+            <dd>Enter the total of the amounts from <b>Form 1040, lines 66a and 71</b>.</dd>
             <dt>1040A filers:</dt>
-            <dd>Enter the total of the amount from Form 1040A, line 42a, plus any excess social security and tier 1 RRTA  taxes withheld that you entered to the left of line 46   (see separate instructions).</dd>
+            <dd>Enter the total of the amount from Form <b>1040A, line 42a</b>, plus any excess social security and tier 1 RRTA  taxes withheld that you entered to the left of <b>line 46</b>   (see separate instructions).</dd>
             <dt>1040NR filers:</dt>
-            <dd>Enter the amount from Form 1040NR, line 67. </dd>
+            <dd>Enter the amount from <b>Form 1040NR, line 67</b>. </dd>
           </dl>
         </td>
         <td class="line-num">10</td>
@@ -221,31 +233,29 @@ Subtract $3,000 from the amount on line 4a. Enter the result ...
       </tr>
       <tr>
         <td/>
-        <td>
-
-Next, enter the smaller of line 3 or line 12 on line 13.
-Part IV Additional Child Tax Credit
+        <td colspan="12">
+          Next, enter the smaller of line 3 or line 12 on line 13.
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2" class="header-a">Part IV</td>
+        <td colspan="11" class="header-b">Additional Child Tax Credit</td>
 </td>
       </tr>
       <tr>
         <td class="line-num">13</td>
         <td colspan="10">
-        This is your additional child tax credit . . . . . . . . . . . . . . . . . . . . .
-
+        This is your additional child tax credit.
         </td>
         <td class="line-num">13</td>
         <td class="cash"></td>
       </tr>
       <tr>
-<td/><td/><td>
- 1040A
- 1040
- 1040NR 
+<td/><td colspan="12">
 Enter this amount on
-Form 1040, line 67,
-Form 1040A, line 43, or
-Form 1040NR, line 64.
-Schedule 8812 (Form 1040A or 1040) 2017
+<b>Form 1040, line 67<b>,
+<b>Form 1040A, line 43<b>, or
+<b>Form 1040NR<b>, line 64
         </td>
       </tr>
     </table>
