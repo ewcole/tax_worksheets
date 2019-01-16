@@ -1,0 +1,42 @@
+Form  1040 (2018)        Department of the Treasury--Internal Revenue Service       Page 2
+| 1 | Wages, salaries, tips, etc. Attach Form(s) W-2 |
+| 2a | Tax-exempt interest . |
+| 2b | Taxable interest . |
+| 3a | Qualified dividends . |
+| 3b | Ordinary dividends |
+| 4a | IRAs, pensions, and annuities . |
+| 4b | Taxable amount . |
+| 5a | Social security benefits |
+| 5b | Taxable amount . |
+| 6 | Total income. Add lines 1 through 5. Add any amount from Schedule 1, line 22   |
+| 7 | Adjusted gross income. If you have no adjustments to income, enter the amount from line 6; otherwise, subtract Schedule 1, line 36, from line 6 |
+Standard Deduction for (
+Single or married filing separately $12,000
+Married filing jointly or Qualifying widow(er) $24,000
+Head of household $18,000
+)
+| 8 | Standard deduction or itemized deductions (from Schedule A) |
+| 9 | Qualified business income deduction (see instructions) |
+| 10 | Taxable income. Subtract lines 8 and 9 from line 7. If zero or less, enter -0- |
+(check if any from: 1 Form(s) 8814 2 Form 4972 3                                )
+| 11a | Tax (see inst.) |
+| 11b | Add any amount from Schedule 2 and check here  |
+| 12 | a Child tax credit/credit for other dependents   b Add any amount from Schedule 3 and check here  |
+| 13 | Subtract line 12 from line 11. If zero or less, enter -0- |
+| 14 | Other taxes. Attach Schedule 4 |
+| 15 | Total tax. Add lines 13 and 14 |
+| 16 | Federal income tax withheld from Forms W-2 and 1099 . |
+Refundable credits:
+| 17a | EIC (see inst.) |
+| 17b | Sch. 8812 |
+| 17c | Form 8863 |
+| 17d | Add any amount from Schedule 5 |
+| 17 | Add any amount from Schedule 5                   |
+| 18 | Add lines 16 and 17. These are your total payments |
+Refund
+| 19 | If line 18 is more than line 15, subtract line 15 from line 18. This is the amount you overpaid |
+| 20a | Amount of line 19 you want refunded to you. If Form 8888 is attached, check here  |
+| 21 | Amount of line 19 you want applied to your 2019 estimated tax  |
+Amount You Owe
+| 22 | Amount you owe. Subtract line 18 from line 15. For details on how to pay, see instructions .  |
+| 23 | Estimated tax penalty (see instructions) |
