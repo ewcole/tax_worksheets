@@ -1,0 +1,8 @@
+* Locations
+** Schedules
+- [[https://www.irs.gov/pub/irs-pdf/f1040s1.pdf][Schedule 1]]
+- [[https://www.irs.gov/pub/irs-pdf/f1040s2.pdf][Schedule 2]]
+- [[https://www.irs.gov/pub/irs-pdf/f1040s3.pdf][Schedule 3]]
+- [[https://www.irs.gov/pub/irs-pdf/f1040s4.pdf][Schedule 4]]
+- [[https://www.irs.gov/pub/irs-pdf/f1040s5.pdf][Schedule 5]]
+- [[https://www.irs.gov/pub/irs-pdf/f1040s6.pdf][Schedule 6]]
