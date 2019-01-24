@@ -1,0 +1,30 @@
+SCHEDULE 1 (Form 1040)    Additional Income and Adjustments to Income    2018
+
+| 10 | Taxable refunds, credits, or offsets of state and local income taxes |
+| 11 | Alimony received |
+| 12 | Business income or (loss). Attach Schedule C or C-EZ |
+| 13 | Capital gain or (loss). Attach Schedule D if required. If not required, check here ▶ |
+| 14 | Other gains or (losses). Attach Form 4797 |
+| 15b | Reserved |
+| 16b | Reserved |
+| 17 | Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E |
+| 18 | Farm income or (loss). Attach Schedule F |
+| 19 | Unemployment compensation |
+| 20b | Reserved |
+| 21 | Other income. List type and amount  |
+| 22 | Combine the amounts in the far right column. If you don’t have any adjustments to income, enter here and include on Form 1040, line 6. Otherwise, go to line 23 .. |
+Adjustments to Income
+| 23 | Educator expenses |
+| 24 | Certain business expenses of reservists, performing artists, and fee-basis government officials. Attach Form 2106 .. |
+| 25 | Health savings account deduction. Attach Form 8889 . |
+| 26 | Moving expenses for members of the Armed Forces. Attach Form 3903 |
+| 27 | Deductible part of self-employment tax. Attach Schedule SE |
+| 28 | Self-employed SEP, SIMPLE, and qualified plans.. |
+| 29 | Self-employed health insurance deduction |
+| 30 | Penalty on early withdrawal of savings |
+| 31a | Alimony paid |
+| 32 | IRA deduction |
+| 33 | Student loan interest deduction |
+| 34 | Reserved |
+| 35 | Reserved |
+| 36 | Add lines 23 through 35 |
