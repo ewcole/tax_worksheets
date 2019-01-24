@@ -3,7 +3,7 @@ SCHEDULE 1 (Form 1040)    Additional Income and Adjustments to Income    2018
 | 10 | Taxable refunds, credits, or offsets of state and local income taxes |
 | 11 | Alimony received |
 | 12 | Business income or (loss). Attach Schedule C or C-EZ |
-| 13 | Capital gain or (loss). Attach Schedule D if required. If not required, check here ▶ |
+| 13 | Capital gain or (loss). Attach Schedule D if required. If not required, check here  |
 | 14 | Other gains or (losses). Attach Form 4797 |
 | 15b | Reserved |
 | 16b | Reserved |
@@ -12,7 +12,7 @@ SCHEDULE 1 (Form 1040)    Additional Income and Adjustments to Income    2018
 | 19 | Unemployment compensation |
 | 20b | Reserved |
 | 21 | Other income. List type and amount  |
-| 22 | Combine the amounts in the far right column. If you don’t have any adjustments to income, enter here and include on Form 1040, line 6. Otherwise, go to line 23 .. |
+| 22 | Combine the amounts in the far right column. If you don't have any adjustments to income, enter here and include on Form 1040, line 6. Otherwise, go to line 23 .. |
 Adjustments to Income
 | 23 | Educator expenses |
 | 24 | Certain business expenses of reservists, performing artists, and fee-basis government officials. Attach Form 2106 .. |
