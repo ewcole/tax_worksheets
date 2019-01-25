@@ -1,0 +1,10 @@
+SCHEDULE 4 (Form 1040)                   Other Taxes                      2018
+| 57 | Self-employment tax. Attach Schedule SE  |
+| 58 | Unreported social security and Medicare tax from: Form a 4137 b 8919  |
+| 59 | Additional tax on IRAs, other qualified retirement plans, and other tax-favored accounts. Attach Form 5329 if required  |
+| 60a | Household employment taxes. Attach Schedule H  |
+| 60b | Repayment of first-time homebuyer credit from Form 5405. Attach Form 5405 if required  |
+| 61 | Health care: individual responsibility (see instructions)  |
+| 62 | Taxes from: a Form 8959 b Form 8960 c Instructions; enter code(s)  |
+| 63 | Section 965 net tax liability installment from Form 965-A  |
+| 64 | Add the amounts in the far right column. These are your total other taxes. Enter here and on Form 1040, line 14  |
