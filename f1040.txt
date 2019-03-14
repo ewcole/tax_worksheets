@@ -1,0 +1,131 @@
+Form  1040 Department of the Treasury--Internal Revenue Service                (99)  2018
+
+                       U.S. Individual Income Tax Return                                           OMB No. 1545-0074                                      IRS Use Only--Do not write or staple in this space.
+
+Filing status:         Single          Married filing jointly  Married filing separately           Head of household         Qualifying widow(er)
+
+Your first name and initial                                      Last name                                                                                          Your social security number
+
+Your standard deduction:            Someone can claim you as a dependent             You were born before January 2, 1954                                       You are blind
+
+If joint return, spouse's first name and initial                 Last name                                                                                          Spouse's social security number
+
+Spouse standard deduction:     Someone can claim your spouse as a dependent               Spouse   was born before      January  2,                       1954              Full-year health care coverage
+
+      Spouse is blind          Spouse itemizes on a separate return or you were dual-status alien                                                                           or exempt (see inst.)
+
+Home address (number and street). If you have a P.O. box, see instructions.                                                                               Apt. no.  Presidential Election Campaign
+
+                                                                                                                                                                    (see inst.)       You                 Spouse
+
+City, town or post office, state, and ZIP code. If you have a foreign address, attach Schedule 6.                                                                   If more than four dependents,
+
+                                                                                                                                                                    see inst. and      here             
+
+Dependents (see instructions):                                   (2) Social security number        (3) Relationship to  you                                         (4)  if qualifies for (see inst.):
+
+(1) First name                                    Last name                                                                                               Child tax credit            Credit for other dependents
+
+Sign               Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements, and to the best of         my  knowledge and belief, they are true,
+
+Here               correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+
+                       Your signature                                          Date                Your occupation                                                  If the IRS sent you an Identity Protection
+
+Joint return?                                                                                                                                                       PIN, enter it
+
+See instructions.                                                                                                                                                   here (see inst.)
+
+Keep a copy for        Spouse's signature. If a joint return, both must sign.  Date                Spouse's occupation                                              If the IRS sent you an Identity Protection
+
+your records.                                                                                                                                                       PIN, enter it
+
+                                                                                                                                                                    here (see inst.)
+
+Paid                   Preparer's name                         Preparer's signature                                     PTIN                                        Firm's EIN        Check if:
+
+Preparer                                                                                                                                                                              3rd Party Designee
+
+Use Only               Firm's name                                                                                      Phone no.                                                     Self-employed
+
+                       Firm's address 
+
+For Disclosure,    Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.                          Cat. No. 11320B                                               Form 1040 (2018)
+Form 1040 (2018)                                                                                                                                                             Page 2
+
+                       1    Wages, salaries, tips, etc. Attach Form(s) W-2               .  .  .  .      .   .  .      .      .  .  .      .  .   .  .       .    1
+
+                       2a   Tax-exempt interest .     .     .               2a                                            b   Taxable interest    .  .       .    2b
+
+Attach Form(s)
+
+W-2. Also attach       3a   Qualified dividends    .  .     .               3a                                            b   Ordinary dividends     .       .    3b
+
+Form(s) W-2G and       4a   IRAs, pensions, and annuities   .               4a                                            b   Taxable amount      .  .       .    4b
+
+1099-R if tax was
+
+withheld.              5a   Social security benefits  .     .               5a                                            b   Taxable amount      .  .       .    5b
+
+                       6    Total income. Add lines 1 through 5. Add any amount from Schedule 1, line 22                                   .  .   .  .       .    6
+
+                       7    Adjusted gross income. If you have no adjustments to income, enter the amount from line 6; otherwise,
+
+Standard                    subtract Schedule 1, line 36, from line 6              .     .  .  .  .      .   .  .      .      .  .  .      .  .   .  .       .    7
+
+Deduction for--        8    Standard deduction or itemized deductions (from Schedule A)                  .   .  .      .      .  .  .      .  .   .  .       .    8
+
+� Single or married    9    Qualified business income deduction (see instructions) .              .      .   .  .      .      .  .  .      .  .   .  .       .    9
+
+filing separately,
+
+$12,000                10   Taxable income. Subtract lines 8 and 9 from line 7. If zero or less, enter -0-                    .  .  .      .  .   .  .       .    10
+
+� Married filing
+
+jointly or Qualifying  11   a Tax (see inst.)              (check if any from:        1        Form(s) 8814  2     Form 4972        3                     )
+
+widow(er),                  b Add any amount from Schedule 2 and check here                    .  .      .   .  .      .      .  .  .      .  .   .               11
+
+$24,000
+
+� Head of              12   a Child tax credit/credit for other dependents                        b Add any amount from Schedule 3 and check here                 12
+
+household,             13   Subtract line 12 from line 11. If zero or less, enter -0-          .  .      .   .  .      .      .  .  .      .  .   .  .       .    13
+
+$18,000
+
+� If you checked       14   Other taxes. Attach Schedule 4 .        .           .  .     .  .  .  .      .   .  .      .      .  .  .      .  .   .  .       .    14
+
+any box under
+
+Standard               15   Total tax. Add lines 13 and 14     .    .           .  .     .  .  .  .      .   .  .      .      .  .  .      .  .   .  .       .    15
+
+deduction,             16   Federal income tax withheld from Forms W-2 and 1099                   .      .   .  .      .      .  .  .      .  .   .  .       .    16
+
+see instructions.
+
+                       17   Refundable credits:  a EIC (see inst.)                          b Sch. 8812                          c Form 8863
+
+                            Add any amount from Schedule 5                                     .  .      .   .  .      .      .  .  .      .  .   .  .       .    17
+
+                       18   Add lines 16 and 17. These are your total payments                 .  .      .   .  .      .      .  .  .      .  .   .  .       .    18
+
+Refund                 19   If line 18 is more than line 15, subtract line 15 from line 18. This is the amount you overpaid                   .   .  .       .    19
+
+                       20a  Amount of line 19 you want refunded to you. If Form 8888 is attached, check here                        .      .  .   .               20a
+
+Direct deposit?        b    Routing number                                                                    c Type:            Checking            Savings
+
+See instructions.
+
+                       d    Account number
+
+                       21   Amount of line 19 you want applied to your 2019 estimated tax                .   .            21
+
+Amount You Owe         22   Amount you owe. Subtract line 18 from line 15. For details on how to pay, see instructions                        .   .  .            22
+
+                       23   Estimated tax penalty (see instructions) .             .     .  .  .  .      .   .            23
+
+Go to www.irs.gov/Form1040 for instructions and the latest information.                                                                                                Form  1040 (2018)
+
