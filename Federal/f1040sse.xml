@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="IRS f1040">
+    <Styles>
+      <Style ss:ID="Default" ss:Name="Normal" />
+      <Style ss:ID="sLineNumber" ss:Name="LineNumber">
+        <Font ss:Bold="1" />
+        <Borders>
+          <Border ss:Position="Left" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+          <Border ss:Position="Top" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+          <Border ss:Position="Right" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+          <Border ss:Position="Bottom" ss:Color="#000000" ss:Weight="0" ss:LineStyle="Continuous" />
+        </Borders>
+      </Style>
+      <Style ss:ID="LineText" ss:Name="Normal" />
+    </Styles>
+    <Table>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">SCHEDULE SE (Form 1040)       Self-Employment Tax</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Section A--Short Schedule SE.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Net farm profit or (loss) from Schedule F, line 34, and farm partnerships, Schedule K-1 (Form 1065), box 14, code A .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you received social security retirement or disability benefits, enter the amount of Conservation Reserve Program payments included on Schedule F, line 4b, or listed on Schedule K-1 (Form 1065), box 20, code AH</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Ministers and members of religious orders, see instructions for types of income to report on this line. See instructions for other income to report .</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Net profit or (loss) from Schedule C, line 31; Schedule C-EZ, line 3; Schedule K-1 (Form 1065), box 14, code A (other than farming); and Schedule K-1 (Form 1065-B), box 9, code J1.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Combine lines 1a, 1b, and 2 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Multiply line 3 by 92.35% (0.9235).</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">If line 4 is less than $400, you don't owe self-employment tax; don't file this schedule unless you have an amount on line 1b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Note: If line 4 is less than $400 due to Conservation Reserve Program payments on line 1b, see instructions.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Self-employment tax. If the amount on line 4 is:</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">· $128,400 or less, multiply line 4 by 15.3% (0.153). Enter the result here and on Schedule 4 (Form 1040), line 57, or Form 1040NR, line 55</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">· More than $128,400, multiply line 4 by 2.9% (0.029). Then, add $15,921.60 to the result.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Self-employment tax</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Enter the total here and on Schedule 4 (Form 1040), line 57, or Form 1040NR, line 55 . .</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Multiply line 5 by 50% (0.50). Enter the result here and on</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Schedule 1 (Form 1040), line 27, or Form 1040NR, line 27 .</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Deduction for one-half of self-employment tax.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Section B--Long Schedule SE Part I Self-Employment Tax</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">A If you are a minister, member of a religious order, or Christian Science practitioner and you filed Form 4361, but you had $400 or more of other net earnings from self-employment, check here and continue with Part I</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Net farm profit or (loss) from Schedule F, line 34, and farm partnerships, Schedule K-1 (Form 1065), box 14, code A. Note: Skip lines 1a and 1b if you use the farm optional method (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you received social security retirement or disability benefits, enter the amount of Conservation Reserve Program payments included on Schedule F, line 4b, or listed on Schedule K-1 (Form 1065), box 20, code AH</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">1b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Net profit or (loss)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Combine lines 1a, 1b, and 2 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If line 3 is more than zero, multiply line 3 by 92.35% (0.9235). Otherwise, enter amount from line 3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Note: If line 4a is less than $400 due to Conservation Reserve Program payments on line 1b, see instructions.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">If you elect one or both of the optional methods, enter the total of lines 15 and 17 here . .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Combine lines 4a and 4b. If less than $400, stop; you don't owe self-employment tax. Exception: If less than $400 and you had church employee income, enter -0- and continue</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">4c</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">5a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Enter your church employee income from Form W-2. See instructions for definition of church employee income .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">5a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">5b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Multiply line 5a by 92.35% (0.9235). If less than $100, enter -0- .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">5b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Add lines 4c and 5b .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Maximum amount of combined wages and self-employment earnings subject to social security tax or the 6.2% portion of the 7.65% railroad retirement (tier 1) tax for 2018 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">7</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Total social security wages and tips (total of boxes 3 and 7 on Form(s) W-2) and railroad retirement (tier 1) compensation. If $128,400 or more, skip lines 8b through 10, and go to line 11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Unreported tips subject to social security tax (from Form 4137, line 10)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Wages subject to social security tax (from Form 8919, line 10)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8c</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8d</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Add lines 8a, 8b, and 8c .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">8d</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">9</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Subtract line 8d from line 7. If zero or less, enter -0- here and on line 10 and go to line 11 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">10</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Multiply the smaller of line 6 or line 9 by 12.4% (0.124) .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">10</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Multiply line 6 by 2.9% (0.029) .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">11</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">12</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Self-employment tax. Add lines 10 and 11. Enter here and on Schedule 4 (Form 1040), line 57, or Form 1040NR, line 55 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">12</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">13</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Deduction for one-half of self-employment tax. Multiply line 12 by 50% (0.50). Enter the result here and on Schedule 1 (Form 1040), line 27, or Form 1040NR, line 27 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">13</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part II Optional Methods To Figure Net Earnings (see instructions)</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Farm Optional Method. You may use this method only if (a) your gross farm income1 wasn't more than $7,920, or (b) your net farm profits2 were less than $5,717.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">14</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Maximum income for optional methods .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">14</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">15</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Enter the smaller of: two-thirds (2/3) of gross farm income1 (not less than zero) or $5,280. Also include this amount on line 4b above .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">15</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Nonfarm Optional Method. You may use this method only if (a) your net nonfarm profits3 were less than $5,717 and also less than 72.189% of your gross nonfarm income,4 and (b) you had net earnings from self-employment of at least $400 in 2 of the prior 3 years. Caution: You may use this method no more than five times.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">16</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Subtract line 15 from line 14 .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">16</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">17</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Enter the smaller of: two-thirds (2/3) of gross nonfarm income4 (not less than zero) or the amount on line 16. Also include this amount on line 4b above .</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String" ss:StyleID="sLineNumber">17</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
