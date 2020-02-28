@@ -1,0 +1,71 @@
+1
+Wages, salaries, tips, etc. Attach Form(s) W-2 ..................
+1
+2
+a
+Tax-exempt interest ....
+2a
+b Taxable interest. Attach Sch. B if required
+2b
+3
+a
+Qualified dividends ....
+3a
+b Ordinary dividends. Attach Sch. B if required
+3b
+4
+a
+IRA distributions.....
+4a
+b Taxable amount ......
+4b
+c
+Pensions and annuities...
+4c
+d Taxable amount ......
+4d
+5
+a
+Social security benefits ...
+5a
+b Taxable amount ......
+5b
+6
+Capital gain or (loss). Attach Schedule D if required. If not required, check here ....... ▶
+6
+7
+a
+Other income from Schedule 1, line 9 ....................
+7a
+b
+Add lines 1, 2b, 3b, 4b, 4d, 5b, 6, and 7a. This is your total income ........... ▶
+7b
+8
+a
+Adjustments to income from Schedule 1, line 22 .................
+8a
+b
+Subtract line 8a from line 7b. This is your adjusted gross income ........... ▶
+8b
+9
+Standard deduction or itemized deductions (from Schedule A) .....
+Standard Deduction for—
+• Single or Married filing separately, $12,200
+• Married filing jointly or Qualifying widow(er), $24,400
+• Head of household, $18,350
+• If you checked any box under Standard Deduction, see instructions.
+9
+10
+Qualified business income deduction. Attach Form 8995 or Form 8995-A ...
+10
+11
+a
+Add lines 9 and 10 .........................
+11a
+b
+Taxable income. Subtract line 11a from line 8b. If zero or less, enter -0- ...........
+11b
+For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.
+Cat. No. 11320B
+Form 1040
+
