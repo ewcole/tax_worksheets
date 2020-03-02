@@ -1,71 +1,44 @@
-1
-Wages, salaries, tips, etc. Attach Form(s) W-2 ..................
-1
-2
-a
-Tax-exempt interest ....
-2a
-b Taxable interest. Attach Sch. B if required
-2b
-3
-a
-Qualified dividends ....
-3a
-b Ordinary dividends. Attach Sch. B if required
-3b
-4
-a
-IRA distributions.....
-4a
-b Taxable amount ......
-4b
-c
-Pensions and annuities...
-4c
-d Taxable amount ......
-4d
-5
-a
-Social security benefits ...
-5a
-b Taxable amount ......
-5b
-6
-Capital gain or (loss). Attach Schedule D if required. If not required, check here ....... ▶
-6
-7
-a
-Other income from Schedule 1, line 9 ....................
-7a
-b
-Add lines 1, 2b, 3b, 4b, 4d, 5b, 6, and 7a. This is your total income ........... ▶
-7b
-8
-a
-Adjustments to income from Schedule 1, line 22 .................
-8a
-b
-Subtract line 8a from line 7b. This is your adjusted gross income ........... ▶
-8b
-9
-Standard deduction or itemized deductions (from Schedule A) .....
-Standard Deduction for—
-• Single or Married filing separately, $12,200
-• Married filing jointly or Qualifying widow(er), $24,400
-• Head of household, $18,350
-• If you checked any box under Standard Deduction, see instructions.
-9
-10
-Qualified business income deduction. Attach Form 8995 or Form 8995-A ...
-10
-11
-a
-Add lines 9 and 10 .........................
-11a
-b
-Taxable income. Subtract line 11a from line 8b. If zero or less, enter -0- ...........
-11b
-For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.
-Cat. No. 11320B
-Form 1040
-
+| 1  | Wages, salaries, tips, etc. Attach Form(s) W-2                                        |    | 1  |
+| 2a | Tax-exempt interest                                                                   | 2a |    |
+| 2b | Taxable Interest                                                                      |    | 2b |
+| 3a | Qualified dividends                                                                   | 3a |    |
+| 3b | Ordinary dividends                                                                    |    | 3b |
+| 4a | IRA distributions                                                                     | 4a |    |
+| 4b | Taxable amount                                                                        |    | 4b |
+| 4c | Pensions and annuities                                                                | 4c |    |
+| 4d | Taxable amount                                                                        |    | 4d |
+| 5a | Social security benefits                                                              | 5a |    |
+| 5b | Capital gain or (loss). Attach Schedule D if required. If not required, check here  ? |    | 5b |
+| 6  |                                                                                       | 6  |    |
+| 7a | Other income from Schedule 1, line 9                                                  | 7a |    |
+| 7b | Add lines 1, 2b, 3b, 4b, 4d, 5b, 6, and 7a. This is your total income  ?              | 7b |    |
+| 8a | Adjustments to income from Schedule 1, line 22                                        | 8a |    |
+| 8b | Subtract line 8a from line 7b. This is your adjusted gross income  ?                  | 8b |    |
+| 9  | Standard deduction or itemized deductions (from Schedule A)                           | 9  |    |
+Standard Deduction for { Single or Married filing separately: $12,200; 
+                         Married filing jointly or Qualifying widow(er): $24,400;
+                         Head of household, $18,350 }
+| 10  | Qualified business income deduction. Attach Form 8995 or Form 8995-A                                                                                           | 10  |
+| 11a | Add lines 9 and 10                                                                                                                       | 11a |
+| 11b | Taxable income. Subtract line 11a from line 8b. If zero or less, enter -0-                                                                             | 11b |
+| 12a | Tax (see inst.) Check if any from Form(s): 1 8814 2 4972 3                                                                                                        | 12a |
+| 12b | Add Schedule 2, line 3, and line 12a and enter the total . . . . . . . . . . . . . . ?                                                                            | 12b |
+| 13a | Child tax credit or credit for other dependents . . . . . . . . . .                                                                                               | 13a |
+| 13b | Add Schedule 3, line 7, and line 13a and enter the total . . . . . . . . . . . . . . ?                                                                            | 13b |
+| 14  | Subtract line 13b from line 12b. If zero or less, enter -0- . . . . . . . . . . . . . . .                                                                         | 14  |
+| 15  | Other taxes, including self-employment tax, from Schedule 2, line 10 . . . . . . . . . . . .                                                                      | 15  |
+| 16  | Add lines 14 and 15. This is your total tax . . . . . . . . . . . . . . . . . . ?                                                                                 | 16  |
+| 17  | Federal income tax withheld from Forms W-2 and 1099 . . . . . . . . . . . . . . .                                                                                 | 17  |
+| 18a | Earned income credit (EIC) . . . . . . . . . . . . . . .� If you have aqualifying child,attach Sch. EIC.� If you havenontaxablecombat pay, seeinstructions. | 18a |
+| 18b | Additional child tax credit. Attach Schedule 8812 . . . . . . . . .                                                                                               | 18b |
+| 18c | American opportunity credit from Form 8863, line 8 . . . . . . . .                                                                                                | 18c |
+| 18d | Schedule 3, line 14 . . . . . . . . . . . . . . . . .                                                                                                             | 18d |
+| 18e | Add lines 18a through 18d. These are your total other payments and refundable credits . . . . . ?                                                                 | 18e |
+| 19  | Add lines 17 and 18e. These are your total payments . . . . . . . . . . . . . . . ?                                                                               | 19  |
+REFUND
+|  20 | If line 19 is more than line 16, subtract line 16 from line 19. This is the amount you overpaid . . . . . . |  20 |
+| 21a | Amount of line 20 you want refunded to you. If Form 8888 is attached, check here . . . . . . ?              | 21a |
+|  22 | Amount of line 20 you want applied to your 2020 estimated tax . . . . ?                                     |  22 |
+AMOUNT YOU OWE
+| 23 | Amount you owe. Subtract line 19 from line 16. For details on how to pay, see instructions . . . . . ? | 23 |
+| 24 | Estimated tax penalty (see instructions) . . . . . . . . . . . ?                                       | 24 |

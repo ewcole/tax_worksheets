@@ -69,3 +69,74 @@ For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate in
 Cat. No. 11320B
 Form 1040
 
+12
+a
+Tax (see inst.) Check if any from Form(s): 1 8814 2 4972 3
+12a
+b
+Add Schedule 2, line 3, and line 12a and enter the total . . . . . . . . . . . . . . ▶
+12b
+13
+a
+Child tax credit or credit for other dependents . . . . . . . . . .
+13a
+b
+Add Schedule 3, line 7, and line 13a and enter the total . . . . . . . . . . . . . . ▶
+13b
+14
+Subtract line 13b from line 12b. If zero or less, enter -0- . . . . . . . . . . . . . . .
+14
+15
+Other taxes, including self-employment tax, from Schedule 2, line 10 . . . . . . . . . . . .
+15
+16
+Add lines 14 and 15. This is your total tax . . . . . . . . . . . . . . . . . . ▶
+16
+17
+Federal income tax withheld from Forms W-2 and 1099 . . . . . . . . . . . . . . .
+17
+18
+Other payments and refundable credits:
+a
+Earned income credit (EIC) . . . . . . . . . . . . . . .
+• If you have a
+qualifying child,
+attach Sch. EIC.
+• If you have
+nontaxable
+combat pay, see
+instructions.
+18a
+b
+Additional child tax credit. Attach Schedule 8812 . . . . . . . . .
+18b
+c
+American opportunity credit from Form 8863, line 8 . . . . . . . .
+18c
+d
+Schedule 3, line 14 . . . . . . . . . . . . . . . . .
+18d
+e
+Add lines 18a through 18d. These are your total other payments and refundable credits . . . . . ▶
+18e
+19
+Add lines 17 and 18e. These are your total payments . . . . . . . . . . . . . . . ▶
+19
+REFUND
+20
+If line 19 is more than line 16, subtract line 16 from line 19. This is the amount you overpaid . . . . . .
+20
+21
+a
+Amount of line 20 you want refunded to you. If Form 8888 is attached, check here . . . . . . ▶
+21a
+22
+Amount of line 20 you want applied to your 2020 estimated tax . . . . ▶
+22
+AMOUNT YOU OWE
+23
+Amount you owe. Subtract line 19 from line 16. For details on how to pay, see instructions . . . . . ▶
+23
+24
+Estimated tax penalty (see instructions) . . . . . . . . . . . ▶
+24
