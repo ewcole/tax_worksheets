@@ -18,7 +18,7 @@
     <Table>
       <Row>
         <Cell ss:MergeAcross="3">
-          <Data ss:Type="String">Form 1040</Data>
+          <Data ss:Type="String">2019 Form 1040</Data>
         </Cell>
       </Row>
       <Row>
@@ -36,7 +36,7 @@
         <Cell>
           <Data ss:Type="String" ss:StyleID="sLineNumber">2a</Data>
         </Cell>
-        <Cell ss:MergeAcross="2">
+        <Cell>
           <Data ss:Type="String">Tax-exempt interest</Data>
         </Cell>
         <Cell>
@@ -47,7 +47,7 @@
         <Cell>
           <Data ss:Type="String" ss:StyleID="sLineNumber">2b</Data>
         </Cell>
-        <Cell>
+        <Cell ss:MergeAcross="2">
           <Data ss:Type="String">Taxable Interest</Data>
         </Cell>
         <Cell>
