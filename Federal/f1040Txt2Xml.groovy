@@ -10,7 +10,7 @@ assert opt
 def input = new File(opt.i);
 assert input.exists();
 def output = new File(opt.i.replaceAll(/\..*$/,'')+'.xml');
-
+System.out.println "creating $output"
 output.withWriter {
   o ->
     o.println "<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>"

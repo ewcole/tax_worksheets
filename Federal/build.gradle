@@ -1,15 +1,38 @@
 task build();
 
-task build_f1040_2019_xml () {
-  inputs.file 'f1040-2019.txt'
-  outputs.file 'f1040-2019.xml'
+ext {
+  rawParser = new File('parse1040dat.groovy');
+  txt2xml = new File('f1040Txt2Xml.groovy');
+  s1Raw = new File('f1040s1-2019-raw.txt');
+  s1Txt = new File('f1040s1-2019.txt');
+}
+
+task build_f1040s1_2019_txt () {
+  inputs.file rawParser
+  inputs.file s1Raw;
+  outputs.file s1Txt;
   doLast {
-    String cmd = "cmd /c f1040Txt2Xml.groovy -i f1040-2019.txt"
-    println cmd.execute().text
-    // f1040-2019.xml
-  
+    String cmd = "cmd /c $rawParser $s1Raw"
+    println cmd;
+    def txt =  cmd.execute().text
+    // s1Txt.withWriter {
+    //   o ->
+    //   txt.readLines().each {
+    //     o.println it;
+    //   }
+    // }
+  }
+}
+task build_f1040s1_2019_xml () {
+  inputs.file s1Txt;
+  outputs.file 'f1040s1-2019.xml';
+  dependsOn 'build_f1040s1_2019_txt'
+  doLast {
+    // String cmd = "cmd /c $txt2xml -i $s1Txt"
+    // println cmd
+    // println cmd.execute().text
   }
   
 }
 
-build.dependsOn "build_f1040_2019_xml"
+build.dependsOn "build_f1040s1_2019_xml"
