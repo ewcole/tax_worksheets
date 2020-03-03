@@ -1,0 +1,28 @@
+Form 1040 SCHEDULE 1    Additional Income and Adjustments to Income     2019
+Part I Additional Income
+|  1 | nullTaxable refunds, credits, or offsets of state and local income taxes                    |   |  1 |
+| 2a | Alimony received                                                                            |   | 2a |
+| 2b | Date of original divorce or separation agreement (see instructions)    | 2b |
+|  3 | Business income or (loss). Attach Schedule C                                                |   |  3 |
+|  4 | Other gains or (losses). Attach Form 4797                                                   |   |  4 |
+|  5 | Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E |   |  5 |
+|  6 | Farm income or (loss). Attach Schedule F                                                    |   |  6 |
+|  7 | Unemployment compensation                                                                   |   |  7 |
+|  8 | Other income. List type and amount    |  8 |
+|  9 | Combine lines 1 through 8. Enter here and on Form 1040 or 1040-SR, line 7a                  |   |  9 |
+Part II Adjustments to Income
+|  10 | Educator expenses                                                                                                |     |  10 |
+|  11 | Certain business expenses of reservists, performing artists, and fee-basis government officials. AttachForm 2106 |     |  11 |
+|  12 | Health savings account deduction. Attach Form 8889                                                               |     |  12 |
+|  13 | Moving expenses for members of the Armed Forces. Attach Form 3903                                                |     |  13 |
+|  14 | Deductible part of self-employment tax. Attach Schedule SE                                                       |     |  14 |
+|  15 | Self-employed SEP, SIMPLE, and qualified plans                                                                   |     |  15 |
+|  16 | Self-employed health insurance deduction                                                                         |     |  16 |
+|  17 | Penalty on early withdrawal of savings                                                                           |     |  17 |
+| 18a | Alimony paid                                                                                                     |     | 18a |
+| 18b | Recipient's SSN                                                                                                  | 18b |     |
+| 18c | Date of original divorce or separation agreement (see instructions)                                              | 18c |     |
+IRA deduction
+| 20 | Student loan interest deduction                                                                               |   | 20 |
+| 21 | Tuition and fees. Attach Form 8917                                                                            |   | 21 |
+| 22 | Add lines 10 through 21. These are your adjustments to income. Enter here and on Form 1040 or1040-SR, line 8a |   | 22 |
