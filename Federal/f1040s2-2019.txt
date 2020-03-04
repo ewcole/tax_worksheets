@@ -1,0 +1,17 @@
+2019 SCHEDULE 2 (Form 1040 or 1040-SR)  Additional Taxes
+
+Part I: Tax
+| 1 | Alternative minimum tax. Attach Form 6251                                   |   | 1 |
+| 2 | Excess advance premium tax credit repayment. Attach Form 8962               |   | 2 |
+| 3 | Add lines 1 and 2. Enter here and include on Form 1040 or 1040-SR, line 12b |   | 3 |
+
+Part II: Other Taxes
+|  4 | Self-employment tax. Attach Schedule SE                                                                               |   |  4 |
+|  5 | Unreported social security and Medicare tax from Form: a:4137 b:8919                                                  |   |  5 |
+|  6 | Additional tax on IRAs, other qualified retirement plans, and other tax-favored accounts. Attach Form5329 if required |   |  6 |
+| 7a | Household employment taxes. Attach Schedule H                                                                         |   | 7a |
+| 7b | Repayment of first-time homebuyer credit from Form 5405. Attach Form 5405 if required                                 |   | 7b |
+|  8 | Taxes from: a:Form 8959  b:Form 8960 c:Instructions; enter code(s)                                                    |   |  8 |
+|  9 | Section 965 net tax liability installment from Form 965-A                                                             | 9 |    |
+| 10 | Add lines 4 through 8. These are your total other taxes. Enter here and on Form 1040 or 1040-SR, line 15              |   | 10 |
+
