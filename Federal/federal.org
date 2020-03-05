@@ -6,3 +6,13 @@
 - [[https://www.irs.gov/pub/irs-pdf/f1040s4.pdf][Schedule 4]]
 - [[https://www.irs.gov/pub/irs-pdf/f1040s5.pdf][Schedule 5]]
 - [[https://www.irs.gov/pub/irs-pdf/f1040s6.pdf][Schedule 6]]
+
+
+
+https://www.irs.gov/site-index-search?search=2441&field_pup_historical_1=1&field_pup_historical=1
+
+* Child Tax Worksheet
+https://www.irs.gov/pub/irs-pdf/i1040gi.pdf
+Instructions for Line 13a
+
+Also see Line 18b.
