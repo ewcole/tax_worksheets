@@ -1,31 +1,29 @@
 2019 Child Tax Credit and Credit for Other Dependents Worksheet Line 13a
-This is from page 36 of the instructions.
+This is from page 35 of the instructions.
 
 Part 1
 | 1a | Number of qualifying children under age 17 with the required social security number                    | 1a |    |
 | 1b | Line 1a * 2000                                                                                         |    | 1b |
 | 2a | Number of other dependents, including qualifying children without the required social security number: | 2a |    |
 | 2b | Line 2a * 500                                                                                          |    | 2b |
-|  3 | Add lines 1 and 2                                                                                      |    | 3  |
+|  3 | Add lines 1 and 2                                                                                      |    |  3 |
 |  4 | Enter the amount from Form 1040 or 1040-SR Line 8b.                                                    |  4 |    |
 |  5 | Enter the amount shown below for your filing status                                                    |  5 |    |
 |    | * Married filing jointly  -- $400.00                                                                   |    |    |
 |    | * All other filing statuses  -- $200.00                                                                |    |    |
-|  6 | Is the amount on line 4 more than the amount on line 5?                                                |    |    |
-
-No:  Leave line 6 blank, enter 0 on line 7 and go to line8
-Yes:  Subtract Line 5 from Line 4.
-
-If the result isn't a multiple of $1,000 increase it to next multiple of $1000.00
-
-| 7 | Multiploy the amount on line 6 by 5%                    |   | 7 |
-| 8 | Is the amount on line 3 more than the amount on line 7? |   | 8 |
-|   | No: Stop./Yes: Subtract line 7 from line 3.1            |   |   |
-|   |                                                         |   |   |
+|  6 | Is the amount on line 4 more than the amount on line 5?                                                |  6 |    |
+|    | No:  Leave line 6 blank, enter 0 on line 7 and go to line8                                             |    |    |
+|    | Yes:  Subtract Line 5 from Line 4.  If the result isn't a                                              |    |    |
+|    | multiple of $1,000 increase it to next multiple of $1000.00                                            |    |    |
+|  7 | Multiply the amount on line 6 by 5%                                                                    |    |  7 |
+|  8 | Is the amount on line 3 more than the amount on line 7?                                                |    |  8 |
+|    | No: Stop./Yes: Subtract line 7 from line 3.1                                                           |    |    |
+|    |                                                                                                        |    |    |
 
 Part 2
 
 |  9 | Enter the amount from Form 1040 line 12b                 |   |  9 |
+| 10 | Enter any amounts from                                   |   |    |
 |    | Schedule 3, line 1                                       |   |    |
 |    | Schedule 3, line 2                                       |   |    |
 |    | Schedule 3, line 3                                       |   |    |
@@ -41,4 +39,4 @@ Part 2
 |    | Is the amount on line 8 more than the amount on line 11? |   |    |
 |    | Yes.  Enter the amount from line 11                      |   |    |
 |    | No.   Enter the amount from line 8.                      |   |    |
-| 12 | Enter this on Form 1040 Line 13a.                        |   |    |
+| 12 | Enter this on Form 1040 Line 13a.                        |   | 12 |
