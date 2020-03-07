@@ -1,0 +1,36 @@
+2019  SCHEDULE 8812  Additional Child Tax Credit
+Part I:   All Filers
+Caution: If you file Form 2555, stop here; you cannot claim the additional child tax credit.
+
+If you are required to use the worksheet in Pub. 972, 
+ enter the amount from line 10 of the Child Tax Credit and Credit for 
+ Other Dependents Worksheet in the publication. Otherwise:- 1040 and 1040-SR filers: 
+Enter the amount from line 8 of your Child Tax Credit and Credit for Other Dependents Worksheet (see the instructions for Forms 1040 and 1040-SR, line 13a).- 1040-NR filers: 
+ Enter the amount from line 8 of your Child Tax Credit and Credit for 
+ Other Dependents Worksheet (see the instructions for Form 1040-NR, line 49).} 
+
+|  1 |                                                                                             ||  1 |
+|  2 | Enter the amount from Form 1040, line 13a; Form 1040-SR, line 13a; or Form 1040-NR, line 49 ||  2 |
+|  3 | Subtract line 2 from line 1. If zero, stop here; you cannot claim this credit               ||  3 |
+| 4a | Number of qualifying children under 17 with the required social security number:            || 4a |
+| 4b | x $1,400.Enter the result. If zero, stop here; you cannot claim this credit                 || 4b |
+|  4 |                                                                                             ||  4 |
+TIP: The number of children you use for this line is the same as the number of children you used for line 1 of the Child Tax Credit and Credit for Other Dependents Worksheet.
+|  5 | Enter the smaller of line 3 or line 4                                                                                                                        |    | 5 |
+| 6a | Earned income (see instructions)                                                                                                                             | 6a |   |
+| 6b | Nontaxable combat pay (see instructions)                                                                                                                     | 6b |   |
+|  7 | Is the amount on line 6a more than $2,500? No: Leave line 7 blank and enter -0- on line 8. Yes: Subtract $2,500 from the amount on line 6a. Enter the result | 7  |   |
+|  8 | Multiply the amount on line 7 by 15% (0.15) and enter the result                                                                                             |    | 8 |
+Next. On line 4, is the amount $4,200 or more?
+| 8a | No. If line 8 is zero, stop here; you cannot claim this credit. Otherwise, skip Part II and enter the smaller of line 5 or line 8 on line 15. |   | 8a |
+| 8b | Yes. If line 8 is equal to or more than line 5, skip Part II and enter the amount from line 5 on line 15. Otherwise, go to line 9.            |   | 8b |
+Part IICertain Filers Who Have Three or More Qualifying Children
+|  9 | Withheld social security, Medicare, and Additional Medicare taxes from Form(s) W-2, boxes 4 and 6. If married filing jointly, include your spouse's amounts with yours. If your employer withheld or you paid Additional Medicare Tax or tier 1 RRTA taxes, see instructions                                                                                                                                                        |  9 |    |
+| 10 | - 1040 and 1040-SR filers:Enter the total of the amounts from Schedule 1 (Form 1040 or 1040-SR), line 14, and Schedule 2 (Form 1040 or 1040-SR), line 5, plus any taxes that you identified using code "UT" and entered on Schedule 2 (Form 1040 or 1040-SR), line 8.- 1040-NR filers:Enter the total of the amounts from Form 1040-NR, lines 27 and 56, plus any taxes that you identified using code "UT" and entered on line 60. | 10 |    |
+| 11 | Add lines 9 and 10                                                                                                                                                                                                                                                                                                                                                                                                                  | 11 |    |
+| 12 | - 1040 and 1040-SR filers: Enter the total of the amounts from Form 1040 or 1040-SR, line 18a, and Schedule 3 (Form 1040 or 1040-SR), line 11.- 1040-NR filers: Enter the amount from Form 1040-NR, line 67.                                                                                                                                                                                                                        | 12 |    |
+| 13 | Subtract line 12 from line 11. If zero or less, enter -0-                                                                                                                                                                                                                                                                                                                                                                           |    | 13 |
+| 14 | Enter the larger of line 8 or line 13                                                                                                                                                                                                                                                                                                                                                                                               |    | 14 |
+|    | Next, enter the smaller of line 5 or line 14 on line 15.                                                                                                                                                                                                                                                                                                                                                                            |    |    |
+Part III Additional Child Tax Credit
+| 15 | This is your additional child tax credit |   | 15 |
