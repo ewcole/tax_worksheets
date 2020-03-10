@@ -4,5 +4,6 @@
 Thumbs.db
 *.pdf
 .~lock.*
+.\#*
 
 .gradle/

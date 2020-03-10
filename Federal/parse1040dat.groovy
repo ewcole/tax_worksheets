@@ -27,7 +27,7 @@ def popState = {
 /** Get top of stack */
 def currState = {
   // stateStack[-1]
-  stateStack.first();
+  stateStack.last();
 }
 
 def defState = {
