@@ -1,4 +1,5 @@
 * Locations
+https://www.irs.gov
 ** Schedules
 - [[https://www.irs.gov/pub/irs-pdf/f1040s1.pdf][Schedule 1]]
 - [[https://www.irs.gov/pub/irs-pdf/f1040s2.pdf][Schedule 2]]
@@ -7,8 +8,9 @@
 - [[https://www.irs.gov/pub/irs-pdf/f1040s5.pdf][Schedule 5]]
 - [[https://www.irs.gov/pub/irs-pdf/f1040s6.pdf][Schedule 6]]
 
-
-
+*** Schedule SE
+https://www.irs.gov/forms-pubs/about-schedule-se-form-1040
+[[https://www.irs.gov/pub/irs-pdf/f1040sse.pdf][Schedule SE (Form 1040)(PDF)]]
 https://www.irs.gov/site-index-search?search=2441&field_pup_historical_1=1&field_pup_historical=1
 
 * Child Tax Worksheet
