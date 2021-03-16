@@ -29,6 +29,10 @@
    <NumberFormat/>
    <Protection/>
   </Style>
+  <Style ss:ID="s18" ss:Name="Currency">
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
   <Style ss:ID="s77">
    <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
    <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
@@ -43,14 +47,6 @@
    </Borders>
    <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
     ss:Color="#000000" ss:Bold="1"/>
-  </Style>
-  <Style ss:ID="s83">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
   </Style>
   <Style ss:ID="s85">
    <Borders>
@@ -78,14 +74,6 @@
    <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
     ss:Color="#000000" ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s88">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
-   </Borders>
-  </Style>
   <Style ss:ID="s89">
    <Borders>
     <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
@@ -99,14 +87,6 @@
   <Style ss:ID="s90">
    <Borders/>
    <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s91">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
   </Style>
   <Style ss:ID="s92">
    <Borders/>
@@ -146,14 +126,6 @@
    <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
     ss:Color="#000000" ss:Bold="1"/>
   </Style>
-  <Style ss:ID="s100">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
-  </Style>
   <Style ss:ID="s104">
    <Borders>
     <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
@@ -165,14 +137,6 @@
     <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
    </Borders>
    <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
-  </Style>
-  <Style ss:ID="s107">
-   <Borders>
-    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
-    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
-    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
-   </Borders>
   </Style>
   <Style ss:ID="s124">
    <Borders/>
@@ -197,6 +161,64 @@
    </Borders>
    <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
   </Style>
+  <Style ss:ID="s130" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s131" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s132" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s133" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s134" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s135" ss:Parent="s18">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
  </Styles>
  <Worksheet ss:Name="IRS f1040">
   <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="56" x:FullColumns="1"
@@ -213,101 +235,102 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">1</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s86"><Data ss:Type="String">Wages, salaries, tips, etc. Attach Form(s) W-2</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">1</Data></Cell>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s130"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">2a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Tax-exempt interest</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">2a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
-    <Cell ss:StyleID="s125"/>
+    <Cell ss:StyleID="s131"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">2b</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Taxable Interest</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">2b</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">3a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Qualified dividends</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">3a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
-    <Cell ss:StyleID="s125"/>
+    <Cell ss:StyleID="s131"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">3b</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Ordinary dividends</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">3b</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">4a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">IRA distributions</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">4a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
-    <Cell ss:StyleID="s125"/>
+    <Cell ss:StyleID="s131"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">4b</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Taxable amount</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">4b</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">5a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Pensions and annuities</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">5a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
-    <Cell ss:StyleID="s125"/>
+    <Cell ss:StyleID="s131"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">5b</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Taxable amount</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">5b</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">6a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Social security benefits</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">6a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
-    <Cell ss:StyleID="s125"/>
+    <Cell ss:StyleID="s131"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">6b</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Taxable amount</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">6b</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">7</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Capital gain or (loss). Attach Schedule D if required.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">7</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">8</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Other income from Schedule 1, line 9</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">8</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">9</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 1, 2b, 3b, 4b, 4d, 5b, 6b, 7 and 8. This is your total income.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">9</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=SUM(R[-13]C:R[-1]C)"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">10a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Adjustments to income from Schedule 1, line 22</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">10a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -315,7 +338,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">10b</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Charitable contributions if you take the standard dedution.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">10b</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -323,13 +346,14 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">10c</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 10a and 10b.  These are your total adjustments to income</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">10c</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-2]C[-2]+R[-1]C[-2]"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">11</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Subract line 10c from line 9.  This is your adjusted gross income</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">11</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-4]C-R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:MergeAcross="3" ss:StyleID="s104"><Data ss:Type="String">Standard Deduction for { Single or Married filing separately: $12,400; </Data></Cell>
@@ -350,25 +374,26 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">12</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Standard Deduction or itemized deductions</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">12</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">13</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Qualified business income deduction. Attach Form 8995 or Form 8995-A</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">13</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">14</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 12 and 13</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">14</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row ss:Height="16.5">
     <Cell ss:StyleID="s97"><Data ss:Type="String">15</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s98"><Data ss:Type="String">Taxable income. Subtract line 14 from line 11. If zero or less, enter -0-</Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">15</Data></Cell>
-    <Cell ss:StyleID="s107"/>
+    <Cell ss:StyleID="s134" ss:Formula="=MAX(R[-7]C-R[-1]C,0)"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell><Data ss:Type="String"></Data></Cell>
@@ -380,61 +405,61 @@
     <Cell ss:StyleID="s85"><Data ss:Type="String">16</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s86"><Data ss:Type="String">Tax (see inst.)</Data></Cell>
     <Cell ss:StyleID="s87"><Data ss:Type="String">16</Data></Cell>
-    <Cell ss:StyleID="s88"/>
+    <Cell ss:StyleID="s130"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">17</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Amount from Schedule 2, line 3</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">17</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">18</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add Lines 16 and 17</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">18</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">19</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Child tax credit or credit for other dependents</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">19</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">20</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Amount from Schedule 3, line 7</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">20</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">21</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 19 and 20</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">21</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">22</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Subtract line 21 from line 18. If zero or less, enter -0-</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">22</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-4]C-R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">23</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Other taxes, including self-employment tax, from Schedule 2, line 10</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">23</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">24</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 22 and 23. This is your total tax</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">24</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">25a</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Federal income tax withheld from Forms W-2</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">25a</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -442,7 +467,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">25b</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Federal income tax withheld from Forms 1099</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">25b</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -450,7 +475,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">25c</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Other forms (see instructions)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">25c</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -458,19 +483,20 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">25d</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add Lines 25a through 25c</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">25d</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=SUM(R[-3]C[-2]:R[-1]C[-2])"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">26</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">2020 Estimated tax payments and amount applied from 2019 return</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">26</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132"/>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">27</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Earned income credit (EIC)</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">27</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -478,7 +504,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">28</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Additional child tax credit. Attach Schedule 8812</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">28</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -486,7 +512,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">29</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">American opportunity credit from Form 8863, line 8</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">29</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -494,7 +520,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">30</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Recovery rebate credit</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">30</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -502,7 +528,7 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">31</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Schedule 3, line 13</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">31</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133"/>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -510,13 +536,15 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">32</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 27 through 31. These are your total other payments and refundable credits</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">32</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=SUM(R[-5]C[-2]:R[-1]C[-2])"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">33</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Add lines 25d, 26, and 32. These are your total payments</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">33</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-8]C+R[-7]C+R[-1]C"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:MergeAcross="3" ss:StyleID="s95"><Data ss:Type="String">REFUND</Data></Cell>
@@ -527,19 +555,21 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">34</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">34</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=MAX(R[-2]C-R[-14]C, 0)"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">25a</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Amount of line 34 you want refunded to you.</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">25a</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=R[-1]C"><Data ss:Type="Number">0</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"><Data ss:Type="String">36</Data></Cell>
     <Cell ss:StyleID="s92"><Data ss:Type="String">Amount of line 20 you want applied to your 2020 estimated tax</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">36</Data></Cell>
-    <Cell ss:StyleID="s83"/>
+    <Cell ss:StyleID="s133" ss:Formula="=R[-2]C[2]-R[-1]C[2]"><Data
+      ss:Type="Number">0</Data></Cell>
     <Cell ss:StyleID="s124"/>
     <Cell ss:StyleID="s125"/>
    </Row>
@@ -552,13 +582,14 @@
     <Cell ss:StyleID="s89"><Data ss:Type="String">37</Data></Cell>
     <Cell ss:MergeAcross="2" ss:StyleID="s90"><Data ss:Type="String">Amount you owe. Subtract line 33 from line 24. For details on how to pay, see instructions ?</Data></Cell>
     <Cell ss:StyleID="s82"><Data ss:Type="String">37</Data></Cell>
-    <Cell ss:StyleID="s91"/>
+    <Cell ss:StyleID="s132" ss:Formula="=MAX(R[-18]C-R[-6]C,0)"><Data
+      ss:Type="Number">0</Data></Cell>
    </Row>
    <Row ss:Height="16.5">
     <Cell ss:StyleID="s97"><Data ss:Type="String">38</Data></Cell>
     <Cell ss:StyleID="s98"><Data ss:Type="String">Estimated tax penalty (see instructions) </Data></Cell>
     <Cell ss:StyleID="s99"><Data ss:Type="String">38</Data></Cell>
-    <Cell ss:StyleID="s100"/>
+    <Cell ss:StyleID="s135"/>
     <Cell ss:StyleID="s126"/>
     <Cell ss:StyleID="s127"/>
    </Row>
@@ -571,13 +602,12 @@
    </Print>
    <Zoom>200</Zoom>
    <Selected/>
-   <TopRowVisible>39</TopRowVisible>
+   <TopRowVisible>38</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>47</ActiveRow>
-     <ActiveCol>1</ActiveCol>
-     <RangeSelection>R48C2:R48C4</RangeSelection>
+     <ActiveRow>49</ActiveRow>
+     <ActiveCol>7</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
