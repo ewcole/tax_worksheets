@@ -23,7 +23,8 @@ output.withWriter {
       'xmlns:x': "urn:schemas-microsoft-com:office:excel",
       'xmlns:ss': "urn:schemas-microsoft-com:office:spreadsheet"
     ) {
-      Worksheet('ss:Name': "IRS f1040") {
+    Worksheet('ss:Name': "IRS f1040") {
+      /*
         Styles {
           Style('ss:ID': "Default", 'ss:Name': "Normal") 
           Style('ss:ID': "sLineNumber", 'ss:Name': "LineNumber") {
@@ -54,7 +55,7 @@ output.withWriter {
           Style('ss:ID': "LineText", 'ss:Name': "Normal") {
 
           } 
-        }
+        } */
         Table {
           input.eachLine {
             line ->
@@ -64,7 +65,7 @@ output.withWriter {
                   if (fields.size() > 4) {
                     Cell {
                       Data('ss:Type': "String", 
-                           'ss:StyleID': 'sLineNumber', 
+                           // 'ss:StyleID': 'sLineNumber', 
                            "${fields[1]}")
                     }
                     Cell('ss:MergeAcross':2) {
@@ -72,13 +73,13 @@ output.withWriter {
                     }
                     Cell {
                       Data('ss:Type': "String", 
-                           'ss:StyleID': 'sLineNumber', 
+                           // 'ss:StyleID': 'sLineNumber', 
                            "${fields[1]}")
                     }
                   } else if (fields.size() > 2) {
                     Cell {
                       Data('ss:Type': "String", 
-                           'ss:StyleID': 'sLineNumber', 
+                           // 'ss:StyleID': 'sLineNumber', 
                            "${fields[1]}")
                     }
                     Cell {
@@ -86,7 +87,7 @@ output.withWriter {
                     }
                     Cell {
                       Data('ss:Type': "String", 
-                           'ss:StyleID': 'sLineNumber', 
+                           // 'ss:StyleID': 'sLineNumber', 
                            "${fields[1]}")
                     }
                   }
