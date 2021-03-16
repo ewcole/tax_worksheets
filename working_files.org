@@ -1,4 +1,5 @@
 #+TITLE: Working Files
+* Config    :noexport:
 #+STARTUP: content
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:{} arch:headline
 #+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
@@ -10,6 +11,7 @@
 #+CREATOR: <a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.2.1 (<a href="http://orgmode.org">Org</a> mode 8.2.6)
 #+HTML_CONTAINER: div
 #+HTML_DOCTYPE: xhtml-strict
+
 
 * Files
 - [[file:.gitignore][.gitignore]]
@@ -26,6 +28,8 @@
 ** Federal
 - [[file:Federal/Child_tax_credit_worksheet_2014.xls][Child_tax_credit_worksheet_2014.xls]]
 - [[file:Federal/Child_tax_credit_worksheet_2016.xls][Child_tax_credit_worksheet_2016.xls]]
+- [[file:Federal/Child_tax_credit_worksheet_2019.txt][Child_tax_credit_worksheet_2019.txt]]
+- [[file:Federal/Child_tax_credit_worksheet_2019.xlsx][Child_tax_credit_worksheet_2019.xlsx]]
 - [[file:Federal/build.gradle][build.gradle]]
 - [[file:Federal/f1040-2015.dat][f1040-2015.dat]]
 - [[file:Federal/f1040-2015.txt][f1040-2015.txt]]
@@ -40,22 +44,31 @@
 - [[file:Federal/f1040-2018.fods][f1040-2018.fods]]
 - [[file:Federal/f1040-2018.txt][f1040-2018.txt]]
 - [[file:Federal/f1040-2018.xlsx][f1040-2018.xlsx]]
-- [[file:Federal/f1040-2019-raw.txt][f1040-2019-raw.txt]]
 - [[file:Federal/f1040-2019.fods][f1040-2019.fods]]
 - [[file:Federal/f1040-2019.txt][f1040-2019.txt]]
 - [[file:Federal/f1040-2019.xlsx][f1040-2019.xlsx]]
 - [[file:Federal/f1040-2019.xml][f1040-2019.xml]]
+- [[file:Federal/f1040-combined-2019.xlsx][f1040-combined-2019.xlsx]]
 - [[file:Federal/f1040-worksheet-2014.xls][f1040-worksheet-2014.xls]]
 - [[file:Federal/f1040-worksheet.xls][f1040-worksheet.xls]]
 - [[file:Federal/f1040.txt][f1040.txt]]
 - [[file:Federal/f1040Txt2Xml.groovy][f1040Txt2Xml.groovy]]
 - [[file:Federal/f1040_2014.txt][f1040_2014.txt]]
+- [[file:Federal/f1040s1-2019.fods][f1040s1-2019.fods]]
+- [[file:Federal/f1040s1-2019.txt][f1040s1-2019.txt]]
+- [[file:Federal/f1040s1-2019.xlsx][f1040s1-2019.xlsx]]
 - [[file:Federal/f1040s1.fods][f1040s1.fods]]
 - [[file:Federal/f1040s1.txt][f1040s1.txt]]
 - [[file:Federal/f1040s1.xlsx][f1040s1.xlsx]]
+- [[file:Federal/f1040s2-2019.txt][f1040s2-2019.txt]]
+- [[file:Federal/f1040s2-2019.xlsx][f1040s2-2019.xlsx]]
+- [[file:Federal/f1040s3-2019.txt][f1040s3-2019.txt]]
+- [[file:Federal/f1040s3-2019.xlsx][f1040s3-2019.xlsx]]
 - [[file:Federal/f1040s4.fods][f1040s4.fods]]
 - [[file:Federal/f1040s4.txt][f1040s4.txt]]
 - [[file:Federal/f1040s4.xlsx][f1040s4.xlsx]]
+- [[file:Federal/f1040sse-2019.txt][f1040sse-2019.txt]]
+- [[file:Federal/f1040sse-2019.xls][f1040sse-2019.xls]]
 - [[file:Federal/f1040sse.txt][f1040sse.txt]]
 - [[file:Federal/f1040sse.xls][f1040sse.xls]]
 - [[file:Federal/f1040sse.xml][f1040sse.xml]]
@@ -63,6 +76,8 @@
 - [[file:Federal/parse1040dat.groovy][parse1040dat.groovy]]
 - [[file+emacs:Federal/s8812-2017.html][s8812-2017.html]]
 - [[file:Federal/s8812-2017.xlsx][s8812-2017.xlsx]]
+- [[file:Federal/s8812-2019.txt][s8812-2019.txt]]
+- [[file:Federal/s8812-2019.xlsx][s8812-2019.xlsx]]
 - [[file:Federal/w2-2015.txt][w2-2015.txt]]
 - [[file:Federal/w2-2015.xls][w2-2015.xls]]
 - [[file:Federal/w2-2016.xls][w2-2016.xls]]
