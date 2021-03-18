@@ -5,6 +5,7 @@ Thumbs.db
 *.pdf
 .~lock.*
 .\#*
+nohup.out
 
 # MS Office backup files
 ~$*\.xlsx
