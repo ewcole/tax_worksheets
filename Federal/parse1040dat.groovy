@@ -1,3 +1,4 @@
+#! /usr/bin/groovy
 // Parse the input file using a recursive descent state machine.
 
 def states = [:]
