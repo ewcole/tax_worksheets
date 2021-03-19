@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="IRS f1040">
+    <Table>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">2019 SCHEDULE 3 (Form 1040 or 1040-SR)  Additional Credits and Payments</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part I: Nonrefundable Credits</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">1</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Foreign tax credit. Attach Form 1116 if required</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">2</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Credit for child and dependent care expenses. Attach Form 2441</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Education credits from Form 8863, line 19</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">4</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Retirement savings contributions credit. Attach Form 8880</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">5</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Residential energy credits. Attach Form 5695</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">6</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Other credits from Form:  a:3800 b:8801 c:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">7</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Add lines 1 through 6. Enter here and include on Form 1040 or 1040-SR, line 13b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">7</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part II: Other Payments and Refundable Credits</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Net premium tax credit. Attach Form 8962</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">9</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Amount paid with request for extension to file (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">10</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Excess social security and tier 1 RRTA tax withheld</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">10</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">11</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Credit for federal tax on fuels. Attach Form 4136</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">11</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Other payments or refundable credits</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Form 2439</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Qualified sick and family leave credits from Schedule(s) H and Form(s) 7202</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Health coverage tax credit from Form 8885</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12c</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12d</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Other</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12d</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12e</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Deferral for certain Schedule H or SE filers (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12e</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12f</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Add lines 12a through 12e</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12f</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">13</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Add lines 8 through 13. Enter here and on Form 1040 or 1040-SR, line 18d</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">13</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>

@@ -1,7 +1,10 @@
+#! /usr/bin/groovy
+
+import groovy.xml.*
+
+
 // http://www.openscope.net/2010/02/09/transforming-xml-into-ms-excel-xml/
 // https://msdn.microsoft.com/en-us/library/aa140066%28office.10%29.aspx#odc_xmlss_ss:cell
-// 
-import groovy.xml.*
 
 def cli = new CliBuilder(usage: "Convert text file into spreadsheet, breaking on verticals")
 cli.i(longOpt: "input", args: 1, required: true, "Input file");

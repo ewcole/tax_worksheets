@@ -1,0 +1,23 @@
+2019 SCHEDULE 3 (Form 1040 or 1040-SR)  Additional Credits and Payments
+Part I: Nonrefundable Credits
+| 1 | Foreign tax credit. Attach Form 1116 if required                                | | 1 |
+| 2 | Credit for child and dependent care expenses. Attach Form 2441                  | | 2 |
+| 3 | Education credits from Form 8863, line 19                                       | | 3 |
+| 4 | Retirement savings contributions credit. Attach Form 8880                       | | 4 |
+| 5 | Residential energy credits. Attach Form 5695                                    | | 5 |
+| 6 | Other credits from Form:  a:3800 b:8801 c:                                      | | 6 |
+| 7 | Add lines 1 through 6. Enter here and include on Form 1040 or 1040-SR, line 13b | | 7 |
+
+Part II: Other Payments and Refundable Credits
+|   8 | Net premium tax credit. Attach Form 8962                                    |     |   8 |
+|   9 | Amount paid with request for extension to file (see instructions)           |     |   9 |
+|  10 | Excess social security and tier 1 RRTA tax withheld                         |     |  10 |
+|  11 | Credit for federal tax on fuels. Attach Form 4136                           |     |  11 |
+|     | Other payments or refundable credits                                        |     |     |
+| 12a | Form 2439                                                                   | 12a |     |
+| 12b | Qualified sick and family leave credits from Schedule(s) H and Form(s) 7202 | 12b |     |
+| 12c | Health coverage tax credit from Form 8885                                   | 12c |     |
+| 12d | Other                                                                       | 12d |     |
+| 12e | Deferral for certain Schedule H or SE filers (see instructions)             | 12e |     |
+| 12f | Add lines 12a through 12e                                                   |     | 12f |
+|  13 | Add lines 8 through 13. Enter here and on Form 1040 or 1040-SR, line 18d    |     |  13 |
