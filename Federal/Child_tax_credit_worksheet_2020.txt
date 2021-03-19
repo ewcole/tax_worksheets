@@ -1,0 +1,54 @@
+2019 Child Tax Credit and Credit for Other Dependents Worksheet Line 13a
+This is from page 35 of the instructions.
+
+Part 1
+| 1a | Number of qualifying children under age 17 with the required social security number                    | 1a |    |
+| 1b | Line 1a * 2000                                                                                         |    | 1b |
+| 2a | Number of other dependents, including qualifying children without the required social security number: | 2a |    |
+| 2b | Line 2a * 500                                                                                          |    | 2b |
+|  3 | Add lines 1 and 2                                                                                      |    |  3 |
+|  4 | Enter the amount from line 11 of your Form 1040, 1040-SR, or 1040-NR                                   |  4 |    |
+|  5 | 1040 and 1040-SR filers.  Enter the total of any exclusion of income from                              |  5 |    |
+|    | Puerto Rico; and amounts from Form 2555, lines 45 and 50 and Form 4536,                                |    |    |
+|    | line 15.                                                                                               |    |    |
+|  6 | Add lines 4 and 5.  Enter the total                                                                    |  6 |    |
+|  7 | Enter the amount shown below for your filing status                                                    |  7 |    |
+|    | * Married filing jointly  -- $400.00                                                                   |    |    |
+|    | * All other filing statuses  -- $200.00                                                                |    |    |
+|  8 | Is the amount on line 6 more than the amount on line 7?                                                |  8 |    |
+|    | No:  Leave line 8 blank, enter 0 on line 9 and go to line8                                             |    |    |
+|    | Yes:  Subtract line 7 from line 6.  If the result isn't a                                              |    |    |
+|    | multiple of $1,000 increase it to next multiple of $1000.00                                            |    |    |
+|  9 | Multiply the amount on line 8 by 5%                                                                    |    |  9 |
+| 10 | Is the amount on line 3 more than the amount on line 9?                                                |    | 10 |
+|    | No: Stop./Yes: Subtract line 9 from line 3.1                                                           |    |    |
+|    |                                                                                                        |    |    |
+
+Part 2
+
+|  11 | Enter the amount from Form 1040 line 12b                              |     | 11 |
+|     | Enter any amounts from                                                |     |    |
+| 12a | Schedule 3, line 1                                                    | 12a |    |
+| 12b | Schedule 3, line 2                                                    | 12b |    |
+| 12c | Schedule 3, line 3                                                    | 12c |    |
+| 12d | Schedule 3, line 4                                                    | 12d |    |
+| 12e | Form 5696, Line 30*                                                   | 12e |    |
+| 12f | Form 8910, Line 15*                                                   | 12f |    |
+| 12g | Form 8936, Line 23                                                    | 12g |    |
+| 12h | Schedule R, line 22                                                   | 12h |    |
+|  12 | Enter the total                                                       |     | 12 |
+|  13 | Subtract line 12 from line 11                                         |     | 13 |
+|     | Are you claiming any of the following credits?                        |     |    |
+|     | - Mortgage interest credit, Form 8396.                                |     |    |
+|     | - Adoption credit, Form 8839                                          |     |    |
+|     | - Residential energy efficient                                        |     |    |
+|     | - District of Columbia first-time homebuyer credit, Form 88580        |     |    |
+|     | [ ] No. Enter -0-.                                                    |     |    |
+|     | [ ] Yes.  If you are filing Form 2666, enter -0-.  Otherwise complete |     |    |
+|     | the Line 14 worksheet.                                                |     |    |
+|  14 |                                                                       |     | 14 |
+|  15 | Subtract line 14 from line 13.  Enter the result                      |     | 15 |
+|     | Is the amount on line 10 more than the amount on line 15?             |     |    |
+|     | [ ] No. Enter the amount from line 10.                                |     |    |
+|     | [ ] Yes.  Enter the amount from Line 15                               |     |    |
+|  16 |                                                                       |     | 16 |

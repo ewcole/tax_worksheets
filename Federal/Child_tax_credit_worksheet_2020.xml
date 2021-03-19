@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="IRS f1040">
+    <Table>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">2019 Child Tax Credit and Credit for Other Dependents Worksheet Line 13a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">This is from page 35 of the instructions.</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part 1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">1a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Number of qualifying children under age 17 with the required social security number</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">1a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">1b</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Line 1a * 2000</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">1b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">2a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Number of other dependents, including qualifying children without the required social security number:</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">2a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">2b</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Line 2a * 500</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">2b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Add lines 1 and 2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Enter the amount from line 11 of your Form 1040, 1040-SR, or 1040-NR</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">5</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">1040 and 1040-SR filers.  Enter the total of any exclusion of income from</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Puerto Rico; and amounts from Form 2555, lines 45 and 50 and Form 4536,</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">line 15.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">6</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Add lines 4 and 5.  Enter the total</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">7</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Enter the amount shown below for your filing status</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">7</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">* Married filing jointly  -- $400.00</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">* All other filing statuses  -- $200.00</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Is the amount on line 6 more than the amount on line 7?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No:  Leave line 8 blank, enter 0 on line 9 and go to line8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Yes:  Subtract line 7 from line 6.  If the result isn't a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">multiple of $1,000 increase it to next multiple of $1000.00</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">9</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Multiply the amount on line 8 by 5%</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">10</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Is the amount on line 3 more than the amount on line 9?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">10</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">No: Stop./Yes: Subtract line 9 from line 3.1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row />
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part 2</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">11</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Enter the amount from Form 1040 line 12b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">11</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Enter any amounts from</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Schedule 3, line 1</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Schedule 3, line 2</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Schedule 3, line 3</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12c</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12d</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Schedule 3, line 4</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12d</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12e</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Form 5696, Line 30*</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12e</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12f</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Form 8910, Line 15*</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12f</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12g</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Form 8936, Line 23</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12g</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12h</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Schedule R, line 22</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12h</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Enter the total</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">13</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Subtract line 12 from line 11</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">13</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Are you claiming any of the following credits?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">- Mortgage interest credit, Form 8396.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">- Adoption credit, Form 8839</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">- Residential energy efficient</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">- District of Columbia first-time homebuyer credit, Form 88580</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[ ] No. Enter -0-.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[ ] Yes.  If you are filing Form 2666, enter -0-.  Otherwise complete</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">the Line 14 worksheet.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">14</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">14</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">15</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Subtract line 14 from line 13.  Enter the result</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">15</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Is the amount on line 10 more than the amount on line 15?</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[ ] No. Enter the amount from line 10.</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">[ ] Yes.  Enter the amount from Line 15</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String"></Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">16</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String"></Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">16</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
