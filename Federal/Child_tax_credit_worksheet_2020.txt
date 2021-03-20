@@ -1,4 +1,4 @@
-2019 Child Tax Credit and Credit for Other Dependents Worksheet Line 13a
+2020 Child Tax Credit and Credit for Other Dependents Worksheet Line 13a
 This is from page 35 of the instructions.
 
 Part 1
@@ -8,47 +8,35 @@ Part 1
 | 2b | Line 2a * 500                                                                                          |    | 2b |
 |  3 | Add lines 1 and 2                                                                                      |    |  3 |
 |  4 | Enter the amount from line 11 of your Form 1040, 1040-SR, or 1040-NR                                   |  4 |    |
-|  5 | 1040 and 1040-SR filers.  Enter the total of any exclusion of income from                              |  5 |    |
-|    | Puerto Rico; and amounts from Form 2555, lines 45 and 50 and Form 4536,                                |    |    |
-|    | line 15.                                                                                               |    |    |
-|  6 | Add lines 4 and 5.  Enter the total                                                                    |  6 |    |
-|  7 | Enter the amount shown below for your filing status                                                    |  7 |    |
+|  5 | Enter the amount shown below for your filing status                                                    |  5 |    |
 |    | * Married filing jointly  -- $400.00                                                                   |    |    |
 |    | * All other filing statuses  -- $200.00                                                                |    |    |
-|  8 | Is the amount on line 6 more than the amount on line 7?                                                |  8 |    |
-|    | No:  Leave line 8 blank, enter 0 on line 9 and go to line8                                             |    |    |
-|    | Yes:  Subtract line 7 from line 6.  If the result isn't a                                              |    |    |
+|  6 | Is the amount on line 4 more than the amount on line 5?                                                |  6 |    |
+|    | No:  Leave line 6 blank, enter 0 on line 7 and go to line8                                             |    |    |
+|    | Yes:  Subtract line 5 from line 4.  If the result isn't a                                              |    |    |
 |    | multiple of $1,000 increase it to next multiple of $1000.00                                            |    |    |
-|  9 | Multiply the amount on line 8 by 5%                                                                    |    |  9 |
-| 10 | Is the amount on line 3 more than the amount on line 9?                                                |    | 10 |
-|    | No: Stop./Yes: Subtract line 9 from line 3.1                                                           |    |    |
-|    |                                                                                                        |    |    |
+|  7 | Multiply the amount on line 6 by 5%                                                                    |    |  7 |
+|  8 | Is the amount on line 3 more than the amount on line 7?                                                |    |  8 |
+|    | No: Stop./Yes: Subtract line 7 from line 3. Enter the result and go to part 2.                         |    |    |
 
 Part 2
 
-|  11 | Enter the amount from Form 1040 line 12b                              |     | 11 |
-|     | Enter any amounts from                                                |     |    |
-| 12a | Schedule 3, line 1                                                    | 12a |    |
-| 12b | Schedule 3, line 2                                                    | 12b |    |
-| 12c | Schedule 3, line 3                                                    | 12c |    |
-| 12d | Schedule 3, line 4                                                    | 12d |    |
-| 12e | Form 5696, Line 30*                                                   | 12e |    |
-| 12f | Form 8910, Line 15*                                                   | 12f |    |
-| 12g | Form 8936, Line 23                                                    | 12g |    |
-| 12h | Schedule R, line 22                                                   | 12h |    |
-|  12 | Enter the total                                                       |     | 12 |
-|  13 | Subtract line 12 from line 11                                         |     | 13 |
-|     | Are you claiming any of the following credits?                        |     |    |
-|     | - Mortgage interest credit, Form 8396.                                |     |    |
-|     | - Adoption credit, Form 8839                                          |     |    |
-|     | - Residential energy efficient                                        |     |    |
-|     | - District of Columbia first-time homebuyer credit, Form 88580        |     |    |
-|     | [ ] No. Enter -0-.                                                    |     |    |
-|     | [ ] Yes.  If you are filing Form 2666, enter -0-.  Otherwise complete |     |    |
-|     | the Line 14 worksheet.                                                |     |    |
-|  14 |                                                                       |     | 14 |
-|  15 | Subtract line 14 from line 13.  Enter the result                      |     | 15 |
-|     | Is the amount on line 10 more than the amount on line 15?             |     |    |
-|     | [ ] No. Enter the amount from line 10.                                |     |    |
-|     | [ ] Yes.  Enter the amount from Line 15                               |     |    |
-|  16 |                                                                       |     | 16 |
+|   9 | Enter the amount from Form 1040 or 1040-SR, line 18              |     |  9 |
+|     | Enter any amounts from                                           |     |    |
+| 10a | Schedule 3, line 1                                               | 10a |    |
+| 10b | Schedule 3, line 2                                               | 10b |    |
+| 10c | Schedule 3, line 3                                               | 10c |    |
+| 10d | Schedule 3, line 4                                               | 10d |    |
+| 10e | Form 5696, Line 30*                                              | 10e |    |
+| 10f | Form 8910, Line 15*                                              | 10f |    |
+| 10g | Form 8936, Line 23                                               | 10g |    |
+| 10h | Schedule R, line 22                                              | 10h |    |
+|  10 | Enter the total                                                  |     | 10 |
+|     | Are the amounts on lines 9 and 10 the same?                      |     |    |
+|     | [ ] Yes. STOP.  You can't take the credit, but... see form 8862. |     |    |
+|  11 | [ ] No. Subtract line 10 from line 9                             |     | 11 |
+|     | Is the amount on line 8 more than the amount on line 11?         |     |    |
+|     | [ ] Yes.  Enter the amount from line 1 and check out the         |     |    |
+|     | additional child tax credit                                      |     |    |
+|     | [ ] No. Enter the amount from line 8.                            |     |    |
+|  12 | Enter this amount on Form 1040 or 1040-SR, line 19.              |     | 12 |
