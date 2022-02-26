@@ -55,6 +55,7 @@
 - [[file:Federal/f1040-2020.txt][f1040-2020.txt]]
 - [[file:Federal/f1040-2020.xlsx][f1040-2020.xlsx]]
 - [[file:Federal/f1040-2020.xml][f1040-2020.xml]]
+- [[file:Federal/f1040-2021.xlsx][f1040-2021.xlsx]]
 - [[file:Federal/f1040-combined-2019.xlsx][f1040-combined-2019.xlsx]]
 - [[file:Federal/f1040-worksheet-2014.xls][f1040-worksheet-2014.xls]]
 - [[file:Federal/f1040-worksheet.xls][f1040-worksheet.xls]]

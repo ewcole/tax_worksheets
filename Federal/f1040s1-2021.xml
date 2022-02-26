@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+  <Worksheet ss:Name="IRS f1040">
+    <Table>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Form 1040 SCHEDULE 1    Additional Income and Adjustments to Income     2019</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part I Additional Income</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">1</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">nullTaxable refunds, credits, or offsets of state and local income taxes</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">1</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">2a</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Alimony received</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">2a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">2b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Date of original divorce or separation agreement (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">2b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">3</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Business income or (loss). Attach Schedule C</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">3</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">4</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Other gains or (losses). Attach Form 4797</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">4</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">5</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Rental real estate, royalties, partnerships, S corporations, trusts, etc. Attach Schedule E</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">5</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">6</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Farm income or (loss). Attach Schedule F</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">6</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">7</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Unemployment compensation</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">7</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Other income. List type and amount</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8a</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Net operating loss</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Gambling income</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Cancellation of debt</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8c</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8d</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Foreign earned income exclusion from Form 2555</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8d</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8e</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Taxable Health Savings Account distribution</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8e</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8f</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Alaska Permanent Fund dividends</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8f</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8g</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Jury duty pay</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8g</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8h</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Prizes and awards</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8h</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8i</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Activity not engaged in for profit income</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8i</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8j</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Stock options</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8j</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8k</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Income from the rental of personal property if you engaged in the rental for profit but were not in the business of renting such property</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8k</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8l</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Olympic and Paralympic medals and USOC prize money (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8l</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8m</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Section 951(a) inclusion (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8m</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8n</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Section 951A(a) inclusion (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8n</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8o</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Section 461(l) excess business loss adjustment</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8o</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8p</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Taxable distributions from an ABLE account (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8p</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">8z</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Other income. List type and amount</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">8z</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">9</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Total other income. Add lines 8a through 8z</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">9</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">10</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Combine lines 1 through 7 and 9. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 8</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">10</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Part II Adjustments to Income</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">11</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Educator expenses</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">11</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">12</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Certain business expenses of reservists, performing artists, and fee-basis government officials. AttachForm 2106</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">12</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">13</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Health savings account deduction. Attach Form 8889</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">13</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">14</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Moving expenses for members of the Armed Forces. Attach Form 3903</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">14</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">15</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Deductible part of self-employment tax. Attach Schedule SE</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">15</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">16</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Self-employed SEP, SIMPLE, and qualified plans</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">16</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">17</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Self-employed health insurance deduction</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">17</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">18</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Penalty on early withdrawal of savings</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">18</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">19a</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Alimony paid</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">19a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">20</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">IRA deduction</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">20</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">21</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Student loan interest deduction</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">21</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">22</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Reserved for future use</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">22</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">23</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Archer MSA deduction</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">23</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell ss:MergeAcross="3">
+          <Data ss:Type="String">Other adjustments</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Jury duty pay (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24a</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24b</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Deductible expenses related to income reported on line 8k from the rental of personal property engaged in for profit</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24b</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24c</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Nontaxable amount of the value of Olympic and Paralympic medals and USOC prize money reported on line 8l</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24c</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24d</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Reforestation amortization and expenses</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24d</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24e</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Repayment of supplemental unemployment benefits under the Trade Act of 1974</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24e</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24f</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contributions to section 501(c)(18)(D) pension plans</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24f</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24g</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Contributions by certain chaplains to section 403(b) plans</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24g</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24h</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Attorney fees and court costs for actions involving certain unlawful discrimination claims (see instructions)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24h</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24i</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Attorney fees and court costs you paid in connection with an award from the IRS for information you provided that helped the IRS detect tax law violations</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24i</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24j</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Housing deduction from Form 2555</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24j</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24k</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Excess deductions of section 67(e) expenses from Schedule K-1 (Form 1041)</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24k</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">24z</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">Other adjustments. List type and amount</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">24z</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">25</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Total other adjustments. Add lines 24a through 24z</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">25</Data>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+          <Data ss:Type="String">26</Data>
+        </Cell>
+        <Cell ss:MergeAcross="2">
+          <Data ss:Type="String">Add lines 11 through 23 and 25. These are your adjustments to income. Enter here and on Form 1040 or 1040-SR, line 10, or Form 1040-NR, line 10a</Data>
+        </Cell>
+        <Cell>
+          <Data ss:Type="String">26</Data>
+        </Cell>
+      </Row>
+    </Table>
+  </Worksheet>
+</Workbook>
