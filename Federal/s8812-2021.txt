@@ -97,29 +97,21 @@ Part II-C Additional Child Tax Credit
 
 Schedule 8812 (Form 1040) 2021  Page 3
 Part III
-a
-Enter the amount from line 14f or line 15e, whichever applies ...............
-28a
-b
-Enter the amount from line 14e or line 15d, whichever applies ...............
-28b
+| 28a | Enter the amount from line 14f or line 15e, whichever applies |||28a|
+| 28b | Enter the amount from line 14e or line 15d, whichever applies |||28b|
 | 29 | Excess advance child tax credit payments. Subtract line 28b from line 28a. If zero, stop; you do not owe the additional tax ||| 29 |
 | 30 | Enter the number of qualifying children taken into account in determining the annual advance amount you received for 2021. See your Letter 6419 for this number. If you are missing your Letter 6419, you are filing a joint return, or you received more than one Letter 6419, see the instructions before entering a number on this line ||| 30 |
-Caution: If the amount on this line doesn’t match the number of qualifying children reported to you (and your spouse if filing jointly) on your Letter(s) 6419, the processing of your return will be delayed.
-| 31 | Enter the smaller of line 4a or line 30 ||| 31 |
-| 32 | Subtract line 31 from line 30. If zero, skip to line 40 and enter the amount from line 29; otherwise, continue to line 33 ||| 32 |
-33
-Enter the amount shown below for your filing status.
-• Married filing jointly or Qualifying widow(er)—$60,000
-• Head of household—$50,000
-• All other filing statuses—$40,000
-}
-...............
-33
-| 34 | Subtract line 33 from line 3. If zero or less, enter -0- ||| 34 |
-| 35 | Enter the amount from line 33 ||| 35 |
-| 36 | Divide line 34 by line 35. Enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000 ||| 36 |
-| 37 | Multiply line 32 by $2,000 ||| 37 |
-| 38 | Multiply line 37 by line 36 ||| 38 |
-| 39 | Subtract line 38 from line 37 ||| 39 |
-| 40 | Subtract line 39 from line 29. If zero or less, enter -0-. This is your additional tax. If more than zero, enter this amount on Schedule 2 (Form 1040), line 19 ||| 40 |
+| Caution: If the amount on this line doesn’t match the number of qualifying children reported to you (and your spouse if filing jointly) on your Letter(s) 6419, the processing of your return will be delayed.
+| 31 | Enter the smaller of line 4a or line 30                                                                                   |   |   | 31 |
+| 32 | Subtract line 31 from line 30. If zero, skip to line 40 and enter the amount from line 29; otherwise, continue to line 33 |   |   | 32 |
+| 33 | Enter the amount shown below for your filing status                                                                       |   |   | 33 |
+| - Married filing jointly or Qualifying widow(er)-$60,000
+| - Head of household-$50,000
+| - All other filing statuses-$40,000
+| 34 | Subtract line 33 from line 3. If zero or less, enter -0-                                                                                                        |   |   | 34 |
+| 35 | Enter the amount from line 33                                                                                                                                   |   |   | 35 |
+| 36 | Divide line 34 by line 35. Enter the result as a decimal (rounded to at least three places). If the result is 1.000 or more, enter 1.000                        |   |   | 36 |
+| 37 | Multiply line 32 by $2,000                                                                                                                                      |   |   | 37 |
+| 38 | Multiply line 37 by line 36                                                                                                                                     |   |   | 38 |
+| 39 | Subtract line 38 from line 37                                                                                                                                   |   |   | 39 |
+| 40 | Subtract line 39 from line 29. If zero or less, enter -0-. This is your additional tax. If more than zero, enter this amount on Schedule 2 (Form 1040), line 19 |   |   | 40 |
