@@ -1,0 +1,69 @@
+Line 5 Worksheet
+
+| 1 | Multiply Schedule 8812, line 4b, by $3,600          |   | 1 |
+| 2 | Multiply Schedule 8812, line 4c, by $3,000          |   | 2 |
+| 3 | Add line 1 and line 2                               |   | 3 |
+| 4 | Multiply Schedule 8812, line 4a, by $2,000          |   | 4 |
+| 5 | Subtract line 4 from line 3                         |   | 5 |
+| 6 | Enter the amount shown below for your filing status |   | 6 |
+    Married filing jointly — $12,500
+    Qualifying widow(er) — $2,500
+    Head of household — $4,375
+    All other filing statuses — $6,250
+| 7 | Enter the smaller of line 5 or line 6               |   | 7 |
+| 8 | Enter the amount shown below for your filing status |   | 8 |
+    Married filing jointly or Qualifying widow(er) — $150,000
+    Head of household — $112,500
+    All other filing statuses — $75,000
+| 9 | Subtract line 8 from Schedule 8812, line 3 |   | 9 |
+    If zero or less, enter -0-
+    If more than zero and not a multiple of $1,000, enter the next multiple of $1,000
+    For example, if the result is $425, enter $1,000; if the result is $1,025, enter $2,000, etc.
+| 10 | Multiply line 9 by 5% (0.05)                                 |   | 10 |
+| 11 | Enter the smaller of line 7 or line 10                       |   | 11 |
+| 12 | Subtract line 11 from line 3. Enter on Schedule 8812, line 5 |   | 12 |
+
+Credit Limit Worksheet A
+| 1 | Enter the amount from line 18 of your Form 1040 |   | 1 |
+Add the following amounts (if applicable) from
+| 2a | Schedule 3, line 1           | 2a |   |
+| 2b | Schedule 3, line 2           | 2b |   |
+| 2c | Schedule 3, line 3           | 2c |   |
+| 2d | Schedule 3, line 4           | 2d |   |
+| 2e | Schedule 3 line 61           | 2e |   |
+| 2f | Form 5695, line 30           | 2f |   |
+| 2g | Form 8910, line 15           | 2g |   |
+| 2h | Form 8836, line 23           | 2h |   |
+| 2i | Schedule R, line 22          | 2i |   |
+| 2  | Enter the total              | 2  |   |
+| 3  | Subtract line 2 from line 1. |    | 3 |
+| 4 | If you are not completing Credit Limit Worksheet B, enter -0-; otherwise enter the amount from the Credit Limit Worksheet B |   | 4 |
+| 5 | Subtract line 4 from line 3.  Enter here and on Schedule 8812, line 14c or line 15a whichever applies.                      |   | 5 |
+
+Credit Limit Worksheet B
+|  1 | Enter the amount from Schedule 8812, line 2.                              |    | 1 |
+| 2a | Number of qualifying children from line 4a of Schedule 8812               | 2a |   |
+|  2 | x $1,400.  Enter the result.                                              |    | 2 |
+|  3 | Enter your earned income from line 7 of the Earned Income Worksheet       |    | 3 |
+|  4 | Is the amount on line 3 more than $2,500? (Subtract $2,500 form line 3)   |    | 4 |
+|  5 | Multiply the amount on line 4 by 15% and enter the result                 |    | 5 |
+|  6 | Is line 2 of the worksheet $4200 or more? See the instructions for line 6 |    | 6 |
+|  7 | See the instructions                                                      |  7 |   |
+|  8 | Enter the total of any amounts from                                       |  8 |   |
+- Schedule 1, line 15;
+- Schedule 2, line 5;
+- Schedule 2, line 6;
+- Schedule 2 line 13
+| 9 | Add lines 7 and 8. | 9 |   |
+
+Credit Limit Worksheet B—Continued
+| 10 | The total  amounts from 1040 line 27a and Schedule 3, line 11 or 1040-NR S.3 line 11. | 10 |    |
+| 11 | Stubtract line 10 from line 9.             |   | 11 |
+| 12 | Enter the larger of line 5 or line 11      |   | 12 |
+| 13 | Enter the smaller of line 2 or line 12.    |   | 13 |
+| 14 | Is the amount on line 13 more than line 1? |   | 14 |
+- No. Subtract line 13 from line 1. Enter the result.
+- Yes. Enter -0-.
+| 15 | See the instructions. |   | 15 |
+Enter Line 15 on line 4 of Credit Limit Worksheet A
+

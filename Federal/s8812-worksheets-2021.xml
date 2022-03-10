@@ -1,0 +1,771 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5385</WindowHeight>
+  <WindowWidth>26955</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <MaxChange>0.0001</MaxChange>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s18" ss:Name="Currency">
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="m430222424">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s185">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s186">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s187">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s188">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s189" ss:Parent="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s190">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s191">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s192">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s193" ss:Parent="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s194">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s195">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s196">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Interior ss:Color="#AEAAAA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s197">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#AEAAAA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s200">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s202">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s203">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s204">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s206">
+   <Alignment ss:Vertical="Top"/>
+  </Style>
+  <Style ss:ID="s208">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s220">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#AEAAAA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s221">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#AEAAAA" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s222">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s223">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#E7E6E6" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s227" ss:Parent="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s228" ss:Parent="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s229" ss:Parent="s18">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s231">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s232">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="IRS f1040 s8812 Worksheets">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="67" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15.75">
+   <Column ss:Width="17.25"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="69"/>
+   <Column ss:Width="17.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="72"/>
+   <Column ss:Width="17.25"/>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="s185"><Data ss:Type="String">Line 5 Worksheet</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s186"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s187"><Data ss:Type="String">Multiply Schedule 8812, line 4b, by $3,600</Data></Cell>
+    <Cell ss:StyleID="s188"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s189"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Multiply Schedule 8812, line 4c, by $3,000</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Add line 1 and line 2</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Multiply Schedule 8812, line 4a, by $2,000</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Subtract line 4 from line 3</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=R[-2]C-R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter the amount shown below for your filing status</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    Married filing jointly  $12,500</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    Qualifying widow(er)  $2,500</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    Head of household  $4,375</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    All other filing statuses  $6,250</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter the smaller of line 5 or line 6</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s227" ss:Formula="=MIN(R[-6]C:R[-5]C)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter the amount shown below for your filing status</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:StyleID="s227"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    Married filing jointly or Qualifying widow(er)  $150,000</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    Head of household  $112,500</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    All other filing statuses  $75,000</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Subtract line 8 from Schedule 8812, line 3</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">    If zero or less, enter -0-</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30">
+    <Cell ss:MergeAcross="7" ss:StyleID="s200"><Data ss:Type="String">    If more than zero and not a multiple of $1,000, enter the next multiple of $1,000</Data></Cell>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="33.75">
+    <Cell ss:MergeAcross="7" ss:StyleID="s200"><Data ss:Type="String">    For example, if the result is $425, enter $1,000; if the result is $1,025, enter $2,000, etc.</Data></Cell>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Multiply line 9 by 5% (0.05)</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=ROUND(0.05 *R[-4]C,2)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter the smaller of line 7 or line 10</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=MIN(R[-10]C,R[-1]C)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s202"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s203"><Data ss:Type="String">Subtract line 11 from line 3. Enter on Schedule 8812, line 5</Data></Cell>
+    <Cell ss:StyleID="s204"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:StyleID="s228" ss:Formula="=R[-19]C-R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s206"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="s185"><Data ss:Type="String">Credit Limit Worksheet A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s186"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s187"><Data ss:Type="String">Enter the amount from line 18 of your Form 1040</Data></Cell>
+    <Cell ss:StyleID="s188"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s189"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">Add the following amounts (if applicable) from</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Schedule 3, line 1</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2b</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Schedule 3, line 2</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2b</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2c</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Schedule 3, line 3</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2c</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2d</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Schedule 3, line 4</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2d</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2e</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Schedule 3 line 61</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2e</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2f</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Form 5695, line 30</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2f</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2g</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Form 8910, line 15</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2g</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2h</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Form 8836, line 23</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2h</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2i</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Schedule R, line 22</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2i</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Enter the total</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s229" ss:Formula="=SUM(R[-9]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Subtract line 2 from line 1.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=R[-12]C-R[-1]C[-2]"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">If you are not completing Credit Limit Worksheet B, enter -0-; otherwise enter the amount from the Credit Limit Worksheet B</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s202"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s203"><Data ss:Type="String">Subtract line 4 from line 3.  Enter here and on Schedule 8812, line 14c or line 15a whichever applies.</Data></Cell>
+    <Cell ss:StyleID="s204"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s228" ss:Formula="=R[-2]C-R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s206"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="s185"><Data ss:Type="String">Credit Limit Worksheet B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s186"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s187"><Data ss:Type="String">Enter the amount from Schedule 8812, line 2.</Data></Cell>
+    <Cell ss:StyleID="s188"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s208"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Number of qualifying children from line 4a of Schedule 8812</Data></Cell>
+    <Cell ss:StyleID="s232"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:StyleID="s231"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">x $1,400.  Enter the result.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">2</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=R[-1]C[-2]*1400"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter your earned income from line 7 of the Earned Income Worksheet</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Is the amount on line 3 more than $2,500? (Subtract $2,500 form line 3)</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=MAX(R[-1]C-2500,0)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Multiply the amount on line 4 by 15% and enter the result</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=0.15*R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Is line 2 of the worksheet $4200 or more? See the instructions for line 6</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">See the instructions</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Enter the total of any amounts from</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">- Schedule 1, line 15;</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">- Schedule 2, line 5;</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">- Schedule 2, line 6;</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">- Schedule 2 line 13</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">Add lines 7 and 8.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s229" ss:Formula="=R[-6]C+R[-5]C"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m430222424"><Data ss:Type="String">Credit Limit Worksheet B Continued</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s191"><Data ss:Type="String">The total  amounts from 1040 line 27a and Schedule 3, line 11 or 1040-NR S.3 line 11.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s229"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Stubtract line 10 from line 9.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=R[-3]C[-2]-R[-1]C[-2]"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter the larger of line 5 or line 11</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=MAX(R[-1]C,R[-12]C)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Enter the smaller of line 2 or line 12.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=MIN(R[-16]C,R[-1]C)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">Is the amount on line 13 more than line 1?</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:StyleID="s193" ss:Formula="=MAX(R[-19]C-R[-1]C,0)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">- No. Subtract line 13 from line 1. Enter the result.</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5" ss:StyleID="s194"><Data ss:Type="String">- Yes. Enter -0-.</Data></Cell>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s195"/>
+    <Cell ss:StyleID="s196"/>
+    <Cell ss:StyleID="s197"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s190"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s191"><Data ss:Type="String">See the instructions.</Data></Cell>
+    <Cell ss:StyleID="s192"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:StyleID="s193"/>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="5" ss:StyleID="s222"><Data ss:Type="String">Enter Line 15 on line 4 of Credit Limit Worksheet A</Data></Cell>
+    <Cell ss:StyleID="s223"/>
+    <Cell ss:StyleID="s223"/>
+    <Cell ss:StyleID="s220"/>
+    <Cell ss:StyleID="s221"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s206"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+    <Cell ss:StyleID="s206"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Zoom>154</Zoom>
+   <Selected/>
+   <TopRowVisible>35</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>40</ActiveRow>
+     <ActiveCol>10</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
