@@ -12,11 +12,16 @@ i Nontaxable combat pay election (see instructions) . . . . . . . 1i
 z Add lines 1a through 1h . . . . . . . . . . . . . . . . . . . . . . 1z
 Attach Sch. B
 if required.
-2a Tax-exempt interest . . . 2a b Taxable interest . . . . . 2b
-3a Qualified dividends . . . 3a b Ordinary dividends . . . . . 3b
-4a IRA distributions . . . . 4a b Taxable amount . . . . . . 4b
-5a Pensions and annuities . . 5a b Taxable amount . . . . . . 5b
-6a Social security benefits . . 6a b Taxable amount . . . . . . 6b
+2a Tax-exempt interest . . . 2a
+2b Taxable interest . . . . . 2b
+3a Qualified dividends . . . 3a
+3b Ordinary dividends . . . . . 3b
+4a IRA distributions . . . . 4a
+4b Taxable amount . . . . . . 4b
+5a Pensions and annuities . . 5a
+5b Taxable amount . . . . . . 5b
+6a Social security benefits . . 6a
+6b Taxable amount . . . . . . 6b
 6c If you elect to use the lump-sum election method, check here (see instructions) . . . . .
 7 Capital gain or (loss). Attach Schedule D if required. If not required, check here . . . . . 7
 8 Other income from Schedule 1, line 10 . . . . . . . . . . . . . . . . . . 8
