@@ -54,6 +54,22 @@ output.withWriter {
       Style("ss:ID": "s64") {
         Interior("ss:Color": "#DDEBF7", "ss:Pattern": "Solid")
       }
+      Style("ss:ID": "s66") {
+        Borders {
+          Border("ss:Position": "Bottom",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+          Border("ss:Position": "Left",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+          Border("ss:Position": "Right",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+          Border("ss:Position": "Top",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+        }
+      }
     }
     Worksheet('ss:Name': "IRS f1040") {
       /*
@@ -117,7 +133,6 @@ output.withWriter {
                 // Line number at beginning of row
                 Cell("ss:StyleID": "s63") {
                   Data('ss:Type': "String",
-                       // 'ss:StyleID': 'sLineNumber', 
                        "${fields[1]}")
                 }
                 // Descriptive text.  Expand it as far as width permits
@@ -128,12 +143,13 @@ output.withWriter {
                 ) {
                   Data('ss:Type': "String", "${fields[2]}")
                 }
-                Cell {
+                Cell("ss:StyleID": "s63") {
                   Data('ss:Type': "String", 
                        // 'ss:StyleID': 'sLineNumber', 
                        "${fields[1]}")
                 }
-              
+                Cell("ss:StyleID": "s66") {}
+
               // End experiment
               //////////////////////////////////////////////////////////////////////
               } else if (fields.size() > 4) {
