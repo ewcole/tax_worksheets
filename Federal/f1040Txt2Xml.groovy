@@ -26,9 +26,33 @@ output.withWriter {
       'xmlns:x': "urn:schemas-microsoft-com:office:excel",
       'xmlns:ss': "urn:schemas-microsoft-com:office:spreadsheet"
   ) {
-    Styles  { 
-      Style("ss:ID":"s63") {
+    Styles  {
+      Style("ss:ID": "s63") {
+        Borders {
+          Border("ss:Position": "Bottom",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+          Border("ss:Position": "Left",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+          Border("ss:Position": "Right",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+          Border("ss:Position": "Top",
+                 "ss:LineStyle": "Continuous",
+                 "ss:Weight": "1");
+        }
+        Font("ss:FontName": "Times New Roman",
+             "x:Family": "Roman",
+             "ss:Size": "12",
+             "ss:Color": "#000000",
+             "ss:Bold": "1");
+      }
+      Style("ss:ID":"s65") {
         Alignment("ss:Vertical":"Top", "ss:WrapText":"1")
+      }
+      Style("ss:ID": "s64") {
+        Interior("ss:Color": "#DDEBF7", "ss:Pattern": "Solid")
       }
     }
     Worksheet('ss:Name': "IRS f1040") {
@@ -91,15 +115,17 @@ output.withWriter {
                 }
                 println "dataColumn = $dataColumn: ${fields[dataColumn]}"
                 // Line number at beginning of row
-                Cell {
-                  Data('ss:Type': "String", 
+                Cell("ss:StyleID": "s63") {
+                  Data('ss:Type': "String",
                        // 'ss:StyleID': 'sLineNumber', 
                        "${fields[1]}")
                 }
                 // Descriptive text.  Expand it as far as width permits
                 // Cell('ss:MergeAcross':2) {
                 def mergeAcross = 2 * (dataColumn -1)
-                Cell('ss:MergeAcross': mergeAcross) {
+                Cell('ss:MergeAcross': mergeAcross,
+                     "ss:StyleID":"s64"
+                ) {
                   Data('ss:Type': "String", "${fields[2]}")
                 }
                 Cell {

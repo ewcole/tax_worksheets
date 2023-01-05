@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:generator>LibreOffice/6.3.5.2$Windows_X86_64 LibreOffice_project/dd0751754f11728f69b42ee2af66670068624673</meta:generator><dc:date>2023-01-05T17:50:52.948000000</dc:date><meta:editing-duration>PT8M7S</meta:editing-duration><meta:editing-cycles>1</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:cell-count="175" meta:object-count="0"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">20320</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">30705</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
+     <config:config-item-map-named config:name="Tables">
+      <config:config-item-map-entry config:name="IRS f1040">
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="VerticalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="VerticalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">0</config:config-item>
+       <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+       <config:config-item config:name="ZoomValue" config:type="int">140</config:config-item>
+       <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+       <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+       <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+      </config:config-item-map-entry>
+     </config:config-item-map-named>
+     <config:config-item config:name="ActiveTable" config:type="string">IRS f1040</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">1856</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ZoomValue" config:type="int">140</config:config-item>
+     <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
+     <config:config-item config:name="ShowPageBreakPreview" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+     <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="IsValueHighlightingEnabled" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+     <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+     <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+     <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Lucida Sans" svg:font-family="&apos;Lucida Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Microsoft YaHei" svg:font-family="&apos;Microsoft YaHei&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="0.5in"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:language="en" fo:country="US" style:font-name-asian="Microsoft YaHei" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lucida Sans" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:color="#000000" fo:font-size="18pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:color="#000000" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-size="10pt" fo:font-style="italic" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:number-style style:name="N2">
+   <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
+   <style:table-cell-properties fo:background-color="#dee6ef"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in" fo:border="2.49pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in" fo:border="2.49pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2023-01-05">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
+   <table:table table:name="IRS f1040" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:number-columns-repeated="9" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>Form 1040 (2022) </text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1a</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Total amount from Form(s) W-2, box 1 (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1a</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Household employee wages not reported on Form(s) W-2</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1b</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1c</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Tip income not reported on line 1a (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1c</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1d</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Medicaid waiver payments not reported on Form(s) W-2 (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1d</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1e</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Taxable dependent care benefits from Form 2441, line 26</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1e</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1f</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Employer-provided adoption benefits from Form 8839, line 29</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1f</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1g</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Wages from Form 8919, line 6</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1g</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1h</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Other earned income (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1h</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1i</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Nontaxable combat pay election (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1i</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1z</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 1a through 1h</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>1z</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Tax-exempt interest</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Taxable interest</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>2b</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Qualified dividends</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Ordinary dividends</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>3b</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>IRA distributions</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Taxable amount</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>4b</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>5a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Pensions and annuities</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>5a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>5b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Taxable amount</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>5b</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>6a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Social security benefits</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>6a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>6b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Taxable amount</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>6b</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>6c If you elect to use the lump-sum election method, check here (see instructions) . . . . .</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Capital gain or (loss). Attach Schedule D if required. If not required, check here</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>7</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Other income from Schedule 1, line 10</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>9</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Adjustments to income from Schedule 1, line 26</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>10</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Subtract line 10 from line 9. This is your adjusted gross income</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>11</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>Standard Deduction for { Single or Married filing separately: $12,950;</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p><text:s text:c="25"/>Married filing jointly or Qualifying surviving spouse:$25,900;</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p><text:s text:c="25"/>Head of household:$19,400 }</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>12</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Standard deduction or itemized deductions (from Schedule A)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>12</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>13</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Qualified business income deduction from Form 8995 or Form 8995-A</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>13</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>14</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 12 and 13</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>14</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>15</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>Form 1040 (2022) Page 2</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell table:number-columns-repeated="9"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>TAX AND CREDITS</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>16</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Tax (see instructions). Check if any from Form(s): 1 8814 2 4972 3</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>16</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>17</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Amount from Schedule 2, line 3</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>17</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>18</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 16 and 17</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>18</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>19</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Child tax credit or credit for other dependents from Schedule 8812</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>19</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>20</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Amount from Schedule 3, line 8</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>20</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>21</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 19 and 20</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>21</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>22</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Subtract line 21 from line 18. If zero or less, enter -0-</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>22</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>23</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Other taxes, including self-employment tax, from Schedule 2, line 21</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>23</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>24</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 22 and 23. This is your total tax</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>24</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>Payments 25 Federal income tax withheld from:</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Form(s) W-2</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25a</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25b</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Form(s) 1099</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25b</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25c</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Other forms (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25c</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25d</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 25a through 25c</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>25d</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>26</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>2022 estimated tax payments and amount applied from 2021 return</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>26</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Earned income credit (EIC)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>27</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Additional child tax credit from Schedule 8812</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>American opportunity credit from Form 8863, line 8</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>29</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Reserved for future use</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>30</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>31</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Amount from Schedule 3, line 15</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>31</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>32</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 27, 28, 29, and 31. These are your total other payments and refundable credits</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>32</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>33</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Add lines 25d, 26, and 32. These are your total payments</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>33</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>REFUND</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>34</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>35a</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Amount of line 34 you want refunded to you. If Form 8888 is attached, check here</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>35a</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Amount of line 34 you want applied to your 2023 estimated tax</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="6" table:number-rows-spanned="1">
+      <text:p>AMOUNT YOU OWE</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="5"/>
+     <table:table-cell table:number-columns-repeated="3"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>37</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="7" table:number-rows-spanned="1">
+      <text:p>Subtract line 33 from line 24. This is the amount you owe</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="6"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>37</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>38</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string" table:number-columns-spanned="5" table:number-rows-spanned="1">
+      <text:p>Estimated tax penalty (see instructions)</text:p>
+     </table:table-cell>
+     <table:covered-table-cell table:number-columns-repeated="4"/>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>38</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="2"/>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
