@@ -1,758 +1,458 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0"?>
 <?mso-application progid="Excel.Sheet"?>
-<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
-  <Styles>
-    <Style ss:ID="s63">
-      <Borders>
-        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
-      </Borders>
-      <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12" ss:Color="#000000" ss:Bold="1" />
-    </Style>
-    <Style ss:ID="s65">
-      <Alignment ss:Vertical="Top" ss:WrapText="1" />
-    </Style>
-    <Style ss:ID="s64">
-      <Interior ss:Color="#DDEBF7" ss:Pattern="Solid" />
-    </Style>
-    <Style ss:ID="s66">
-      <Borders>
-        <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1" />
-        <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1" />
-      </Borders>
-    </Style>
-  </Styles>
-  <Worksheet ss:Name="IRS f1040">
-    <Table>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">Form 1040 (2022) </Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Total amount from Form(s) W-2, box 1 (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Household employee wages not reported on Form(s) W-2</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1c</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Tip income not reported on line 1a (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1c</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1d</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Medicaid waiver payments not reported on Form(s) W-2 (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1d</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1e</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Taxable dependent care benefits from Form 2441, line 26</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1e</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1f</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Employer-provided adoption benefits from Form 8839, line 29</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1f</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1g</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Wages from Form 8919, line 6</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1g</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1h</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Other earned income (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1h</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1i</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Nontaxable combat pay election (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1i</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1z</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 1a through 1h</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">1z</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">2a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Tax-exempt interest</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">2a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">2b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Taxable interest</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">2b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">3a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Qualified dividends</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">3a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">3b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Ordinary dividends</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">3b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">4a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">IRA distributions</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">4a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">4b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Taxable amount</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">4b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">5a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Pensions and annuities</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">5a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">5b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Taxable amount</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">5b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">6a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Social security benefits</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">6a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">6b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Taxable amount</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">6b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">6c If you elect to use the lump-sum election method, check here (see instructions) . . . . .</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">7</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Capital gain or (loss). Attach Schedule D if required. If not required, check here</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">7</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">8</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Other income from Schedule 1, line 10</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">8</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">9</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">9</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">10</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Adjustments to income from Schedule 1, line 26</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">10</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">11</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Subtract line 10 from line 9. This is your adjusted gross income</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">11</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">Standard Deduction for { Single or Married filing separately: $12,950;</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">                         Married filing jointly or Qualifying surviving spouse:$25,900;</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">                         Head of household:$19,400 }</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">12</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Standard deduction or itemized deductions (from Schedule A)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">12</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">13</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Qualified business income deduction from Form 8995 or Form 8995-A</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">13</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">14</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 12 and 13</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">14</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">15</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">15</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">Form 1040 (2022) Page 2</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell>
-          <Data ss:Type="String"></Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">TAX AND CREDITS</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">16</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Tax (see instructions). Check if any from Form(s): 1 8814 2 4972 3</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">16</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">17</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Amount from Schedule 2, line 3</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">17</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">18</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 16 and 17</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">18</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">19</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Child tax credit or credit for other dependents from Schedule 8812</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">19</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">20</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Amount from Schedule 3, line 8</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">20</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">21</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 19 and 20</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">21</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">22</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Subtract line 21 from line 18. If zero or less, enter -0-</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">22</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">23</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Other taxes, including self-employment tax, from Schedule 2, line 21</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">23</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">24</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 22 and 23. This is your total tax</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">24</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">Payments 25 Federal income tax withheld from:</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Form(s) W-2</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25b</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Form(s) 1099</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25b</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25c</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Other forms (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25c</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25d</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 25a through 25c</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">25d</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">26</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">2022 estimated tax payments and amount applied from 2021 return</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">26</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">27</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Earned income credit (EIC)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">27</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">28</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Additional child tax credit from Schedule 8812</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">28</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">29</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">American opportunity credit from Form 8863, line 8</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">29</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">30</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Reserved for future use</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">30</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">31</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Amount from Schedule 3, line 15</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">31</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">32</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 27, 28, 29, and 31. These are your total other payments and refundable credits</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">32</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">33</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Add lines 25d, 26, and 32. These are your total payments</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">33</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">REFUND</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">34</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">34</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">35a</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Amount of line 34 you want refunded to you. If Form 8888 is attached, check here</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">35a</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">36</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Amount of line 34 you want applied to your 2023 estimated tax</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">36</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:MergeAcross="5">
-          <Data ss:Type="String">AMOUNT YOU OWE</Data>
-        </Cell>
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">37</Data>
-        </Cell>
-        <Cell ss:MergeAcross="6" ss:StyleID="s64">
-          <Data ss:Type="String">Subtract line 33 from line 24. This is the amount you owe</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">37</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-      <Row>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">38</Data>
-        </Cell>
-        <Cell ss:MergeAcross="4" ss:StyleID="s64">
-          <Data ss:Type="String">Estimated tax penalty (see instructions)</Data>
-        </Cell>
-        <Cell ss:StyleID="s63">
-          <Data ss:Type="String">38</Data>
-        </Cell>
-        <Cell ss:StyleID="s66" />
-      </Row>
-    </Table>
-  </Worksheet>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Edward Cole</LastAuthor>
+  <Created>2023-01-06T03:31:47Z</Created>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8856</WindowHeight>
+  <WindowWidth>23040</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="IRS f1040">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="68" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="14.4">
+   <Column ss:Width="23.400000000000002"/>
+   <Column ss:Index="7" ss:Width="23.400000000000002"/>
+   <Column ss:Index="9" ss:Width="23.400000000000002"/>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">Form 1040 (2022) </Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1a</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Total amount from Form(s) W-2, box 1 (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1b</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Household employee wages not reported on Form(s) W-2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1c</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Tip income not reported on line 1a (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1c</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1d</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Medicaid waiver payments not reported on Form(s) W-2 (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1d</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1e</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Taxable dependent care benefits from Form 2441, line 26</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1e</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1f</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Employer-provided adoption benefits from Form 8839, line 29</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1f</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1g</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Wages from Form 8919, line 6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1g</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1h</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Other earned income (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1h</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1i</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Nontaxable combat pay election (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1i</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1z</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 1a through 1h</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1z</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Tax-exempt interest</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2b</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Taxable interest</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Qualified dividends</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3b</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Ordinary dividends</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">IRA distributions</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4b</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Taxable amount</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Pensions and annuities</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5b</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Taxable amount</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Social security benefits</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6b</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Taxable amount</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">6b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">6c If you elect to use the lump-sum election method, check here (see instructions) . . . . .</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Capital gain or (loss). Attach Schedule D if required. If not required, check here</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Other income from Schedule 1, line 10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Adjustments to income from Schedule 1, line 26</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Subtract line 10 from line 9. This is your adjusted gross income</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">Standard Deduction for { Single or Married filing separately: $12,950;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">                         Married filing jointly or Qualifying surviving spouse:$25,900;</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">                         Head of household:$19,400 }</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Standard deduction or itemized deductions (from Schedule A)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Qualified business income deduction from Form 8995 or Form 8995-A</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 12 and 13</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">Form 1040 (2022) Page 2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">TAX AND CREDITS</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Tax (see instructions). Check if any from Form(s): 1 8814 2 4972 3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">16</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Amount from Schedule 2, line 3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 16 and 17</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">18</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Child tax credit or credit for other dependents from Schedule 8812</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">19</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Amount from Schedule 3, line 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 19 and 20</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Subtract line 21 from line 18. If zero or less, enter -0-</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">23</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Other taxes, including self-employment tax, from Schedule 2, line 21</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">23</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 22 and 23. This is your total tax</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">Payments 25 Federal income tax withheld from:</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Form(s) W-2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25b</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Form(s) 1099</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25b</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25c</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Other forms (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25c</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25d</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 25a through 25c</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">25d</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">2022 estimated tax payments and amount applied from 2021 return</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Earned income credit (EIC)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">27</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">28</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Additional child tax credit from Schedule 8812</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">28</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">29</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">American opportunity credit from Form 8863, line 8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">29</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Reserved for future use</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">30</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Amount from Schedule 3, line 15</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">31</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">32</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 27, 28, 29, and 31. These are your total other payments and refundable credits</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">32</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">33</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 25d, 26, and 32. These are your total payments</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">33</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">REFUND</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">34</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">34</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">35a</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Amount of line 34 you want refunded to you. If Form 8888 is attached, check here</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">35a</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">36</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Amount of line 34 you want applied to your 2023 estimated tax</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">36</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="5"><Data ss:Type="String">AMOUNT YOU OWE</Data></Cell>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">37</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Subtract line 33 from line 24. This is the amount you owe</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">37</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Height="15.600000000000001">
+    <Cell ss:StyleID="s63"><Data ss:Type="String">38</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Estimated tax penalty (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">38</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>3</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R1C6</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
 </Workbook>
