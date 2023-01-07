@@ -1,0 +1,885 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5445</WindowHeight>
+  <WindowWidth>26955</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s18" ss:Name="Currency">
+   <NumberFormat
+    ss:Format="_(&quot;$&quot;* #,##0.00_);_(&quot;$&quot;* \(#,##0.00\);_(&quot;$&quot;* &quot;-&quot;??_);_(@_)"/>
+  </Style>
+  <Style ss:ID="m347803328">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347803348">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347803368">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347806052">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347806072">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347806240">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347806260">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347806280">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347806300">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802704">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802724">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802804">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802120">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347803160">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347803180">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347803200">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802536">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802556">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802348">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802368">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347802912">
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="m347800100">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="16"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s97" ss:Parent="s18">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s104">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s117">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s133" ss:Parent="s18">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s151">
+   <Borders/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s152">
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s153" ss:Parent="s18">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s160">
+   <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s161">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s162">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s163">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s164">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s165">
+   <Alignment ss:Vertical="Top"/>
+   <Borders/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s166">
+   <Alignment ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s170">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s171">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s172" ss:Parent="s18">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s173" ss:Parent="s18">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Swiss" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s174">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s175">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+   </Borders>
+   <Interior ss:Color="#D9D9D9" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s176">
+   <Alignment ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="12"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#DDEBF7" ss:Pattern="Solid"/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="IRS f1040">
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="64" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="15.75">
+   <Column ss:Width="23.25"/>
+   <Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="272.25"/>
+   <Column ss:Width="23.25"/>
+   <Column ss:Index="9" ss:Width="23.25"/>
+   <Row ss:Height="20.25">
+    <Cell ss:MergeAcross="9" ss:StyleID="s71"><Data ss:Type="String">SCHEDULE 8812 (Form 1040)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="s69"><Data ss:Type="String">Credits for Qualifying Children and Other Dependents</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9"/>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347800100"><Data ss:Type="String">Part I</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802912"><Data ss:Type="String">Child Tax Credit and Credit for Other Dependents</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Enter the amount from line 11 of your Form 1040, 1040-SR, or 1040-NR</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">1</Data></Cell>
+    <Cell ss:StyleID="s133"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Enter income from Puerto Rico that you excluded</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2a</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s151"/>
+    <Cell ss:StyleID="s152"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">2b</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Enter the amounts from lines 45 and 50 of your Form 2555</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2b</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s151"/>
+    <Cell ss:StyleID="s152"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">2c</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s65"><Data ss:Type="String">Enter the amount from line 15 of your Form 4563</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2c</Data></Cell>
+    <Cell ss:StyleID="s97"/>
+    <Cell ss:StyleID="s151"/>
+    <Cell ss:StyleID="s152"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">2d</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 2a through 2c</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">2d</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=SUM(R[-3]C[-2]:R[-1]C[-2])"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 1 and 2d</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">3</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=R[-5]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s76"><Data ss:Type="String">Number of qualifying children under age 17 with the required social security number</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">4</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:StyleID="s151"/>
+    <Cell ss:StyleID="s152"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Multiply line 4 by $2,000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">5</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=2000*R[-1]C[-2]"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="32.25">
+    <Cell ss:StyleID="s161"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s162"><Data ss:Type="String">Number of other dependents, including any qualifying children who are not under age 17 or who do not have the required social security number</Data></Cell>
+    <Cell ss:StyleID="s163"><Data ss:Type="String">6</Data></Cell>
+    <Cell ss:StyleID="s164"/>
+    <Cell ss:StyleID="s165"/>
+    <Cell ss:StyleID="s166"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Multiply line 6 by $500</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">7</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=500*R[-1]C[-2]"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Add lines 5 and 7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">8</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=R[-3]C+R[-1]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Enter the amount for your filing status:  Married filing jointly$400,000; All other filing statuses$200,000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">9</Data></Cell>
+    <Cell ss:StyleID="s133"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s160"><Data ss:Type="String">Subtract line 9 from line 3. If zero or less, enter -0-. If more than zero and not a multiple of $1,000, enter the next multiple of $1,000</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">10</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=ROUNDUP(MAX(R[-7]C-R[-1]C,0),-3)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Multiply line 10 by 5% (0.05)</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">11</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=ROUND(R[-1]C*0.05,2)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802348"><Data ss:Type="String"> Is the amount on line 8 more than the amount on line 11?                                                                                                            </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="32.25">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802368"><Data ss:Type="String">No. STOP. You cannot take the child tax credit, credit for other dependents, or additional child tax credit. Skip Parts II-A and II-B.  Enter -0- on lines 14 and 27. </Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Yes. Subtract line 11 from line 8. Enter the result.</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">12</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=MAX(R[-6]C-R[-3]C,0)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Enter the amount from the Credit Limit Worksheet A</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">13</Data></Cell>
+    <Cell ss:StyleID="s133"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s117"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s65"><Data ss:Type="String">Enter the smaller of line 12 or 13. This is your child tax credit and credit for other dependents</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">14</Data></Cell>
+    <Cell ss:StyleID="s133" ss:Formula="=MIN(R[-2]C:R[-1]C)"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802536"><Data ss:Type="String">Enter this amount on Form 1040, 1040-SR, or 1040-NR, line 19.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="53.25">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802556"><Data ss:Type="String">If the amount on line 12 is more than the amount on line 14, you may be able to take the additional child tax credit on Form 1040, 1040-SR, or 1040-NR, line 28. Complete your Form 1040, 1040-SR, or 1040-NR through line 27 (also complete Schedule 3, line 11) before completing Part II-A.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="s72"><Data ss:Type="String">Page 2</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5"/>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347803160"><Data ss:Type="String">Part II-A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347803180"><Data ss:Type="String">Additional Child Tax Credit for All Filers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347803200"><Data ss:Type="String">Caution: If you file Form 2555, you cannot claim the additional child tax credit.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="29.25">
+    <Cell ss:StyleID="s170"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Check this box if you do not want to claim the additional child tax credit. Skip Parts II-A and II-B. Enter -0- on line 27</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">15</Data></Cell>
+    <Cell ss:StyleID="s172"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="32.25">
+    <Cell ss:StyleID="s170"><Data ss:Type="String">16a</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Subtract line 14 from line 12. If zero, stop here; you cannot take the additional child tax credit. Skip Parts II-A and II-B. Enter -0- on line 27</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">16a</Data></Cell>
+    <Cell ss:StyleID="s172" ss:Formula="=MAX(R[-12]C-R[-10]C,0)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">16b</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s162"><Data ss:Type="String">Number of qualifying children under 17 with the required social security number x $1,500:</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">16b</Data></Cell>
+    <Cell ss:StyleID="s173" ss:Formula="=1500*R[-23]C"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s174"/>
+    <Cell ss:StyleID="s175"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802120"><Data ss:Type="String">TIP: The number of children you use for this line is the same as the number of children you used for line 4.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Enter the smaller of line 16a or line 16b</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">17</Data></Cell>
+    <Cell ss:StyleID="s172" ss:Formula="=MIN(R[-3]C,R[-2]C[-2])"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">18a</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s162"><Data ss:Type="String">Earned income (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">18a</Data></Cell>
+    <Cell ss:StyleID="s173"/>
+    <Cell ss:StyleID="s174"/>
+    <Cell ss:StyleID="s175"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">18b</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s162"><Data ss:Type="String">Nontaxable combat pay (see instructions)</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">18b</Data></Cell>
+    <Cell ss:StyleID="s173"/>
+    <Cell ss:StyleID="s174"/>
+    <Cell ss:StyleID="s175"/>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802704"><Data ss:Type="String">Is the amount on line 18a more than $2,500?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802724"><Data ss:Type="String">No : Leave line 19 blank and enter -0- on line 20.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">19</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s176"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><B><Font html:Color="#000000">YES: </Font></B><Font
+       html:Color="#000000">Subtract $2,500 from the amount on line 18a</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">19</Data></Cell>
+    <Cell ss:StyleID="s173" ss:Formula="=MAX(R[-4]C-2500,0)"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s174"/>
+    <Cell ss:StyleID="s175"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Multiply the amount on line 19 by 15% (0.15) and enter the result</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">20</Data></Cell>
+    <Cell ss:StyleID="s172" ss:Formula="=ROUND(0.15*R[-1]C[-2],2)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347802804"><Data ss:Type="String">Next. On line 16b, is the amount $4,500 or more?</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="33">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347806240"><Data ss:Type="String">No: If you are a bona fide resident of Puerto Rico, go to line 21. Otherwise, skip Part II-B and enter the smaller of line 17 or line 20 on line 27.</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347806260"><Data ss:Type="String">Yes: If line 20 is equal to or more than line 17, skip Part II-B and enter the amount from line 17 on line 27. Otherwise, go to line 21.</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347806280"><Data ss:Type="String">Part II-B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347806300"><Data ss:Type="String">Certain Filers Who Have Three or More Qualifying Children and Bona Fide Residents of Puerto Rico</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s170"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Withheld social security, Medicare, and Additional Medicare taxes from Form(s) W-2, boxes 4 and 6. If married filing jointly, include your spouses amounts with yours. If your employer withheld or you paid Additional Medicare Tax or tier 1 RRTA taxes, see instructions</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">21</Data></Cell>
+    <Cell ss:StyleID="s172"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="32.25">
+    <Cell ss:StyleID="s170"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Enter the total of the amounts from Schedule 1 (Form 1040), line 15; Schedule 2 (Form 1040), line 5; Schedule 2 (Form 1040), line 6; and Schedule 2 (Form 1040), line 13</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">22</Data></Cell>
+    <Cell ss:StyleID="s172"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">23</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Add lines 21 and 22</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">23</Data></Cell>
+    <Cell ss:StyleID="s172" ss:Formula="=R[-1]C+R[-2]C"><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347806052"><Data ss:Type="String">1040 and 1040-SR filers:  Enter the total of the amounts from Form 1040 or 1040-SR, line 27, and Schedule 3 (Form 1040), line 11.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347806072"><Data ss:Type="String">1040-NR filers: Enter the amount from Schedule 3 (Form 1040), line 11.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:MergeAcross="4" ss:StyleID="s162"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">24</Data></Cell>
+    <Cell ss:StyleID="s173"/>
+    <Cell ss:StyleID="s174"/>
+    <Cell ss:StyleID="s175"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">25</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Subtract line 24 from line 23. If zero or less, enter -0-</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">25</Data></Cell>
+    <Cell ss:StyleID="s172" ss:Formula="=MAX(R[-4]C-R[-1]C[-2],0)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s170"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s162"><Data ss:Type="String">Enter the larger of line 20 or line 25</Data></Cell>
+    <Cell ss:StyleID="s171"><Data ss:Type="String">26</Data></Cell>
+    <Cell ss:StyleID="s172" ss:Formula="=MAX(R[-14]C,R[-1]C)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347803328"><Data ss:Type="String">Next, enter the smaller of line 17 or line 26 on line 27.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:MergeAcross="9" ss:StyleID="m347803348"><Data ss:Type="String">Part II-C</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9" ss:StyleID="m347803368"><Data ss:Type="String">Additional Child Tax Credit</Data></Cell>
+   </Row>
+   <Row ss:Height="16.5">
+    <Cell ss:StyleID="s104"><Data ss:Type="String">27</Data></Cell>
+    <Cell ss:MergeAcross="6" ss:StyleID="s105"><Data ss:Type="String">This is your additional child tax credit. Enter this amount on Form 1040, 1040-SR, or 1040-NR, line 28</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">27</Data></Cell>
+    <Cell ss:StyleID="s153" ss:Formula="=MAX(R[-26]C,R[-6]C)"><Data
+      ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="9"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>360</HorizontalResolution>
+    <VerticalResolution>360</VerticalResolution>
+   </Print>
+   <Zoom>148</Zoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <RangeSelection>R1C1:R1C10</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

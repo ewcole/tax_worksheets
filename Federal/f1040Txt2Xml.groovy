@@ -186,7 +186,7 @@ output.withWriter {
                 } else {
                   def opts = [:]
                   if (line.size() > 3) {
-                    opts.'ss:MergeAcross' = maxColumns
+                    opts.'ss:MergeAcross' = maxColumns + 4
                   }
                   Cell(opts) { 
                     Data('ss:Type': "String", "$line")
