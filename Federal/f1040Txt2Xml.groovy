@@ -52,6 +52,7 @@ output.withWriter {
         Alignment("ss:Vertical":"Top", "ss:WrapText":"1")
       }
       Style("ss:ID": "s64") {
+        Alignment("ss:Vertical":"Top", "ss:WrapText":"1")
         Interior("ss:Color": "#DDEBF7", "ss:Pattern": "Solid")
       }
       Style("ss:ID": "s66") {
