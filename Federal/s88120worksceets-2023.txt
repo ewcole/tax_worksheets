@@ -1,0 +1,30 @@
+
+1. Enter the amount from Schedule 8812, line 121._____ 
+2. Number of qualifying children under 17 with the required social security number: ____ x $1,600. Enter the result2._____ 
+  TIP: The number of children you use for this line is the same as the number of children you used for line 4 of Schedule 8812.        
+3. Enter your earned income from line 7 of the Earned Income Worksheet3. _____     
+4. Is the amount on line 3 more than $2,500?4. _____     
+  ? No. Leave line 4 blank, enter -0- on line 5, and go to line 6.            
+  ? Yes. Subtract $2,500 from the amount on line 3.
+Enter the result.            
+5. Multiply the amount on line 4 by 15% (0.15) and enter the result5._____ 
+6. On line 2 of this worksheet, is the amount $4,800 or more?      
+  ? No. If you are a bona fide resident of Puerto Rico and line 5 above is less than line 1 above, go to line 7. Otherwise, leave line 7 through 10 blank, enter -0- on line 11, and go to line 12.        
+  ? Yes. If line 5 above is equal to or more than line 1 above, leave lines 7 through 10 blank, enter -0- on line 11, and go to line 12. Otherwise, go to line 7.        
+7. *If your employer withheld or you paid Additional Medicare Tax or Tier 1 RRTA taxes, use the Additional Medicare Tax and RRTA Tax Worksheet to figure the amount to enter; otherwise enter the following amounts.7. _____     
+  
+Social security tax withheld from Form(s) W-2, box 4,
+and Puerto Rico Form(s) 499R-2/W-2PR, box 21, and
+
+Medicare tax withheld from Form(s) W-2, box 6, and
+Puerto Rico Form(s) 499R-2/W-2PR, box 23.
+
+        
+8. *Enter the total of any amounts from -
+Schedule 1, line 15;
+Schedule 2, line 5;
+Schedule 2, line 6; and
+Schedule 2, line 13.
+ 8. _____   
+9. Add lines 7 and 8. Enter the total9. _____   
+
