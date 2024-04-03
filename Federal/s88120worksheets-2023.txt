@@ -12,7 +12,7 @@ Add the following amounts (if applicable) from:
 | 2h | Schedule 3, line 6           | 2h |   |
 | 2i | Schedule 3, line 6m          | 2i |   |
 | 2  | Enter the total.             |    | 2 |
-| 3  | Subtract line 2 from line 1. | 3  |   |
+| 3  | Subtract line 2 from line 1. |    | 3 |
 - Complete Credit Limit Worksheet B only if you meet all the following.
 - 1. You are claiming one or more of the following credits.
 -  a. Mortgage interest credit, Form 8396.
@@ -21,5 +21,5 @@ Add the following amounts (if applicable) from:
 -  d. District of Columbia first-time homebuyer credit, Form 8859.
 - 2. You are not filing Form 2555.            
 - 3. Line 4 of Schedule 8812 is more than zero.            
-| 4 | If you are not completing Credit Limit Worksheet B, enter -0-; otherwise, enter the amount from Credit Limit Worksheet B. | 4 |
-| 5 | Subtract line 4 from line 3. Enter here and on Schedule 8812, line 13.                                                    | 5 |
+| 4 | If you are not completing Credit Limit Worksheet B, enter -0-; otherwise, enter the amount from Credit Limit Worksheet B. |   | 4 |
+| 5 | Subtract line 4 from line 3. Enter here and on Schedule 8812, line 13.                                                    |   | 5 |
