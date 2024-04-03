@@ -1,30 +1,25 @@
-
-1. Enter the amount from Schedule 8812, line 121._____ 
-2. Number of qualifying children under 17 with the required social security number: ____ x $1,600. Enter the result2._____ 
-  TIP: The number of children you use for this line is the same as the number of children you used for line 4 of Schedule 8812.        
-3. Enter your earned income from line 7 of the Earned Income Worksheet3. _____     
-4. Is the amount on line 3 more than $2,500?4. _____     
-  ? No. Leave line 4 blank, enter -0- on line 5, and go to line 6.            
-  ? Yes. Subtract $2,500 from the amount on line 3.
-Enter the result.            
-5. Multiply the amount on line 4 by 15% (0.15) and enter the result5._____ 
-6. On line 2 of this worksheet, is the amount $4,800 or more?      
-  ? No. If you are a bona fide resident of Puerto Rico and line 5 above is less than line 1 above, go to line 7. Otherwise, leave line 7 through 10 blank, enter -0- on line 11, and go to line 12.        
-  ? Yes. If line 5 above is equal to or more than line 1 above, leave lines 7 through 10 blank, enter -0- on line 11, and go to line 12. Otherwise, go to line 7.        
-7. *If your employer withheld or you paid Additional Medicare Tax or Tier 1 RRTA taxes, use the Additional Medicare Tax and RRTA Tax Worksheet to figure the amount to enter; otherwise enter the following amounts.7. _____     
-  
-Social security tax withheld from Form(s) W-2, box 4,
-and Puerto Rico Form(s) 499R-2/W-2PR, box 21, and
-
-Medicare tax withheld from Form(s) W-2, box 6, and
-Puerto Rico Form(s) 499R-2/W-2PR, box 23.
-
-        
-8. *Enter the total of any amounts from -
-Schedule 1, line 15;
-Schedule 2, line 5;
-Schedule 2, line 6; and
-Schedule 2, line 13.
- 8. _____   
-9. Add lines 7 and 8. Enter the total9. _____   
-
+SCHEDULE 8812 (Form 1040)
+Credit Limit Worksheet A
+| 1 | Enter the amount from line 18 of your Form 1040, 1040-SR, or 1040-NR. |   | 1 |
+Add the following amounts (if applicable) from:      
+| 2a | Schedule 3, line 1           | 2a |   |
+| 2b | Schedule 3, line 2           | 2b |   |
+| 2c | Schedule 3, line 3           | 2c |   |
+| 2d | Schedule 3, line 4           | 2d |   |
+| 2e | Schedule 3, line 5b          | 2e |   |
+| 2f | Schedule 3, line 6d          | 2f |   |
+| 2g | Schedule 3, line 6f          | 2g |   |
+| 2h | Schedule 3, line 6           | 2h |   |
+| 2i | Schedule 3, line 6m          | 2i |   |
+| 2  | Enter the total.             |    | 2 |
+| 3  | Subtract line 2 from line 1. | 3  |   |
+- Complete Credit Limit Worksheet B only if you meet all the following.
+- 1. You are claiming one or more of the following credits.
+-  a. Mortgage interest credit, Form 8396.
+-  b. Adoption credit, Form 8839.
+-  c. Residential clean energy credit, Form 5695, Part I.
+-  d. District of Columbia first-time homebuyer credit, Form 8859.
+- 2. You are not filing Form 2555.            
+- 3. Line 4 of Schedule 8812 is more than zero.            
+| 4 | If you are not completing Credit Limit Worksheet B, enter -0-; otherwise, enter the amount from Credit Limit Worksheet B. | 4 |
+| 5 | Subtract line 4 from line 3. Enter here and on Schedule 8812, line 13.                                                    | 5 |
