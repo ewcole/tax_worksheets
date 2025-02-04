@@ -4,18 +4,18 @@ Name(s) shown on Form 1040, 1040-SR, or 1040-NR Your social security number
 
 Part I Tax
 1 Additions to tax:
-a Excess advance premium tax credit repayment. Attach Form 8962 . . . . 1a
-b Repayment of new clean vehicle credit(s) transferred to a registered dealer from Schedule A (Form 8936), Part II. Attach Form 8936 and Schedule A (Form 8936) . . . . . . . . . . . . . . . . . . . . . . . . 1b
-c Repayment of previously owned clean vehicle credit(s) transferred to a registered dealer from Schedule A (Form 8936), Part IV. Attach Form 8936 and Schedule A (Form 8936) . . . . . . . . . . . . . . . . . . 1c
-d Recapture of net EPE from Form 4255, line 2a, column (l) . . . . . . . 1d
-e Excessive payments (EP) from Form 4255. Check applicable box and enter amount. . . . . 1e
+1a Excess advance premium tax credit repayment. Attach Form 8962 . . . . 1a
+1b Repayment of new clean vehicle credit(s) transferred to a registered dealer from Schedule A (Form 8936), Part II. Attach Form 8936 and Schedule A (Form 8936) . . . . . . . . . . . . . . . . . . . . . . . . 1b
+1c Repayment of previously owned clean vehicle credit(s) transferred to a registered dealer from Schedule A (Form 8936), Part IV. Attach Form 8936 and Schedule A (Form 8936) . . . . . . . . . . . . . . . . . . 1c
+1d Recapture of net EPE from Form 4255, line 2a, column (l) . . . . . . . 1d
+1e Excessive payments (EP) from Form 4255. Check applicable box and enter amount. . . . . 1e
 (i) Line 1a, column (n) (ii) Line 1c, column (n)
 (iii) Line 1d, column (n) (iv) Line 2a, column (n) 
-f 20% EP from Form 4255. Check applicable box and enter amount. See instructions. . . . . 1f
+1f 20% EP from Form 4255. Check applicable box and enter amount. See instructions. . . . . 1f
 (i) Line 1a, column (o) (ii) Line 1c, column (o)
 (iii) Line 1d, column (o) (iv) Line 2a, column (o)
-y Other additions to tax (see instructions): 1y
-z Add lines 1a through 1y . . . . . . . . . . . . . . . . . . . . . . . . . . 1z
+1y Other additions to tax (see instructions): 1y
+1z Add lines 1a through 1y . . . . . . . . . . . . . . . . . . . . . . . . . . 1z
 2 Alternative minimum tax. Attach Form 6251 . . . . . . . . . . . . . . . . . . . 2
 3 Add lines 1z and 2. Enter here and on Form 1040, 1040-SR, or 1040-NR, line 17 . . . . . . . 3
 
@@ -38,24 +38,24 @@ Part II Other Taxes
 
 Part II Other Taxes (continued)
 17 Other additional taxes:
-a Recapture of other credits. List type, form number, and amount: 17a
-b Recapture of federal mortgage subsidy, if you sold your home see instructions 17b
-c Additional tax on HSA distributions. Attach Form 8889 . . . . . . . . 17c
-d Additional tax on an HSA because you didn’t remain an eligible individual. Attach Form 8889 . . . . . . . . . . . . . . . . . . . . 17d
-e Additional tax on Archer MSA distributions. Attach Form 8853 . . . . . 17e
-f Additional tax on Medicare Advantage MSA distributions. Attach Form 8853 17f
-g Recapture of a charitable contribution deduction related to a fractional interest in tangible personal property . . . . . . . . . . . . . . . . 17g
-h Income you received from a nonqualified deferred compensation plan that fails to meet the requirements of section 409A . . . . . . . . . . . . 17h
-i Compensation you received from a nonqualified deferred compensation plan described in section 457A . . . . . . . . . . . . . . . . . 17i
-j Section 72(m)(5) excess benefits tax . . . . . . . . . . . . . . 17j
-k Golden parachute payments . . . . . . . . . . . . . . . . 17k
-l Tax on accumulation distribution of trusts . . . . . . . . . . . . 17l
-m Excise tax on insider stock compensation from an expatriated corporation . 17m
-n Look-back interest under section 167(g) or 460(b) from Form 8697 or 8866 . 17n
-o Tax on non-effectively connected income for any part of the year you were a nonresident alien from Form 1040-NR . . . . . . . . . . . . . 17o
-p Any interest from Form 8621, line 16f, relating to distributions from, and dispositions of, stock of a section 1291 fund . . . . . . . . . . . 17p
-q Any interest from Form 8621, line 24 . . . . . . . . . . . . . . 17q
-z Any other taxes. List type and amount: 17z
+7a Recapture of other credits. List type, form number, and amount: 17a
+7b Recapture of federal mortgage subsidy, if you sold your home see instructions 17b
+7c Additional tax on HSA distributions. Attach Form 8889 . . . . . . . . 17c
+7d Additional tax on an HSA because you didn’t remain an eligible individual. Attach Form 8889 . . . . . . . . . . . . . . . . . . . . 17d
+7e Additional tax on Archer MSA distributions. Attach Form 8853 . . . . . 17e
+7f Additional tax on Medicare Advantage MSA distributions. Attach Form 8853 17f
+7g Recapture of a charitable contribution deduction related to a fractional interest in tangible personal property . . . . . . . . . . . . . . . . 17g
+7h Income you received from a nonqualified deferred compensation plan that fails to meet the requirements of section 409A . . . . . . . . . . . . 17h
+7i Compensation you received from a nonqualified deferred compensation plan described in section 457A . . . . . . . . . . . . . . . . . 17i
+7j Section 72(m)(5) excess benefits tax . . . . . . . . . . . . . . 17j
+7k Golden parachute payments . . . . . . . . . . . . . . . . 17k
+7l Tax on accumulation distribution of trusts . . . . . . . . . . . . 17l
+7m Excise tax on insider stock compensation from an expatriated corporation . 17m
+7n Look-back interest under section 167(g) or 460(b) from Form 8697 or 8866 . 17n
+7o Tax on non-effectively connected income for any part of the year you were a nonresident alien from Form 1040-NR . . . . . . . . . . . . . 17o
+7p Any interest from Form 8621, line 16f, relating to distributions from, and dispositions of, stock of a section 1291 fund . . . . . . . . . . . 17p
+7q Any interest from Form 8621, line 24 . . . . . . . . . . . . . . 17q
+7z Any other taxes. List type and amount: 17z
 18 Total additional taxes. Add lines 17a through 17z . . . . . . . . . . . . . . . . . . 18
 19 Recapture of net EPE from Form 4255, line 1d, column (l) . . . . . . . . . . . . . . . 19
 20 Section 965 net tax liability installment from Form 965-A . . . . . . . 20
