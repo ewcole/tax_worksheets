@@ -1,0 +1,22 @@
+Pennsylvania Schedule SP
+
+SECTION III ELIGIBILITY INCOME
+| 1. | PA taxable income from Line 9 of your PA-40 | 1. |
+| 2. | Nontaxable interest, dividends and gains, and/or annualized income | 2. |
+| 3. | Alimony | 3. |
+| 4. | Insurance proceeds and inheritances | 4. |
+| 5. | Gifts, awards, and prizes | 5. |
+| 6. | Non-PA income -- part-year residents and nonresidents | 6. |
+| 7. | Nontaxable military income -- Do not include combat pay | 7. |
+| 8. | Gain excluded from the sale of a residence | 8. |
+| 9. | Nontaxable educational assistance | 9. |
+| 10. | Foster care and cash received for personal purposes | 10. |
+| 11. | Total Eligibility Income | 11. |
+
+SECTION IV CALCULATING YOUR TAX FORGIVENESS CREDIT
+| 12. | PA Tax Liability from your PA-40, Line 12 (if amended return, see instructions) | 12. |
+| 13. | Less Resident Credit from your PA-40, Line 22 | 13. |
+| 14. | Net PA Tax Liability. Subtract Line 13 from Line 12 | 14. |
+| 15. | Percentage of Tax Forgiveness entered as a decimal from the Eligibility Income Table using your dependents from Section II and your Total Eligibility Income from Line 11 | 15. |
+| 16. | Tax Forgiveness Credit. Multiply Line 14 by the decimal on Line 15. | 16. |
+Enter on your PA-40, Line 21.
