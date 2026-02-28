@@ -1,0 +1,4 @@
+#+title: Development Diary
+#+options: toc:nil num:nil html-preamble:nil html-postamble:nil ^:{}
+* 2026-02-28
+Examined 2025 F1040 and applied changes in f1040-2025-combined.xlsx
